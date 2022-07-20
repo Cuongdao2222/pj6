@@ -1360,7 +1360,7 @@
             type: 'POST',
             url: "{{ route('rate-form') }}",
             data: {
-                product_id: {{ $data->id }},
+                product_id: {{ $data->id??'' }},
                 email:$('#email0').val(),
                 name:$('#name0').val(),
                 content:$('#content0').val(),
@@ -1405,7 +1405,7 @@
         product_id_item_viewer = item_local_store;
     }
     
-    product_id_item_viewer.push('{{ $data->id }}');
+    product_id_item_viewer.push('{{ $data->id??'' }}');
     
     product_id_item_viewer = toUniqueArray(product_id_item_viewer);
 

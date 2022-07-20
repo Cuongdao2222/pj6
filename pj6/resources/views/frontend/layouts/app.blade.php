@@ -340,8 +340,8 @@ setTimeout( function () {
             </div>
         </div>
         <div class="logo_top">
-            <a class="logo" href="https://mutosi.com/" title="Mutosi chăm sóc sức khoẻ gia đình bạn">
-            <img class="logo_img" src="https://mutosi.com/images/config/logo---2022-01-1_1644300307.png" alt="Mutosi chăm sóc sức khoẻ gia đình bạn" />
+            <a class="logo" href="/" title="Mutosi chăm sóc sức khoẻ gia đình bạn">
+            <img class="logo_img" src="{{ asset('images/logo.svg') }}" alt="Mutosi chăm sóc sức khoẻ gia đình bạn" / style="width: 295px; height: 140px;">
             </a>
         </div>
         <div class="header_line">
@@ -644,7 +644,7 @@ setTimeout( function () {
                     <!--    end LEVEL 1         -->
                 </li>
                 <li class="level_0 sort " id="level_898" >
-                    <a href="https://mutosi.com/cham-soc-moi-truong" id="menu6_item_898" class="menu_item_a" title="Chăm sóc môi trường">
+                    <a href="#" id="menu6_item_898" class="menu_item_a" title="Chăm sóc môi trường">
                         <span class="icon_svg cls">
                             <svg height="50" viewBox="0 -105 512.001 512" width="50" xmlns="http://www.w3.org/2000/svg">
                                 <path d="m192.765625 301.484375c-5.1875 0-10.226563-2.691406-13.003906-7.5l-18.5-32.042969c-4.144531-7.175781-1.6875-16.351562 5.488281-20.492187s16.347656-1.683594 20.488281 5.492187l18.5 32.042969c4.144531 7.171875 1.6875 16.347656-5.488281 20.488281-2.363281 1.363282-4.941406 2.011719-7.484375 2.011719zm0 0"/>
@@ -681,7 +681,7 @@ setTimeout( function () {
                     <!--    end LEVEL 1         -->
                 </li>
                 <li class="level_0 sort " id="level_861" >
-                    <a href="https://mutosi.com/ct-gioi-thieu-cong-ty.html" id="menu6_item_861" class="menu_item_a" title="Giới thiệu về Mutosi">
+                    <a href="#" id="menu6_item_861" class="menu_item_a" title="Giới thiệu về Mutosi">
                         <span class="icon_svg cls">
                             <svg  enable-background="new 0 0 24 24" height="20" viewBox="0 0 24 24" width="20" xmlns="http://www.w3.org/2000/svg">
                                 <path d="m5.574 15.362-1.267 7.767c-.101.617.558 1.08 1.103.777l6.59-3.642 6.59 3.643c.54.3 1.205-.154 1.103-.777l-1.267-7.767 5.36-5.494c.425-.435.181-1.173-.423-1.265l-7.378-1.127-3.307-7.044c-.247-.526-1.11-.526-1.357 0l-3.306 7.043-7.378 1.127c-.606.093-.848.83-.423 1.265z"/>
@@ -714,7 +714,7 @@ setTimeout( function () {
                     <!--    end LEVEL 1         -->
                 </li>
                 <li class="level_0 sort " id="level_865" >
-                    <a href="https://mutosi.com/he-thong-cua-hang.html" id="menu6_item_865" class="menu_item_a" title="Hệ thống phân phối">
+                    <a href="#" id="menu6_item_865" class="menu_item_a" title="Hệ thống phân phối">
                         <span class="icon_svg cls">
                             <svg width="20" height="20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
                                 <g>
@@ -730,7 +730,7 @@ setTimeout( function () {
                     <!--    end LEVEL 1         -->
                 </li>
                 <li class="level_0 sort " id="level_870" >
-                    <a href="https://mutosi.com/chinh-sach-bao-hanh.html" id="menu6_item_870" class="menu_item_a" title="Chính sách bảo hành">
+                    <a href="#" id="menu6_item_870" class="menu_item_a" title="Chính sách bảo hành">
                         <span class="icon_svg cls">
                             <svg  enable-background="new 0 0 235.067 235.067" height="20" viewBox="0 0 235.067 235.067" width="20" xmlns="http://www.w3.org/2000/svg">
                                 <path d="m206.154 40.373c-.713-.819-1.736-1.305-2.821-1.34-1.081-.098-2.135.38-2.907 1.144l-16.658 16.662c-1.438 1.438-1.536 3.734-.231 5.293 13.019 15.487 20.184 35.166 20.184 55.405s-7.17 39.914-20.184 55.405c-1.305 1.555-1.207 3.851.231 5.293l16.658 16.662c.737.737 1.732 1.148 2.774 1.148.043 0 .09 0 .133-.004 1.085-.035 2.108-.521 2.821-1.34 18.645-21.399 28.913-48.8 28.913-77.161s-10.264-55.768-28.913-77.167z"/>
@@ -746,7 +746,7 @@ setTimeout( function () {
                     <!--    end LEVEL 1         -->
                 </li>
                 <li class="level_0 sort " id="level_871" >
-                    <a href="https://mutosi.com/tuyen-dung.html" id="menu6_item_871" class="menu_item_a" title="Tuyển dụng">
+                    <a href="#" id="menu6_item_871" class="menu_item_a" title="Tuyển dụng">
                         <span class="icon_svg cls">
                             <svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 28.461 28.461" style="enable-background:new 0 0 28.461 28.461;" xml:space="preserve">
                                 <g>
@@ -761,7 +761,7 @@ setTimeout( function () {
                     <!--    end LEVEL 1         -->
                 </li>
                 <li class="level_0 sort " id="level_883" >
-                    <a href="https://mutosi.com/tin-tuc.html" id="menu6_item_883" class="menu_item_a" title="Tin tức">
+                    <a href="#" id="menu6_item_883" class="menu_item_a" title="Tin tức">
                         <span class="icon_svg cls">
                             <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 511.999 511.999" style="enable-background:new 0 0 511.999 511.999;" xml:space="preserve">
                                 <g>
@@ -827,7 +827,7 @@ setTimeout( function () {
                     <!--    end LEVEL 1         -->
                 </li>
                 <li class="level_0 sort " id="level_884" >
-                    <a href="https://mutosi.com/lien-he.html" id="menu6_item_884" class="menu_item_a" title="Liên hệ">
+                    <a href="#" id="menu6_item_884" class="menu_item_a" title="Liên hệ">
                         <span class="icon_svg cls">
                             <svg enable-background="new 0 0 511.34 511.34" height="20" viewBox="0 0 511.34 511.34" width="20" xmlns="http://www.w3.org/2000/svg">
                                 <path d="m403.581 1.573c-3.455-.746-6.15 2.999-4.28 5.998 10.16 16.294 16.036 35.523 16.036 56.099v384c0 20.576-5.876 39.805-16.036 56.099-1.87 2.999.825 6.744 4.28 5.998 31.066-6.708 54.419-34.383 54.419-67.427v-373.34c0-33.044-23.353-60.719-54.419-67.427z"/>
@@ -841,7 +841,7 @@ setTimeout( function () {
                     <!--    end LEVEL 1         -->
                 </li>
                 <li class="level_0 sort " id="level_925" >
-                    <a href="https://mutosi.com/ho-tro.html" id="menu6_item_925" class="menu_item_a" title="Hỗ trợ">
+                    <a href="#" id="menu6_item_925" class="menu_item_a" title="Hỗ trợ">
                         <span class="icon_svg cls">
                             <svg height="12px" viewBox="0 0 512 512" width="12px" xmlns="http://www.w3.org/2000/svg">
                                 <path d="m256 0c-141.164062 0-256 114.835938-256 256s114.835938 256 256 256 256-114.835938 256-256-114.835938-256-256-256zm0 405.332031c-11.777344 0-21.332031-9.554687-21.332031-21.332031s9.554687-21.332031 21.332031-21.332031 21.332031 9.554687 21.332031 21.332031-9.554687 21.332031-21.332031 21.332031zm33.769531-135.636719c-7.550781 3.476563-12.4375 11.09375-12.4375 19.394532v9.578125c0 11.773437-9.535156 21.332031-21.332031 21.332031s-21.332031-9.558594-21.332031-21.332031v-9.578125c0-24.898438 14.632812-47.722656 37.226562-58.15625 21.738281-10.003906 37.4375-36.566406 37.4375-49.601563 0-29.394531-23.914062-53.332031-53.332031-53.332031s-53.332031 23.9375-53.332031 53.332031c0 11.777344-9.539063 21.335938-21.335938 21.335938s-21.332031-9.558594-21.332031-21.335938c0-52.925781 43.070312-96 96-96s96 43.074219 96 96c0 28.824219-25.003906 71.191407-62.230469 88.363281zm0 0"/>
