@@ -3,7 +3,7 @@
         <head >
             <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
             <meta http-equiv="Cache-control" content="public">
-            <title>Mutosi - Số 1 về chất lượng và dịch vụ</title>
+            <title>Số 1 về chất lượng và dịch vụ</title>
 
             <meta name="description" content="Mutosi là nhà sản xuất và phân phối các sản phẩm gia dụng, chăm sóc nước, chăm sóc khí, chăm sóc môi trường Quản trị chất lượng theo chuẩn Nhật Bản cao cấp.," />
             <meta name="keywords" content="Mutosi - Quản trị chất lượng theo chuẩn Nhật Bản với đa dạng sản phẩm chất lượng: Lọc nước, Lọc không khí, Gia dụng Nhà Bếp. ✅ Đạt chuẩn quốc gia. Chăm sóc nước, Chăm sóc khí, Chăm sóc bếp, Chăm sóc gia đình" />
@@ -1165,30 +1165,10 @@ setTimeout( function () {
  <input type="hidden" id="lang_pr" value="fs_products">
  <input type="hidden" id="lang_fs" value="vi">
 
-<div  class="benmarch noc">0.07301 sec| 1017.117 kb</div><script   async='async' language="javascript" type="text/javascript" src="https://mutosi.com/cache/js/4a48147f774124c3cdb74d31aac48602.js?20220712145701" ></script><!-- Facebook Pixel Code -->
-<script>
-  !function(f,b,e,v,n,t,s)
-  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-  n.queue=[];t=b.createElement(e);t.async=!0;
-  t.src=v;s=b.getElementsByTagName(e)[0];
-  s.parentNode.insertBefore(t,s)}(window, document,'script',
-  'https://connect.facebook.net/en_US/fbevents.js');
-  fbq('init', '528560878076860');
-  fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-  src="https://www.facebook.com/tr?id=528560878076860&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->
-<!-- Load Facebook SDK for JavaScript -->
-      <div id="fb-root"></div>
+<div  class="benmarch noc">0.07301 sec| 1017.117 kb</div><script   async='async' language="javascript" type="text/javascript" src="https://mutosi.com/cache/js/4a48147f774124c3cdb74d31aac48602.js?20220712145701" >
+    
+</script><!-- Facebook Pixel Code -->
+
       
 
-      <!-- Your customer chat code -->
-      <div class="fb-customerchat"
-        attribution=setup_tool
-        page_id="224650271791508"
-  theme_color="#0084ff">
-      </div></body></html>
+     

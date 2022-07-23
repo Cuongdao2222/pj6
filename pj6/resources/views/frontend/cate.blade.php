@@ -1,5 +1,7 @@
 @extends('frontend.layouts.app')
 @section('content') 
+
+@push('style')
  <link rel="stylesheet" href="https://dienmaynguoiviet.vn/css/lib/bootstrap.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"/>
 
@@ -1161,161 +1163,502 @@
     <!-- Content -->
 
     <section data-id="235791" data-cate-id="1942" class="detail ">
-    <ul class="breadcrumb">
-        
-        <li>
-            <a href="https://dienmaynguoiviet.vn">Trang chủ</a>
-            <meta property="position" content="1">
-        </li>
-                <li>
-            <span>›</span>
-            <a href="https://dienmaynguoiviet.vn/ti-vi">Tivi</a>
-            <meta property="position" content="2">
-        </li>
-                <!-- <li>
-            <span>›</span>
-            <a href="/tivi?g=smart-tivi">Smart Tivi</a>
-            <meta property="position" content="3">
-            </li> -->
-        <li>
-            <span>›</span>
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-lg-65up7720ptc-65-inch-4k">Smart tivi LG 65UP7720PTC 65 inch 4K</a>
-            <meta property="position" content="4">
-        </li>
-    </ul>
-    <h1>Smart tivi LG 65UP7720PTC 65 inch 4K</h1>
-    <div class="box02">
-        <div class="box02__left">
-            <div class="detail-rate">
-                <p>
-                    <i class="fa-solid fa-star"></i>
-                    <i class="fa-solid fa-star"></i>
-                    <i class="fa-solid fa-star"></i>
-                    <i class="fa-solid fa-star"></i>
-                    <i class="fa-solid fa-star"></i>
-                </p>
-            </div>
-        </div>
-    </div>
-    
-    <div class="box_main">
-        <div class="box_left">
-            <div class="box01">
-                <div class="box01__show">
-                    <div class="owl-carousel detail-slider owl-loaded owl-drag" id="carousel">
-
-                        
-                       
-                                                
-                                                
-                                                
-                                                
-                                                
-                                                
-                                                
-                                                
-                                                
-                                                
-                                                
-                                                
-                                                
-                                                
-                                                
-                                                
-                                                                                            <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-5760px, 0px, 0px); transition: all 0.25s ease 0s; width: 13680px;"><div class="owl-item cloned" style="width: 710px; margin-right: 10px;"><div class="item">
-                            <a href="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_4.jpg" data-fancybox="gallery"><img src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_4.jpg" data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_4.jpg" class=" ls-is-cached lazyloaded" alt="Smart tivi LG 65UP7720PTC 65 inch 4K"></a>
-                            
-                        </div></div><div class="owl-item cloned" style="width: 710px; margin-right: 10px;"><div class="item">
-                            <a href="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_5.jpg" data-fancybox="gallery"><img src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_5.jpg" data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_5.jpg" class=" ls-is-cached lazyloaded" alt="Smart tivi LG 65UP7720PTC 65 inch 4K"></a>
-                            
-                        </div></div><div class="owl-item cloned" style="width: 710px; margin-right: 10px;"><div class="item">
-                            <a href="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_65up7720ptc_115.jpg" data-fancybox="gallery"><img src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_65up7720ptc_115.jpg" data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_65up7720ptc_115.jpg" class="lazyload" alt="Smart tivi LG 65UP7720PTC 65 inch 4K"></a>
-                            
-                        </div></div><div class="owl-item cloned" style="width: 710px; margin-right: 10px;"><div class="item">
-                            <a href="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org.jpg" data-fancybox="gallery"><img src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org.jpg" data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org.jpg" class="lazyload" alt="Smart tivi LG 65UP7720PTC 65 inch 4K"></a>
-                            
-                        </div></div><div class="owl-item cloned" style="width: 710px; margin-right: 10px;"><div class="item">
-                            <a href="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_6.jpg" data-fancybox="gallery"><img src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_6.jpg" data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_6.jpg" class=" ls-is-cached lazyloaded" alt="Smart tivi LG 65UP7720PTC 65 inch 4K"></a>
-                            
-                        </div></div><div class="owl-item" style="width: 710px; margin-right: 10px;"><div class="item">
-                            <a href="https://dienmaynguoiviet.vn/uploads/product/1656294143_km.jpg" data-fancybox="gallery"><img src="https://dienmaynguoiviet.vn/uploads/product/1656294143_km.jpg" alt="Smart tivi LG 65UP7720PTC 65 inch 4K"></a>
-                        </div></div><div class="owl-item" style="width: 710px; margin-right: 10px;"><div class="item">
-                            <a href="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_1.jpg" data-fancybox="gallery"><img src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_1.jpg" data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_1.jpg" class=" ls-is-cached lazyloaded" alt="Smart tivi LG 65UP7720PTC 65 inch 4K"></a>
-                            
-                        </div></div><div class="owl-item" style="width: 710px; margin-right: 10px;"><div class="item">
-                            <a href="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_2.jpg" data-fancybox="gallery"><img src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_2.jpg" data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_2.jpg" class=" ls-is-cached lazyloaded" alt="Smart tivi LG 65UP7720PTC 65 inch 4K"></a>
-                            
-                        </div></div><div class="owl-item active" style="width: 710px; margin-right: 10px;"><div class="item">
-                            <a href="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_3.jpg" data-fancybox="gallery"><img src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_3.jpg" data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_3.jpg" class=" ls-is-cached lazyloaded" alt="Smart tivi LG 65UP7720PTC 65 inch 4K"></a>
-                            
-                        </div></div><div class="owl-item" style="width: 710px; margin-right: 10px;"><div class="item">
-                            <a href="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_4.jpg" data-fancybox="gallery"><img src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_4.jpg" data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_4.jpg" class=" ls-is-cached lazyloaded" alt="Smart tivi LG 65UP7720PTC 65 inch 4K"></a>
-                            
-                        </div></div><div class="owl-item" style="width: 710px; margin-right: 10px;"><div class="item">
-                            <a href="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_5.jpg" data-fancybox="gallery"><img src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_5.jpg" data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_5.jpg" class=" ls-is-cached lazyloaded" alt="Smart tivi LG 65UP7720PTC 65 inch 4K"></a>
-                            
-                        </div></div><div class="owl-item" style="width: 710px; margin-right: 10px;"><div class="item">
-                            <a href="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_65up7720ptc_115.jpg" data-fancybox="gallery"><img src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_65up7720ptc_115.jpg" data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_65up7720ptc_115.jpg" class="lazyload" alt="Smart tivi LG 65UP7720PTC 65 inch 4K"></a>
-                            
-                        </div></div><div class="owl-item" style="width: 710px; margin-right: 10px;"><div class="item">
-                            <a href="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org.jpg" data-fancybox="gallery"><img src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org.jpg" data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org.jpg" class="lazyload" alt="Smart tivi LG 65UP7720PTC 65 inch 4K"></a>
-                            
-                        </div></div><div class="owl-item" style="width: 710px; margin-right: 10px;"><div class="item">
-                            <a href="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_6.jpg" data-fancybox="gallery"><img src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_6.jpg" data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_6.jpg" class="lazyload" alt="Smart tivi LG 65UP7720PTC 65 inch 4K"></a>
-                            
-                        </div></div><div class="owl-item cloned" style="width: 710px; margin-right: 10px;"><div class="item">
-                            <a href="https://dienmaynguoiviet.vn/uploads/product/1656294143_km.jpg" data-fancybox="gallery"><img src="https://dienmaynguoiviet.vn/uploads/product/1656294143_km.jpg" alt="Smart tivi LG 65UP7720PTC 65 inch 4K"></a>
-                        </div></div><div class="owl-item cloned" style="width: 710px; margin-right: 10px;"><div class="item">
-                            <a href="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_1.jpg" data-fancybox="gallery"><img src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_1.jpg" data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_1.jpg" class=" ls-is-cached lazyloaded" alt="Smart tivi LG 65UP7720PTC 65 inch 4K"></a>
-                            
-                        </div></div><div class="owl-item cloned" style="width: 710px; margin-right: 10px;"><div class="item">
-                            <a href="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_2.jpg" data-fancybox="gallery"><img src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_2.jpg" data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_2.jpg" class=" ls-is-cached lazyloaded" alt="Smart tivi LG 65UP7720PTC 65 inch 4K"></a>
-                            
-                        </div></div><div class="owl-item cloned" style="width: 710px; margin-right: 10px;"><div class="item">
-                            <a href="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_3.jpg" data-fancybox="gallery"><img src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_3.jpg" data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_3.jpg" class=" ls-is-cached lazyloaded" alt="Smart tivi LG 65UP7720PTC 65 inch 4K"></a>
-                            
-                        </div></div><div class="owl-item cloned" style="width: 710px; margin-right: 10px;"><div class="item">
-                            <a href="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_4.jpg" data-fancybox="gallery"><img src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_4.jpg" data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/child/5795_smart_tivi_lg_65up7720ptc_65_inch_4k_org_4.jpg" class=" ls-is-cached lazyloaded" alt="Smart tivi LG 65UP7720PTC 65 inch 4K"></a>
-                            
-                        </div></div></div></div><div class="owl-nav"><div class="owl-prev"><i class="fa fa-angle-left"></i></div><div class="owl-next"><i class="fa fa fa-angle-right"></i></div></div><div class="owl-dots"><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div>
+        <ul class="breadcrumb">
+            
+            <li>
+                <a href="{{route('homeFe')}}">Trang chủ</a>
+                <meta property="position" content="1">
+            </li>
+            @if(!empty($groupLink))
+            <li>
+                <span>›</span>
+                <a href="{{ route('details', $groupLink??'') }}">{{ @$groupName }}</a>
+                <meta property="position" content="2">
+            </li>
+            @endif
+            <!-- <li>
+                <span>›</span>
+                <a href="/tivi?g=smart-tivi">Smart Tivi</a>
+                <meta property="position" content="3">
+                </li> -->
+            <li>
+                <span>›</span>
+                <a href="{{ route('details',$data->Link) }}">{{ $data->Name }}</a>
+                <meta property="position" content="4">
+            </li>
+        </ul>
+        <h1>{{ $data->Name }}</h1>
+        <div class="box02">
+            <div class="box02__left">
+                <div class="detail-rate">
+                    <p>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                        <i class="fa-solid fa-star"></i>
+                    </p>
                 </div>
             </div>
-            <div class="pay mobile">
+        </div>
+        
+        <div class="box_main">
+            <div class="box_left">
+                <div class="box01">
+                    <div class="box01__show">
+                        <div class="owl-carousel detail-slider" id="carousel">
+
+                            <div class="item">
+                                <a href="{{ asset($data->Image) }}" data-fancybox="gallery"><img src="{{ asset($data->Image) }}" alt="{{ @$data->Name }}"></a>
+                            </div>
+                           
+                            @isset($images)
+                            @foreach($images as $image)
+
+                            @if(trim($image->image) != trim($data->Image))
+                            <div class="item">
+                                <a href="{{ asset($image->image) }}" data-fancybox="gallery"><img src="{{ asset($image->image) }}"  data-src="{{ asset($image->image) }}" class="lazyload" alt="{{ @$data->Name }}"></a>
+                                
+                            </div>
+                            @endif
+                            @endforeach
+                            @endisset
+                        </div>
+                    </div>
+                </div>
+                <div class="pay mobile">
+                    <div class="col-12 pdetail-des">
+                        <div class="clearfix"></div>
+                        <div>
+                            <div class="pdetail-info">
+                                <p>Model: <b>{{ @$data->ProductSku  }}</b></p>
+                                <!-- <p>Bảo hành: <b>24 Tháng, 1 đổi 1 trong vòng 1 tháng</b></p> -->
+                            </div>
+                            <div class="scroll-box">
+                                <div class="boxbanner-32">
+                                    <div class="banner-list">
+                                        <div class="item banner-item banner-item-1">
+                                            <a target="&quot;_blank&quot;" href="#" data-id="1022">
+                                                <!-- <picture>
+                                                    <img src="https://thegioidohoacom.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2019/01/10040348/X4iNCOp-1024x454.jpg" alt="Tết Lớn Khuyến Mại Lớn" width="&quot;640&quot;" height="&quot;150&quot;">
+                                                </picture> -->
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="pdetail-price">
+                                    <div class="pdetail-price-box">
+                                        {!! @$text !!}
+                                        <h3> {{ str_replace(',' ,'.', number_format($data->Price)) }}₫ </h3>
+                                    </div>
+
+                                    
+                                    
+                                </div>
+                                <div class="pdetail-status">
+                                    <div class="pdetail-stockavailable">
+                                        <?php
+                                            if($data->Quantily==0||$data['Price']==0){
+                                                $status ='Tạm hết hàng';
+                                            
+                                            }
+                                            elseif($data->Quantily<=-1){
+                                                $status ='Ngừng kinh doanh';
+                                            }
+                                            else{
+                                                $status = 'Còn hàng';
+                                            }
+
+
+                                            
+                                            ?>
+                                        <span>{{ $status }}</span>
+                                    </div>
+
+                                     @if(!empty($gift) &&  $data->Quantily>0 &&  $data['Price']>0 && $deal_check_add ==false)
+
+                                    <fieldset class="p-gift">
+                                            <legend id="data-pricetotal" style="color: #ff0000;font-size: 18px; font-weight: bold" data-pricetotal="0">
+                                                Khuyến mãi kèm theo
+                                            </legend>
+                                            <!---->
+                                            <div class="detail-offer">
+                                               
+                                                {{ $gifts->type ==1?'Lựa chọn 1 trong 2 sản phẩm sau':'' }}
+                                                @foreach($gift as $key => $valuegift)
+                                                <div class="select-gift">
+                                                    
+
+                                                    <input type="checkbox" name="gift" value="{{ $valuegift->name }}" class="gift-check">
+                                                    
+                                                    <img src="{{ asset($valuegift->image) }}" height="30px" width="30px">
+
+                                                    @if($valuegift->id ==5)
+                                                    <a href="https://dienmaynguoiviet.vn/khau-trang-loc-khi-lg-puricare-the-he-2-ap551awfa-ajp-may-trang"><h4>{{ $valuegift->name }}</h4></a>
+                                                    @else
+                                                    <h4>{{ $valuegift->name }}</h4>
+                                                    @endif
+                                                </div>
+                                                @endforeach
+                                               
+                                            </div>
+                                            <div class="img-gift clearfix">
+                                            </div>
+                                        </fieldset>
+                                     @endif    
+
+                                    <!-- <div class="pdetail-promotion">
+                                        <div class="pdetail-promotion-body">
+                                            <ul>
+                                                Tặng máy đánh trứng đa năng Roler RHM-1002 trị giá 790,000đ
+                                                <li>Tặng eVoucher trị giá 200,000đ mua phụ kiện IT, phụ kiện Mobile (có giá trị sử dụng trong 07 ngày). Chi tiết xem <a href="https://mediamart.vn/tin-khuyen-mai/tang-voucher-tri-gia-200-000vnd-mua-cac-san-pham-phu-kien" target="_blank">tại đây</a>.</li>
+                                                <li>TÀI TRỢ TRẢ GÓP 0% LÃI SUẤT (*)</li>
+                                            </ul>
+                                            <div class="clearfix"></div>
+                                        </div>
+                                    </div> -->
+
+                                    <!-- mobile -->
+                                    @if($data->Quantily>0)
+                                    <div class="pdetail-add-to-cart add-to-cart">
+                                        <div class="inline">
+                                            <input type="hidden" name="productId" value="{{ $data->id }}">
+                                            <input type="hidden" name="gift_checked"  id="gift_checked" value="">
+                                            <!-- <div class="product-quantity">
+                                                <input type="text" class="quantity-field" readonly="readonly" name="qty" value="1">
+                                                </div> -->
+                                            <button type="button" class="btn btn-lg btn-add-cart btn-add-cart redirectCart" onclick="addToCart({{ $data->id }})">MUA NGAY <br>(Giao hàng tận nơi - Giá tốt - An toàn)</button>
+                                        </div>
+                                        <!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+                                            Launch demo modal
+                                            </button> -->
+                                    </div>
+                                    <div class="clearfix"></div>
+                                    @if((int)$data['Price']>=3000000)
+                                    <div class="installment-purchase pdetail-installment">
+                                       
+                                        <a target="_blank"  href="{{ route('details', $data->Link)  }}?show=tra-gop" admicro-data-event="101725" admicro-data-auto="1" admicro-data-order="false" class="but-1-gop">
+                                        <strong>TRẢ GÓP QUA THẺ</strong>
+                                        <br>
+                                        (Visa, Master, JCB)
+                                        </a>
+                                    </div>
+                                    @endif
+
+                                    @else
+
+                                    <div class="pdetail-add-to-cart add-to-cart">
+                                        <div class="inline">
+                                           
+                                          
+                                            <button type="button" class="btn btn-lg btn-add-cart btn-add-cart redirectCart">Liên hệ</button>
+                                        </div>
+                                       
+                                    </div>
+                                    @endif
+                                </div>
+                                <div class="clearfix"></div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <br>
+
+                <div class="col-md-3 mobile">
+                    <div class="commitment">
+                    <h4>Yên tâm mua sắm</h4>
+                    <ul>
+                        <li>Bảo hành tại nhà</li>
+                        <li>Lắp đặt miễn phí</li>
+                  (Trừ điều hòa, bình nước nóng)
+                        <li>Thanh toán tại nhà</li>
+                        <li>Giao hàng miễn phí 20km</li>
+                        <li>Giá cạnh tranh nhất thị trường</li>
+                        <li>Đổi mới 100% trong 7 ngày đầu</li>
+                            ( Trừ Sanaky, Sony chỉ bảo hành tại nhà )
+                    </ul>
+                    <div class="support">
+                      <h5>Tổng Đài mua hàng</h5>
+                        <a href="tel:02473036336">0247.303.6336</a>
+                      <h5>Tổng Đài mua hàng( Sau 17h )</h5>
+                       <a href="tel:0913011888">091.301.1888</a> 
+                       <a href="tel:0983612828">098.361.2828</a>
+                       
+                                              
+                      
+                       
+                    </div>
+                    </div>
+                </div>
+                <div class="total-imgslider">
+                    <a id="show-popup-featured-images-gallery" style="display: block" href="javascript:void(0)"  data-color-id="0" data-toggle="modal" data-target="#Salient_Features">Xem tất cả điểm nổi bật</a>
+                </div>
+
+                <div class="scrolling_inner">
+                    <div class="box01__tab scrolling">
+                        <div id="thumb-featured-images-gallery-0" class="item itemTab active " data-gallery-id="featured-images-gallery" data-color-id="0" data-is-full-spec="False" data-color-order-id="0" data-isfeatureimage="True" data-toggle="modal" data-target="#Salient_Features" class="read-full" data-gallery-id="featured-images-gallery">
+                            <div class="item-border">
+                                <i class="icondetail-noibat"></i>
+                            </div>
+                            <p>Điểm nổi bật</p>
+                        </div>
+                        <div id="thumb-specification-gallery-0" class="item itemTab  is-show-popup" data-gallery-id="specification-gallery" data-color-id="0" data-is-full-spec="True" data-color-order-id="0" data-isfeatureimage="True">
+                            <div class="item-border">
+                                <i class="icondetail-thongso" data-toggle="modal" data-target="#specifications"></i>
+                            </div>
+                            <p data-toggle="modal" data-target="#specifications">Thông số kỹ thuật</p>
+                        </div>
+
+                       <!--  <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Đóng</button>
+                            </div> -->
+
+                        <div id="thumb-article-gallery-0" class="item itemTab  is-show-popup" data-gallery-id="article-gallery" data-color-id="0" data-is-full-spec="False" data-color-order-id="0" data-isfeatureimage="True">
+                            <div class="item-border">
+                                <i class="icondetail-danhgia"></i>
+                            </div>
+                            <p>Thông tin sản phẩm</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal fade" id="Salient_Features" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5>Đặc điểm nổi bật</h5>
+                            </div>
+
+
+                           
+                            <div class="modal-body" style="padding:0 15px">
+
+                            
+                                {!!  str_replace(['Xem thêm', 'Đặc điểm nổi bật'], '', html_entity_decode($data->Salient_Features))  !!} 
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Đóng</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal fade" id="specifications" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5>Thông số kỹ thuật</h5>
+                                <button type="button" class="btn btn-secondary mobiles" data-dismiss="modal">x</button>
+                            </div>
+
+                            
+                            <div class="modal-body" id="thong-so">
+                                {!!  $data->Specifications  !!} 
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Đóng</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="block-tab">
+                    <div class="bt-overlay"></div>
+                    <ul class="block-tab-top">
+                        <li id="tab-featured-images-gallery-0"
+                            class="tab-item active"
+                            data-is-360-gallery="False"
+                            data-gallery-id="featured-images-gallery"
+                            data-color-id="0"
+                            data-thump-name="&#x110;i&#x1EC3;m n&#x1ED5;i b&#x1EAD;t">
+                            &#x110;i&#x1EC3;m n&#x1ED5;i b&#x1EAD;t
+                        </li>
+                        <li id="tab-color-images-gallery-11"
+                            class="tab-item "
+                            data-is-360-gallery="False"
+                            data-gallery-id="color-images-gallery"
+                            data-color-id="11"
+                            data-thump-name="&#x110;en">
+                            &#x110;en
+                        </li>
+                        <li id="tab-specification-gallery-0"
+                            class="tab-item "
+                            data-is-360-gallery="False"
+                            data-gallery-id="specification-gallery"
+                            data-color-id="0"
+                            data-thump-name="Th&#xF4;ng s&#x1ED1; k&#x1EF9; thu&#x1EAD;t">
+                            Th&#xF4;ng s&#x1ED1; k&#x1EF9; thu&#x1EAD;t
+                        </li>
+                        <li id="tab-article-gallery-0"
+                            class="tab-item "
+                            data-is-360-gallery="False"
+                            data-gallery-id="article-gallery"
+                            data-color-id="0"
+                            data-thump-name="Th&#xF4;ng tin s&#x1EA3;n ph&#x1EA9;m">
+                            Th&#xF4;ng tin s&#x1EA3;n ph&#x1EA9;m
+                        </li>
+                    </ul>
+                    <div class="block-tab-content">
+                        <div class="content-t active not-load-content" id="tab-content-featured-images-gallery-0">
+                        </div>
+                        <div class="content-t  not-load-content" id="tab-content-color-images-gallery-11">
+                        </div>
+                        <div class="content-t  not-load-content" id="tab-content-specification-gallery-0">
+                        </div>
+                        <div class="content-t  not-load-content" id="tab-content-article-gallery-0">
+                        </div>
+                    </div>
+                </div>
+                <div class="wrap_wrtp hide" id="popup-materialsfee">
+                    <div class="pop">
+                    </div>
+                </div>
+                <div class="content">
+                     
+
+                    <?php
+
+                         $minutes = 1000;
+
+                        $check = Cache::remember('check',$minutes, function() use ($data){
+                            return DB::table('imagecrawl')->select('image')->where('product_id', $data->id)->where('active',0)->get()->pluck('image')->toArray();
+                        });
+
+
+                         $details = $data->Detail;
+                        if(isset($check)){
+
+                            
+                            $details = str_replace($check,  asset('/images/product/noimage.png'), $data->Detail);
+                            $details = str_replace(['http://dienmaynguoiviet.net', 'https://dienmaynguoiviet.net'], 'https://dienmaynguoiviet.vn', $details);
+                            $details = preg_replace("/<a(.*?)>/", "<a$1 target=\"_blank\">",  $details);
+                            
+
+                        }
+                       
+                       
+                    ?>
+
+                     {!! html_entity_decode($details)   !!}
+                    
+                </div>
+                <div class="show-more">
+                    <span>Đọc thêm</span>
+                </div>
+                <div class="border7"></div>
+            </div>
+            <div class="box_right desktop">
                 <div class="col-12 pdetail-des">
                     <div class="clearfix"></div>
                     <div>
                         <div class="pdetail-info">
-                            <p>Model: <b>65UP7720PTC</b></p>
+                            <p>Model: <b>{{ @$data->ProductSku  }}</b></p>
                             <!-- <p>Bảo hành: <b>24 Tháng, 1 đổi 1 trong vòng 1 tháng</b></p> -->
                         </div>
                         <div class="scroll-box">
-                            <div class="boxbanner-32">
+                            <!-- <div class="boxbanner-32">
                                 <div class="banner-list">
                                     <div class="item banner-item banner-item-1">
-                                        <a target="&quot;_blank&quot;" href="#" data-id="1022">
-                                            <!-- <picture>
+                                        <a target="#" data-id="1022">
+                                            <picture>
+                                               
                                                 <img src="https://thegioidohoacom.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2019/01/10040348/X4iNCOp-1024x454.jpg" alt="Tết Lớn Khuyến Mại Lớn" width="&quot;640&quot;" height="&quot;150&quot;">
-                                            </picture> -->
+                                            </picture>
                                         </a>
                                     </div>
                                 </div>
-                            </div>
+                                </div> -->
+                                <style type="text/css">
+                                    
+                                    .crazy-deal-details-right {
+                                        position: relative;
+                                        margin-left: 113px;
+                                        height: 100%;
+                                        display: flex;
+                                        align-items: center;
+                                        flex-direction: row;
+                                        justify-content: space-between;
+                                    }
+                                    .crazy-deal-details-procressbar{
+                                        width: 90px;
+                                        height: 8px;
+                                        background: #ffd1c2;
+                                        border-radius: 4px;
+                                        display: inline-block;
+                                        margin-right: 6px;
+                                        margin-left: 6px;
+                                    }
+                                    .crazy-deal-details-process{
+                                        font-weight: bold;
+                                        margin-right: 10px;
+                                    }
+                                    .crazy-deal-details.pc {
+                                        margin: 8px;
+                                        height: 29px;
+                                        overflow: hidden;
+                                        background-position: 0 0;
+                                        background-repeat: no-repeat;
+                                        background-size: 100% 100%;
+
+                                    }    
+                                    .crazy-deal-details-countdown{
+                                        font-weight: bold;
+                                    }
+                                </style>
                             <div class="pdetail-price">
+                                @if(!empty($text))
+                                <?php 
+
+                                    if($data->id%2==0){
+                                        $numberDeal = 6;
+                                    }
+                                    else{
+                                        $numberDeal = 5;
+                                    }
+                                ?>
+                                <div id="module_flash_sale" class="pdp-block module">
+                                    <div class="crazy-deal-details pc" style="background-image:url('{{ asset('images/template/flashsale.png')  }}'); height:38px">
+                                        <div class="crazy-deal-details-right">
+                                            <time class="crazy-deal-details-countdown" data-spm-anchor-id="a2o4n.pdp_revamp.0.i0.89db8552daSXV6">Kết thúc sau <span class="crazy-deal-details-countdown-time clock">12:08:36</span></time>
+                                            <div class="crazy-deal-details-process">
+                                                Đã bán {{ $numberDeal }} sản phẩm
+                                                <!-- <div class="crazy-deal-details-procressbar">
+                                                    <div class="crazy-deal-details-procressbar-inner" style="width:9%"></div>
+                                                </div> -->
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                               <!--  <div class="tbl_time_top">
+                                    <table class="tbl_time" width="100%">
+                                        <thead>
+                                        <tr>
+                                            <td align="center">Tiết kiệm</td>
+                                            <td align="center">Đã mua</td>
+                                            <td align="center">Thời gian còn lại</td>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr bgcolor="#eee">
+                                            <td align="center">{{@$percent}}%</td>
+                                            <td align="center">0</td>
+                                            <td align="center"><div id="to_time1205" class="clock" data-id="1205" data-time-left="133131"></div>
+
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </div> -->
+                                @endif
+                                <br>
+                                 {!!  @$text !!}
                                 <div class="pdetail-price-box">
-                                    <b>MUA ONLINE GIÁ SỐC: </b>
-                                    <h3> 15.590.000₫ </h3>
+
+                                    <h3>
+                                         {{str_replace(',' ,'.', number_format($data->Price))  }}₫
+                                    </h3>
                                 </div>
-
-                                
-                                
-                            </div>
-                            <div class="pdetail-status">
-                                <div class="pdetail-stockavailable">
-                                                                        <span>Còn hàng</span>
-                                </div>
-
-                                     
-
                                 <!-- <div class="pdetail-promotion">
                                     <div class="pdetail-promotion-body">
                                         <ul>
@@ -1325,1857 +1668,230 @@
                                         </ul>
                                         <div class="clearfix"></div>
                                     </div>
-                                </div> -->
+                                    </div> -->
+                            </div>
+                            <div class="pdetail-status">
+                                <div class="pdetail-stockavailable">
+                                    <span>{{ $status }} </span>
+                                </div>
 
-                                <!-- mobile -->
-                                                                <div class="pdetail-add-to-cart add-to-cart">
-                                    <div class="inline">
-                                        <input type="hidden" name="productId" value="604">
-                                        <input type="hidden" name="gift_checked" id="gift_checked" value="">
+                                
+                                 @if(!empty($gift) && $data->Quantily>0 && $deal_check_add ==false  &&  $data['Price']>0)
+
+                                <fieldset class="p-gift">
+                                        <legend id="data-pricetotal" style="color: #ff0000;font-size: 18px; font-weight: bold" data-pricetotal="0">
+                                            Khuyến mãi kèm theo
+                                        </legend>
+                                        <!---->
+                                        <div class="detail-offer">
+                                           
+                                            {{ $gifts->type ==1?'Lựa chọn 1 trong 2 sản phẩm sau':'' }}
+                                            <div class="select-gift">
+                                                
+                                              
+                                                 @foreach($gift as $key => $valuegift)
+                                                  @if($gifts->type ==1)<input type="checkbox" name="gift" value="{{ $valuegift->name }}" {{ $key==0?'checked':'' }}> @endif
+                                                <img src="{{ asset($valuegift->image) }}" height="30px" width="30px">
+
+                                                 @if($valuegift->id ==5)
+                                                    <a href="https://dienmaynguoiviet.vn/khau-trang-loc-khi-lg-puricare-the-he-2-ap551awfa-ajp-may-trang"><h4>{{ $valuegift->name }}</h4></a>
+                                                    @else
+                                                    <h4>{{ $valuegift->name }}</h4>
+                                                    @endif
+                                                    
+                                                @endforeach
+                                              
+
+                                            </div>
+                                            
+                                           
+                                        </div>
+                                        <div class="img-gift clearfix">
+                                        </div>
+                                    </fieldset>
+                                 @endif    
+
+                                @if($data['Quantily']>0)
+                                <div class="pdetail-add-to-cart add-to-cart">
+                                    <form class="inline">
+                                        <input type="hidden" name="productId" value="19439">
                                         <!-- <div class="product-quantity">
                                             <input type="text" class="quantity-field" readonly="readonly" name="qty" value="1">
                                             </div> -->
-                                        <button type="button" class="btn btn-lg btn-add-cart btn-add-cart redirectCart" onclick="addToCart(604)">MUA NGAY <br>(Giao hàng tận nơi - Giá tốt - An toàn)</button>
-                                    </div>
+                                        @if((int)$data['Price']>0)
+                                        <button type="button" class="btn btn-lg btn-add-cart btn-add-cart redirectCart" onclick="addToCart({{ $data->id }})">MUA NGAY <br>(Giao hàng tận nơi - Giá tốt - An toàn)</button>
+                                        @else
+                                        <button type="button" class="btn btn-lg btn-add-cart btn-add-cart redirectCart">LIÊN HỆ <br></button>
+                                        @endif
+                                    </form>
                                     <!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
                                         Launch demo modal
                                         </button> -->
                                 </div>
                                 <div class="clearfix"></div>
-                                                                <div class="installment-purchase pdetail-installment">
+
+
+                                <div class="installment-purchase pdetail-installment">
+                                    
+                                    @if((int)$data['Price']>=3000000)
                                    
-                                    <a target="_blank" href="https://dienmaynguoiviet.vn/smart-tivi-lg-65up7720ptc-65-inch-4k?show=tra-gop" admicro-data-event="101725" admicro-data-auto="1" admicro-data-order="false" class="but-1-gop">
+                                    <a target="_blank" class="but-tra-gop" href="{{ route('details', $data->Link)  }}?show=tra-gop" admicro-data-event="101725" admicro-data-auto="1" admicro-data-order="false">
                                     <strong>TRẢ GÓP QUA THẺ</strong>
                                     <br>
                                     (Visa, Master, JCB)
                                     </a>
+                                    @endif
+                                    <br><br>
+                                    {!!  $data->Specifications  !!} 
                                 </div>
-                                
-                                                            </div>
+                                @else
+
+                                <div class="pdetail-add-to-cart add-to-cart pdetail-installment">
+                                    <div class="inline">
+                                       
+                                      
+                                        <button type="button" class="btn btn-lg btn-add-cart btn-add-cart redirectCart">Liên hệ</button>
+                                    </div>
+
+                                    {!!  $data->Specifications  !!} 
+                                </div>
+                               
+                                @endif
+
+                            </div>
                             <div class="clearfix"></div>
 
-
+                             <button type="button" class="btn btn-lg" data-toggle="modal" data-target="#specifications">Xem chi tiết thông số kỹ thuật</button>
+                           
+                            
                         </div>
                     </div>
                 </div>
-            </div>
-
-            <br>
-
-            <div class="col-md-3 mobile">
-                <div class="commitment">
-                <h4>Yên tâm mua sắm</h4>
-                <ul>
-                    <li>Bảo hành tại nhà</li>
-                    <li>Lắp đặt miễn phí</li>
-              (Trừ điều hòa, bình nước nóng)
-                    <li>Thanh toán tại nhà</li>
-                    <li>Giao hàng miễn phí 20km</li>
-                    <li>Giá cạnh tranh nhất thị trường</li>
-                    <li>Đổi mới 100% trong 7 ngày đầu</li>
-                        ( Trừ Sanaky, Sony chỉ bảo hành tại nhà )
-                </ul>
-                <div class="support">
-                  <h5>Tổng Đài mua hàng</h5>
-                    <a href="tel:02473036336">0247.303.6336</a>
-                  <h5>Tổng Đài mua hàng( Sau 17h )</h5>
-                   <a href="tel:0913011888">091.301.1888</a> 
-                   <a href="tel:0983612828">098.361.2828</a>
-                   
-                                          
-                  
-                   
-                </div>
-                </div>
-            </div>
-            <div class="total-imgslider">
-                <a id="show-popup-featured-images-gallery" style="display: block" href="javascript:void(0)" data-color-id="0" data-toggle="modal" data-target="#Salient_Features">Xem tất cả điểm nổi bật</a>
-            </div>
-
-            <div class="scrolling_inner">
-                <div class="box01__tab scrolling">
-                    <div id="thumb-featured-images-gallery-0" class="item itemTab active " data-gallery-id="featured-images-gallery" data-color-id="0" data-is-full-spec="False" data-color-order-id="0" data-isfeatureimage="True" data-toggle="modal" data-target="#Salient_Features">
-                        <div class="item-border">
-                            <i class="icondetail-noibat"></i>
-                        </div>
-                        <p>Điểm nổi bật</p>
-                    </div>
-                    <div id="thumb-specification-gallery-0" class="item itemTab  is-show-popup" data-gallery-id="specification-gallery" data-color-id="0" data-is-full-spec="True" data-color-order-id="0" data-isfeatureimage="True">
-                        <div class="item-border">
-                            <i class="icondetail-thongso" data-toggle="modal" data-target="#specifications"></i>
-                        </div>
-                        <p data-toggle="modal" data-target="#specifications">Thông số kỹ thuật</p>
-                    </div>
-
-                   <!--  <div class="modal-footer">
-                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Đóng</button>
-                        </div> -->
-
-                    <div id="thumb-article-gallery-0" class="item itemTab  is-show-popup" data-gallery-id="article-gallery" data-color-id="0" data-is-full-spec="False" data-color-order-id="0" data-isfeatureimage="True">
-                        <div class="item-border">
-                            <i class="icondetail-danhgia"></i>
-                        </div>
-                        <p>Thông tin sản phẩm</p>
-                    </div>
-                </div>
-            </div>
-            <div class="modal fade" id="Salient_Features" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                <div class="modal-dialog" role="document">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <h5>Đặc điểm nổi bật</h5>
-                        </div>
-
-
-                       
-                        <div class="modal-body" style="padding:0 15px">
-
-                        
-                            <div class="special-detail">
-<h3></h3>
-
-<ul>
-    <li>Xuất xứ: Indonesia</li>
-    <li>Bảo hành: 24 Tháng</li>
-    <li>Kích thước: 65 inch</li>
-    <li>Độ phân giải: 4K (3840x2160)</li>
-    <li>Cổng HDMI: 2 cổng</li>
-    <li>USB: 1 cổng</li>
-    <li>Wifi: Có</li>
-    <li>Lan: Có</li>
-    <li>Hệ điều hành: WebOS</li>
-</ul>
-</div> 
-                        </div>
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Đóng</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="modal fade" id="specifications" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                <div class="modal-dialog" role="document">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <h5>Thông số kỹ thuật</h5>
-                            <button type="button" class="btn btn-secondary mobiles" data-dismiss="modal">x</button>
-                        </div>
-
-                        
-                        <div class="modal-body" id="thong-so">
-                            <table border="1" cellpadding="5" cellspacing="0" style="border-color:#ededed; width:100%">
-    <tbody>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>&nbsp;&nbsp;&nbsp;Tổng quan</strong></span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle; width:287px"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Loại Tivi:&nbsp;Smart Tivi</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Kích cỡ màn hình: 65 inch</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Độ phân giải: 4K (3840x2160)</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span style="font-family:Arial,Helvetica,sans-serif; font-size:14px">Chỉ số hình ảnh:</span></span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết nối</strong></span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Bluetooth:&nbsp;Có</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Kết nối Internet:&nbsp;Wifi, Cổng LAN</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Cổng HDMI:&nbsp;2 cổng</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">USB:&nbsp;1 cổng</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Cổng VGA:&nbsp;Không</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Cổng AV:</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Cổng xuất âm thanh:&nbsp;<a href="https://dienmaynguoiviet.vn/cong-optical-tren-tivi-la-gi-va-nhung-dieu-can-biet" target="_blank" title="Cổng Optical (Digital Audio Out)">Cổng Optical (Digital Audio Out)</a>, HDMI ARC</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tích hợp đầu thu kỹ thuật số:&nbsp;<a href="https://dienmaynguoiviet.vn/dvb-t2-la-gi" target="_blank" title="DVB-T2">DVB-T2</a></span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&nbsp;<strong>Thông tin Smart Tivi/ Internet Tivi</strong></span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Hệ điều hành, giao diện:&nbsp;WebOS Smart TV</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Các ứng dụng sẵn có:</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Các ứng dụng phổ biến có thể tải thêm:</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Remote thông minh:&nbsp;Có Magic Remote (tìm kiếm bằng giọng nói có hỗ trợ tiếng Việt)</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Điều khiển tivi bằng điện thoại:&nbsp;Bằng ứng dụng&nbsp;LG TV Plus</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Kết nối không dây với điện thoại, máy tính bảng:</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Kết nối Bàn phím, chuột:&nbsp;Có thể kết nối (sử dụng tốt nhất trong trình duyệt web)</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tương tác thông minh: LG Voice Search (Tìm kiếm bằng giọng nói của LG)</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Công nghệ hình ảnh, âm thanh</strong></span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Công nghệ xử lý hình ảnh:&nbsp;4K Upscaling,&nbsp;Image Enhancing,&nbsp;Active HDR,&nbsp;HDR10 Pro,&nbsp;HLG,&nbsp;4K Upscaler</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span style="font-family:Arial,Helvetica,sans-serif; font-size:14px">Công nghệ quét hình:&nbsp;Refresh Rate 60Hz</span></span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Công nghệ âm thanh:&nbsp;AI Sound,&nbsp;Clear Voice III,&nbsp;AI Acoustic Tuning</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tổng công suất loa: 20 W</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Thông tin chung</strong></span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Khoảng cách giữa 2 chân: 120 cm</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Kích thước có chân, đặt bàn:&nbsp;Ngang&nbsp;145.4 cm - Cao&nbsp;90.0 cm - Dày&nbsp;25.5 cm</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Khối lượng có chân:&nbsp;21.7 Kg</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Kích thước không chân, treo tường:&nbsp;Ngang&nbsp;145.4 cm - Cao 83.8cm - Dày&nbsp;5.77 cm</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Khối lượng không chân:&nbsp;21.5 Kg</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Nơi sản xuất:&nbsp;Indonesia</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Năm ra mắt: 2021</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Bảo hành: 24 tháng</span></span></span></td>
-        </tr>
-    </tbody>
-</table> 
-                        </div>
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Đóng</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="block-tab">
-                <div class="bt-overlay"></div>
-                <ul class="block-tab-top">
-                    <li id="tab-featured-images-gallery-0" class="tab-item active" data-is-360-gallery="False" data-gallery-id="featured-images-gallery" data-color-id="0" data-thump-name="Điểm nổi bật">
-                        Điểm nổi bật
-                    </li>
-                    <li id="tab-color-images-gallery-11" class="tab-item " data-is-360-gallery="False" data-gallery-id="color-images-gallery" data-color-id="11" data-thump-name="Đen">
-                        Đen
-                    </li>
-                    <li id="tab-specification-gallery-0" class="tab-item " data-is-360-gallery="False" data-gallery-id="specification-gallery" data-color-id="0" data-thump-name="Thông số kỹ thuật">
-                        Thông số kỹ thuật
-                    </li>
-                    <li id="tab-article-gallery-0" class="tab-item " data-is-360-gallery="False" data-gallery-id="article-gallery" data-color-id="0" data-thump-name="Thông tin sản phẩm">
-                        Thông tin sản phẩm
-                    </li>
-                </ul>
-                <div class="block-tab-content">
-                    <div class="content-t active not-load-content" id="tab-content-featured-images-gallery-0">
-                    </div>
-                    <div class="content-t  not-load-content" id="tab-content-color-images-gallery-11">
-                    </div>
-                    <div class="content-t  not-load-content" id="tab-content-specification-gallery-0">
-                    </div>
-                    <div class="content-t  not-load-content" id="tab-content-article-gallery-0">
-                    </div>
-                </div>
-            </div>
-            <div class="wrap_wrtp hide" id="popup-materialsfee">
-                <div class="pop">
-                </div>
-            </div>
-            <div class="content">
-                 
-
-                
-                 <div class="Description content nd">
-<h2 style="text-align:justify"><span style="font-family:arial,helvetica,sans-serif; font-size:12pt"><a href="https://dienmaynguoiviet.vn/tivi-lg/" target="_blank" title="Mua tivi LG giá rẻ">Mua tivi LG giá rẻ</a>&nbsp;- Mua&nbsp;Smart Tivi LG&nbsp;65UP7720PTC 65 inch 4K giá rẻ</span></h2>
-
-<h3><span style="font-family:arial,helvetica,sans-serif; font-size:12pt">Thiết kế tinh tế, giá đỡ chữ V úp ngược chắc chắn</span></h3>
-
-<p><span style="font-family:arial,helvetica,sans-serif; font-size:10pt"><strong>Smart tivi LG 65UP7720PTC 65 inch 4K </strong>có thiết kế màu đen mang đến vẻ đẹp cứng cáp và tinh tế nhưng không kém phần sang trọng cho không gian nội thất của gia đình bạn. Bên cạnh đó với thiết kế chân đế chữ V úp ngược giúp tivi đứng chắc trên mọi mặt phẳng.</span></p>
-
-<p style="text-align:center"><img alt="" id="images0" src="https://dienmaynguoiviet.vn/media/lib/5795_smart-tivi-lg-65up7720ptc-65-inch-4k-org-7.jpg"></p>
-
-<h3><span style="font-family:arial,helvetica,sans-serif; font-size:12pt"><strong>Smart tivi LG 65UP7720PTC có độ</strong>&nbsp;nét gấp 4 lần Full HD nhờ độ phân giải&nbsp;Ultra HD 4K&nbsp;với 8,3 triệu điểm ảnh</span></h3>
-
-<p style="text-align:center"><img alt="" id="images1" src="https://dienmaynguoiviet.vn/media/lib/5795_smart-tivi-lg-65up7720ptc-65-inch-4k-org-8.jpg"></p>
-
-<h3><span style="font-family:arial,helvetica,sans-serif; font-size:12pt">Nâng cấp hình ảnh gần chuẩn 4K với công nghệ&nbsp;4K Upscaler</span></h3>
-
-<p><span style="font-family:arial,helvetica,sans-serif; font-size:10pt"><strong>Tivi LG 65UP7720PTC </strong>được trang bị công nghệ&nbsp;4K Upscaler cho phép nâng cấp nhất lượng hình ảnh từ nguồn có độ phân giải thấp đến gần chuẩn 4K nhất mang đến cho bạn những hình ảnh vô xùng sắc nét nâng tầm trải nghiệm của người dùng.</span></p>
-
-<p><span style="font-family:arial,helvetica,sans-serif; font-size:10pt">Hơn những thế chiếc <strong>tivi LG</strong> này còn được trang bị công nghệ Image Enhancing cho phép quản lý và xử lý hình ảnh đầu vào với nhiều thoaatj toán chuyên sâu kết hợp với trí tuệ thông minh nhân tạo mang đến cho bạn những hình ảnh tự nhiên và chất lượng cao.</span></p>
-
-<p style="text-align:center"><img alt="" id="images2" src="https://dienmaynguoiviet.vn/media/lib/5795_smart-tivi-lg-65up7720ptc-65-inch-4k-org-9.jpg"></p>
-
-<h3><span style="font-family:arial,helvetica,sans-serif; font-size:12pt">Tăng độ tương phản, tái tạo màu sắc tinh khiết với công nghệ Active HDR</span></h3>
-
-<p style="text-align:center"><img alt="" id="images3" src="https://dienmaynguoiviet.vn/media/lib/5795_smart-tivi-lg-65up7720ptc-65-inch-4k-org-10.jpg"></p>
-
-<h3><span style="font-family:arial,helvetica,sans-serif; font-size:12pt">Chế độ nhà làm phim Filmmaker Mode mang đến những thược phim với góc nhìn đạo diễn</span></h3>
-
-<p><span style="font-family:arial,helvetica,sans-serif; font-size:10pt"><strong>Tivi LG 4K</strong> có thể loại bỏ nhiều tính năng bổ trợ điều chỉnh hình ảnh và âm thanh mang đến chất lượng hình ảnh nguyên bẩn và âm thanh gốc giúp bạn trải nghiệm từng thước phim với chất lượng âm thanh như đang xem trong rạp nhờ công nghệ&nbsp;Filmaker Mode.</span></p>
-
-<p><span style="font-family:arial,helvetica,sans-serif; font-size:10pt">Bên cạnh đó, tivi còn được trang bị 8&nbsp;chế độ hình ảnh (Vivid, Standard, Eco, Cinema, Sports, Game, (ISF)Expert(Bright Room), (ISF)Expert(Dark Room)&nbsp;cung cấp cho bạn nhiều lựa chọn để thưởng thức khung hình chân thật, phù hợp với sở thích, nội dung trình chiếu hơn.</span></p>
-
-<p style="text-align:center"><img alt="" id="images4" src="https://dienmaynguoiviet.vn/media/lib/5795_smart-tivi-lg-65up7720ptc-65-inch-4k-org-11.jpg"></p>
-
-<h3><span style="font-family:arial,helvetica,sans-serif; font-size:12pt">Tối ưu âm thanh phù hợp với nội dung giải trí nhờ công nghệ AI Sound</span></h3>
-
-<p style="text-align:center"><img alt="" id="images5" src="https://dienmaynguoiviet.vn/media/lib/5795_smart-tivi-lg-65up7720ptc-65-inch-4k-org-12.jpg"></p>
-
-<h3><span style="font-family:arial,helvetica,sans-serif; font-size:12pt">Smart tivi LG sở hữu giao diện Web OS 5.0 thân thiện, dễ dàng sử dụng</span></h3>
-
-<p style="text-align:center"><img alt="" id="images6" src="https://dienmaynguoiviet.vn/media/lib/5795_smart-tivi-lg-65up7720ptc-65-inch-4k-org-13.jpg"></p>
-
-<h3><span style="font-family:arial,helvetica,sans-serif; font-size:12pt">Điều khiển, tìm kiếm giọng nói bằng tiếng Việt với Magic Remote và trí tuệ nhân tạo&nbsp;AI ThinQ</span></h3>
-
-<p><span style="font-family:arial,helvetica,sans-serif; font-size:10pt">Trí tuệ nhân tạo AI ThinQ với khả năng nhận diện mệnh lệnh qua giọng nói, chuyển hội thoại thành văn bản. Bạn có thể dễ dàng điều khiển tivi bằng giọng nói có hỗ trợ tiếng Việt khi kết hợp cùng&nbsp;Magic Remote</span></p>
-
-<p style="text-align:center"><img alt="" id="images7" src="https://dienmaynguoiviet.vn/media/lib/5795_smart-tivi-lg-65up7720ptc-65-inch-4k-org-14.jpg"></p>
-
-<h3><span style="font-family:arial,helvetica,sans-serif; font-size:12pt">Dễ dàng điều khiển tivi bằng điện thoại thông qua&nbsp;LG TV PLUS</span></h3>
-
-<h3 style="text-align:center"><img alt="" id="images8" src="https://dienmaynguoiviet.vn/media/lib/5795_smart-tivi-lg-65up7720ptc-65-inch-4k-org-15.jpg"></h3>
-
-<h3><span style="font-family:arial,helvetica,sans-serif; font-size:12pt">Chia sẻ nội dung từ màn hình điện thoại lên tivi cùng tính năng AirPlay 2 (iPhone) và Screen Mirroring (Android)</span></h3>
-
-<p style="text-align:center"><img alt="" id="images9" src="https://dienmaynguoiviet.vn/media/lib/5795_smart-tivi-lg-65up7720ptc-65-inch-4k-org-17.jpg"></p>
-
-<h3><span style="font-family:arial,helvetica,sans-serif; font-size:12pt">Kết nối đa nền tảng nhờ hỗ trợ nhiều kết nối có dây và không dây</span></h3>
-
-<p style="text-align:center"><img alt="" id="images10" src="https://dienmaynguoiviet.vn/media/lib/5795_smart-tivi-lg-65up7720ptc-65-inch-4k-org-16.jpg"></p>
-
-<h2 style="text-align:justify"><strong>Thông số kỹ thuật</strong></h2>
-
-<table border="1" cellpadding="5" cellspacing="0" style="border-color:#ededed; width:100%">
-    <tbody>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>&nbsp;&nbsp;&nbsp;Tổng quan</strong></span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle; width:287px"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Loại Tivi:&nbsp;Smart Tivi</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Kích cỡ màn hình: 65 inch</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Độ phân giải: 4K (3840x2160)</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span style="font-family:Arial,Helvetica,sans-serif; font-size:14px">Chỉ số hình ảnh:</span></span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết nối</strong></span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Bluetooth:&nbsp;Có</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Kết nối Internet:&nbsp;Wifi, Cổng LAN</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Cổng HDMI:&nbsp;2 cổng</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">USB:&nbsp;1 cổng</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Cổng VGA:&nbsp;Không</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Cổng AV:</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Cổng xuất âm thanh:&nbsp;<a href="https://dienmaynguoiviet.vn/cong-optical-tren-tivi-la-gi-va-nhung-dieu-can-biet" target="_blank" title="Cổng Optical (Digital Audio Out)">Cổng Optical (Digital Audio Out)</a>, HDMI ARC</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tích hợp đầu thu kỹ thuật số:&nbsp;<a href="https://dienmaynguoiviet.vn/dvb-t2-la-gi" target="_blank" title="DVB-T2">DVB-T2</a></span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&nbsp;<strong>Thông tin Smart Tivi/ Internet Tivi</strong></span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Hệ điều hành, giao diện:&nbsp;WebOS Smart TV</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Các ứng dụng sẵn có:</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Các ứng dụng phổ biến có thể tải thêm:</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Remote thông minh:&nbsp;Có Magic Remote (tìm kiếm bằng giọng nói có hỗ trợ tiếng Việt)</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Điều khiển tivi bằng điện thoại:&nbsp;Bằng ứng dụng&nbsp;LG TV Plus</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Kết nối không dây với điện thoại, máy tính bảng:</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Kết nối Bàn phím, chuột:&nbsp;Có thể kết nối (sử dụng tốt nhất trong trình duyệt web)</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tương tác thông minh: LG Voice Search (Tìm kiếm bằng giọng nói của LG)</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Công nghệ hình ảnh, âm thanh</strong></span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Công nghệ xử lý hình ảnh:&nbsp;4K Upscaling,&nbsp;Image Enhancing,&nbsp;Active HDR,&nbsp;HDR10 Pro,&nbsp;HLG,&nbsp;4K Upscaler</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span style="font-family:Arial,Helvetica,sans-serif; font-size:14px">Công nghệ quét hình:&nbsp;Refresh Rate 60Hz</span></span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Công nghệ âm thanh:&nbsp;AI Sound,&nbsp;Clear Voice III,&nbsp;AI Acoustic Tuning</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tổng công suất loa: 20 W</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Thông tin chung</strong></span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Công suất:</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Kích thước có chân, đặt bàn:&nbsp;Ngang&nbsp;145.4 cm - Cao&nbsp;90.0 cm - Dày&nbsp;25.5 cm</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Khối lượng có chân:&nbsp;21.7 Kg</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Kích thước không chân, treo tường:&nbsp;Ngang&nbsp;145.4 cm - Cao 83.8cm - Dày&nbsp;5.77 cm</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Khối lượng không chân:&nbsp;21.5 Kg</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Nơi sản xuất:&nbsp;Indonesia</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Năm ra mắt: 2021</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Bảo hành: 24 tháng</span></span></span></td>
-        </tr>
-    </tbody>
-</table>
-</div>
-                
-            </div>
-            <div class="show-more">
-                <span>Đọc thêm</span>
             </div>
             <div class="border7"></div>
-        </div>
-        <div class="box_right desktop">
-            <div class="col-12 pdetail-des">
-                <div class="clearfix"></div>
-                <div>
-                    <div class="pdetail-info">
-                        <p>Model: <b>65UP7720PTC</b></p>
-                        <!-- <p>Bảo hành: <b>24 Tháng, 1 đổi 1 trong vòng 1 tháng</b></p> -->
-                    </div>
-                    <div class="scroll-box">
-                        <!-- <div class="boxbanner-32">
-                            <div class="banner-list">
-                                <div class="item banner-item banner-item-1">
-                                    <a target="#" data-id="1022">
-                                        <picture>
-                                           
-                                            <img src="https://thegioidohoacom.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2019/01/10040348/X4iNCOp-1024x454.jpg" alt="Tết Lớn Khuyến Mại Lớn" width="&quot;640&quot;" height="&quot;150&quot;">
-                                        </picture>
-                                    </a>
-                                </div>
-                            </div>
-                            </div> -->
-                            <style type="text/css">
-                                
-                                .crazy-deal-details-right {
-                                    position: relative;
-                                    margin-left: 113px;
-                                    height: 100%;
-                                    display: flex;
-                                    align-items: center;
-                                    flex-direction: row;
-                                    justify-content: space-between;
-                                }
-                                .crazy-deal-details-procressbar{
-                                    width: 90px;
-                                    height: 8px;
-                                    background: #ffd1c2;
-                                    border-radius: 4px;
-                                    display: inline-block;
-                                    margin-right: 6px;
-                                    margin-left: 6px;
-                                }
-                                .crazy-deal-details-process{
-                                    font-weight: bold;
-                                    margin-right: 10px;
-                                }
-                                .crazy-deal-details.pc {
-                                    margin: 8px;
-                                    height: 29px;
-                                    overflow: hidden;
-                                    background-position: 0 0;
-                                    background-repeat: no-repeat;
-                                    background-size: 100% 100%;
+            <div class="clearfix"></div>
+            <div class="related view-more-related viewer-product">
+            </div>
+            <div class="col-md-8 clearfix" id="comment_pro">
+                <article id="article-comment-2131" itemprop="comment" itemscope="" itemtype="https://schema.org/Comment">
+                    <?php 
+                        if(!Cache::has('comment'.$data->id) ){
 
-                                }    
-                                .crazy-deal-details-countdown{
-                                    font-weight: bold;
-                                }
-                            </style>
-                        <div class="pdetail-price">
-                                                                                    <div id="module_flash_sale" class="pdp-block module">
-                                <div class="crazy-deal-details pc" style="background-image:url('https://dienmaynguoiviet.vn/images/template/flashsale.png'); height:38px">
-                                    <div class="crazy-deal-details-right">
-                                        <time class="crazy-deal-details-countdown" data-spm-anchor-id="a2o4n.pdp_revamp.0.i0.89db8552daSXV6">Kết thúc sau <span class="crazy-deal-details-countdown-time clock">31:07:17</span></time>
-                                        <div class="crazy-deal-details-process">
-                                            Đã bán 6 sản phẩm
-                                            <!-- <div class="crazy-deal-details-procressbar">
-                                                <div class="crazy-deal-details-procressbar-inner" style="width:9%"></div>
-                                            </div> -->
-                                            
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                           <!--  <div class="tbl_time_top">
-                                <table class="tbl_time" width="100%">
-                                    <thead>
-                                    <tr>
-                                        <td align="center">Tiết kiệm</td>
-                                        <td align="center">Đã mua</td>
-                                        <td align="center">Thời gian còn lại</td>
-                                    </tr>
-                                    </thead>
-                                    <tbody>
-                                    <tr bgcolor="#eee">
-                                        <td align="center">2%</td>
-                                        <td align="center">0</td>
-                                        <td align="center"><div id="to_time1205" class="clock" data-id="1205" data-time-left="133131"></div>
+                            $comments_id = App\Models\rate::where('product_id', $data->id)->Where('active', 1)->get();
 
-                                        </td>
-                                    </tr>
-                                    </tbody>
-                                </table>
-                            </div> -->
-                                                        <br>
-                             <b>MUA ONLINE GIÁ SỐC: </b>
-                            <div class="pdetail-price-box">
+                            Cache::put('comment'.$data->id, $comments_id, 10000);
 
-                                <h3>
-                                     15.590.000₫
-                                </h3>
-                            </div>
-                            <!-- <div class="pdetail-promotion">
-                                <div class="pdetail-promotion-body">
-                                    <ul>
-                                        Tặng máy đánh trứng đa năng Roler RHM-1002 trị giá 790,000đ
-                                        <li>Tặng eVoucher trị giá 200,000đ mua phụ kiện IT, phụ kiện Mobile (có giá trị sử dụng trong 07 ngày). Chi tiết xem <a href="https://mediamart.vn/tin-khuyen-mai/tang-voucher-tri-gia-200-000vnd-mua-cac-san-pham-phu-kien" target="_blank">tại đây</a>.</li>
-                                        <li>TÀI TRỢ TRẢ GÓP 0% LÃI SUẤT (*)</li>
-                                    </ul>
-                                    <div class="clearfix"></div>
-                                </div>
-                                </div> -->
-                        </div>
-                        <div class="pdetail-status">
-                            <div class="pdetail-stockavailable">
-                                <span>Còn hàng </span>
-                            </div>
+                        }
 
-                            
-                                 
-
-                                                        <div class="pdetail-add-to-cart add-to-cart">
-                                <form class="inline">
-                                    <input type="hidden" name="productId" value="19439">
-                                    <!-- <div class="product-quantity">
-                                        <input type="text" class="quantity-field" readonly="readonly" name="qty" value="1">
-                                        </div> -->
-                                                                        <button type="button" class="btn btn-lg btn-add-cart btn-add-cart redirectCart" onclick="addToCart(604)">MUA NGAY <br>(Giao hàng tận nơi - Giá tốt - An toàn)</button>
-                                                                    </form>
-                                <!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
-                                    Launch demo modal
-                                    </button> -->
-                            </div>
-                            <div class="clearfix"></div>
-
-
-                            <div class="installment-purchase pdetail-installment">
-                                
-                                                               
-                                <a target="_blank" class="but-tra-gop" href="https://dienmaynguoiviet.vn/smart-tivi-lg-65up7720ptc-65-inch-4k?show=tra-gop" admicro-data-event="101725" admicro-data-auto="1" admicro-data-order="false">
-                                <strong>TRẢ GÓP QUA THẺ</strong>
-                                <br>
-                                (Visa, Master, JCB)
-                                </a>
-                                                                <br><br>
-                                <table border="1" cellpadding="5" cellspacing="0" style="border-color:#ededed; width:100%">
-    <tbody>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>&nbsp;&nbsp;&nbsp;Tổng quan</strong></span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle; width:287px"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Loại Tivi:&nbsp;Smart Tivi</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Kích cỡ màn hình: 65 inch</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Độ phân giải: 4K (3840x2160)</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span style="font-family:Arial,Helvetica,sans-serif; font-size:14px">Chỉ số hình ảnh:</span></span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Kết nối</strong></span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Bluetooth:&nbsp;Có</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Kết nối Internet:&nbsp;Wifi, Cổng LAN</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Cổng HDMI:&nbsp;2 cổng</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">USB:&nbsp;1 cổng</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Cổng VGA:&nbsp;Không</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Cổng AV:</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Cổng xuất âm thanh:&nbsp;<a href="https://dienmaynguoiviet.vn/cong-optical-tren-tivi-la-gi-va-nhung-dieu-can-biet" target="_blank" title="Cổng Optical (Digital Audio Out)">Cổng Optical (Digital Audio Out)</a>, HDMI ARC</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tích hợp đầu thu kỹ thuật số:&nbsp;<a href="https://dienmaynguoiviet.vn/dvb-t2-la-gi" target="_blank" title="DVB-T2">DVB-T2</a></span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">&nbsp;<strong>Thông tin Smart Tivi/ Internet Tivi</strong></span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Hệ điều hành, giao diện:&nbsp;WebOS Smart TV</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Các ứng dụng sẵn có:</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Các ứng dụng phổ biến có thể tải thêm:</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Remote thông minh:&nbsp;Có Magic Remote (tìm kiếm bằng giọng nói có hỗ trợ tiếng Việt)</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Điều khiển tivi bằng điện thoại:&nbsp;Bằng ứng dụng&nbsp;LG TV Plus</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Kết nối không dây với điện thoại, máy tính bảng:</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Kết nối Bàn phím, chuột:&nbsp;Có thể kết nối (sử dụng tốt nhất trong trình duyệt web)</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tương tác thông minh: LG Voice Search (Tìm kiếm bằng giọng nói của LG)</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Công nghệ hình ảnh, âm thanh</strong></span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Công nghệ xử lý hình ảnh:&nbsp;4K Upscaling,&nbsp;Image Enhancing,&nbsp;Active HDR,&nbsp;HDR10 Pro,&nbsp;HLG,&nbsp;4K Upscaler</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><span style="font-family:Arial,Helvetica,sans-serif; font-size:14px">Công nghệ quét hình:&nbsp;Refresh Rate 60Hz</span></span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Công nghệ âm thanh:&nbsp;AI Sound,&nbsp;Clear Voice III,&nbsp;AI Acoustic Tuning</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Tổng công suất loa: 20 W</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif"><strong>Thông tin chung</strong></span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Khoảng cách giữa 2 chân: 120 cm</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Kích thước có chân, đặt bàn:&nbsp;Ngang&nbsp;145.4 cm - Cao&nbsp;90.0 cm - Dày&nbsp;25.5 cm</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Khối lượng có chân:&nbsp;21.7 Kg</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Kích thước không chân, treo tường:&nbsp;Ngang&nbsp;145.4 cm - Cao 83.8cm - Dày&nbsp;5.77 cm</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Khối lượng không chân:&nbsp;21.5 Kg</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Nơi sản xuất:&nbsp;Indonesia</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Năm ra mắt: 2021</span></span></span></td>
-        </tr>
-        <tr>
-            <td style="border-collapse:collapse; border-color:#dddddd; border-style:solid; height:20px; vertical-align:middle"><span style="color:#000000"><span style="font-size:14px"><span style="font-family:arial,helvetica,sans-serif">Bảo hành: 24 tháng</span></span></span></td>
-        </tr>
-    </tbody>
-</table> 
-                            </div>
-                            
-                        </div>
-                        <div class="clearfix"></div>
-
-                         <button type="button" class="btn btn-lg" data-toggle="modal" data-target="#specifications">Xem chi tiết thông số kỹ thuật</button>
-                       
                         
+
+                        $comment = Cache::get('comment'.$data->id);
+                        ?>
+                    @if(isset($comment))
+                    @foreach($comment as $comments)
+                    <header class="comment-header">
+                        <p class="comment-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+                            <img alt="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPyGNr2qL63Sfugk2Z1-KBEwMGOfycBribew&usqp=CAU" height="30px" width="30px">
+                            <span class="comment-author-name" itemprop="name">
+                            <a href="#" class="comment-author-link" rel="external nofollow" itemprop="url">{{ $comments->name }}</a>
+                            </span> 
+                        <p class="comment-meta"><time class="comment-time" itemprop="datePublished"><a class="comment-time-link" href="https://nguyenhung.net/comment-trong-html.html#comment-2131" itemprop="url">{{ $comments->created_at->format('d/m/Y, H:i' )  }}</a></time></p>
+                    </header>
+                    <div class="comment-content" itemprop="text">
+                        <p>{!!  $comments->content  !!}</p>
                     </div>
+                    @endforeach
+                    @endif
+                </article>
+                <div class="rate-text">
+                    <!-- <h3 style="margin-bottom: 0;margin-top: 40px;"> Đánh giá  {{ $data->Name }}</h3> -->
+                    <p style="background: #f3f3f3;padding: 10px;border-radius: 3px;margin: 10px 0;">Đánh giá sản phẩm nhận Coupon 20.000đ dành cho khách mua hàng tại Điện máy người việt.</p>
                 </div>
+                <div class="p-comment">
+                    <form class="comment-form" name="rate-form" id="rate-form" role="form">
+                        <div class="rate_view">
+                            Chọn đánh giá của bạn:
+                            <div class="stars">
+                                <div>
+                                    <input class="star star-click star-5" id="star-5" type="radio" name="star"/>
+                                    <label class="star star-5" for="star-5"></label>
+                                    <input class="star star-click star-4" id="star-4" type="radio" name="star"/>
+                                    <label class="star star-4" for="star-4"></label>
+                                    <input class="star star-click star-3" id="star-3" type="radio" name="star"/>
+                                    <label class="star star-3" for="star-3"></label>
+                                    <input class="star star-click star-2" id="star-2" type="radio" name="star"/>
+                                    <label class="star star-2" for="star-2"></label>
+                                    <input class="star star-click star-1" id="star-1" type="radio" name="star"/>
+                                    <label class="star star-1" for="star-1"></label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="relative">
+                            <div class="left">
+                                <textarea style="padding: 10px;border-radius: 3px; width: 100%;" name="content" placeholder="Nhập đánh giá về sản phẩm " id="content0"></textarea>
+                            </div>
+                            <div class="left">
+                                <div class="form-input">
+                                    <table style="width:100%;" class="tbl-common">
+                                        <tbody>
+                                            <tr>
+                                                <td style="padding-right: 5px;">
+                                                    <input style="border-radius: 3px;height: 43px;" type="text" id="name0" name="name" class="inputText" placeholder="Họ tên" value="">
+                                                </td>
+                                                <td style="padding-left: 5px;">
+                                                    <input style="border-radius: 3px;height: 43px;" type="text" id="email0" name="email" class="inputText" placeholder="Email" value="">
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td><input style="margin-top: 15px;width: calc(100% - 6px);border-radius: 3px;" type="submit" value="Gửi bình luận" class="btn btn-red comments-rate" ></td>
+                                                <td></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <!--form-input-->
+                            </div>
+                        </div>
+                    </form>
+                    <input type="hidden" name="star" id="star_number" value="5">
+                    <!--comment-form-->
+                </div>
+            </div>
+            <!-- end đánh giá -->
+            <div class="related view-more-related">
+                <p class="related__ttl">Xem thêm sản phẩm khác</p>
+                @if(isset($other_product))
+                <div class="listproduct slider-promo owl-carousel">
+                    @foreach($other_product as  $value)
+                    @if($value->active==1 && $value->id != $data->id)
+                    <div class="item">
+                        <a href='{{ route('details', $value->Link) }}' class=" main-contain">
+                        <div class="item-label">
+                        </div>
+                        <div class="item-img">
+                            <img data-src="{{ asset($value->Image) }}" class="lazyload" alt="{{ $value->Name }}" width=210 height=210>
+                        </div>
+                        
+                        <h3>{{ $value->Name }}</h3>
+                        <strong class="price">{{  str_replace(',' ,'.', number_format($value->Price))  }}&#x20AB;</strong>
+                        </a>
+                    </div>
+                    @endif
+                    @endforeach
+                </div>
+                @endif
             </div>
         </div>
         <div class="border7"></div>
-        <div class="clearfix"></div>
-        <div class="related view-more-related viewer-product">
-        <p class="related__ttl">Sản phẩm đã xem</p>
-
-    
-
-    <div class="listproduct slider-promo owl-carousel banner-sales owl-loaded owl-drag" style="display: block;">
-
-                
-        
-        
-
-                
-        
-        
-
-                
-        
-        
-
-                
-        
-        
-
-                
-        
-        
-
-                
-        
-        
-
-                
-        
-        
-
-                
-        
-        
-
-                
-        
-        
-
-                
-        
-        
-
-                
-        
-        
-
-                
-        
-        
-
-                
-        
-        
-
-                
-        
-        
-
-                
-        
-        
-
-                
-        
-        
-
-                
-        
-        
-
-                
-        
-        
-
-                
-        
-        
-
-                
-        
-        
-
-                
-        
-        
-
-                
-        
-        
-
-                
-        
-        
-
-                
-        
-        
-
-                
-        
-        
-
-                
-    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-3146px, 0px, 0px); transition: all 0s ease 0s; width: 12342px;"><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/tivi-sharp-32-inch-lc-32le280x-hd" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119103_3866_lc_32le280x.jpg" class="lazyload" alt="Tivi Sharp 32 inch LC-32LE280X, HD">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Tivi Sharp 32 inch LC-32LE280X, HD</h3>
-               
-                <strong class="price">0₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/tivi-led-sharp-lc-32le150m-32-inch-hd-ready" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119104_1091_0_tv_led_sharp_lc_32le150m_1.jpg" class="lazyload" alt="Tivi LED Sharp LC-32LE150M 32 inch HD Ready">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Tivi LED Sharp LC-32LE150M 32 inch HD Ready</h3>
-               
-                <strong class="price">0₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/android-tivi-sony-kd-85x86j-85-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119106_5877_x86j_001.jpg" class="lazyload" alt="Android Tivi Sony KD-85X86J 85 inch  4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Android Tivi Sony KD-85X86J 85 inch  4K</h3>
-               
-                <strong class="price">43.690.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/android-tivi-sony-kd-65x86j-65-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119107_5875_x86j_001.jpg" class="lazyload" alt="Android Tivi Sony KD-65X86J 65 inch  4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Android Tivi Sony KD-65X86J 65 inch  4K</h3>
-               
-                <strong class="price">22.390.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/android-tivi-sony-kd-55x80j-s-55-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119114_5856_55x80j.jpg" class="lazyload" alt="Android Tivi Sony KD-55X80J/S 55 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Android Tivi Sony KD-55X80J/S 55 inch 4K</h3>
-               
-                <strong class="price">15.790.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/android-tivi-sony-kd-55x80j-55-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119115_5855_kd_55x80j_115.jpg" class="lazyload" alt="Android Tivi Sony KD-55X80J 55 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Android Tivi Sony KD-55X80J 55 inch 4K</h3>
-               
-                <strong class="price">15.790.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/tivi-oled-sony-55-inch-4k-kd-55a8f" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119172_4911_a8f_4.jpg" class="lazyload" alt="Tivi OLED Sony 55 inch 4K KD-55A8F">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Tivi OLED Sony 55 inch 4K KD-55A8F</h3>
-               
-                <strong class="price">0₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/tivi-oled-sony-65-inch-4k-kd-65a8f" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119175_4578_a8f_4.jpg" class="lazyload" alt="Tivi OLED Sony 65 inch 4K KD-65A8F">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Tivi OLED Sony 65 inch 4K KD-65A8F</h3>
-               
-                <strong class="price">0₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-lg-50up7500ptc-50-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119189_5945_smart_tivi_lg_55up7500ptc_55_inch_4k_org_4.jpg" class="lazyload" alt="Smart tivi LG 50UP7500PTC 50 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart tivi LG 50UP7500PTC 50 inch 4K</h3>
-               
-                <strong class="price">10.890.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-lg-55up7500ptc-55-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119190_5944_smart_tivi_lg_55up7500ptc_55_inch_4k_org_4.jpg" class="lazyload" alt="Smart tivi LG 55UP7500PTC 55 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart tivi LG 55UP7500PTC 55 inch 4K</h3>
-               
-                <strong class="price">11.590.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-lg-55un721cotf-55-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119192_5845_smart_tivi_lg_65un721c0tf_65_inch_4k_org.jpg" class="lazyload" alt="Smart tivi LG 55UN721COTF 55 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart tivi LG 55UN721COTF 55 inch 4K</h3>
-               
-                <strong class="price">11.200.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-lg-50up7550ptc-50-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119194_5801_smart_tivi_lg_50up7550ptc_50_inch_4k_org.jpg" class="lazyload" alt="Smart tivi LG 50UP7550PTC 50 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart tivi LG 50UP7550PTC 50 inch 4K</h3>
-               
-                <strong class="price">10.890.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-lg-55up7550ptc-55-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119195_5800_smart_tivi_lg_55up7550ptc_55_inch_4k_org.jpg" class="lazyload" alt="Smart tivi LG 55UP7550PTC 55 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart tivi LG 55UP7550PTC 55 inch 4K</h3>
-               
-                <strong class="price">11.590.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item active" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-samsung-ua50au9000-50-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118973_6021_smart_tivi_samsung_ua50au9000_50_inch_4k_org_14.jpg" class="lazyload" alt="Smart tivi Samsung UA50AU9000 50 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart tivi Samsung UA50AU9000 50 inch 4K</h3>
-               
-                <strong class="price">13.890.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item active" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-samsung-ua50au8000-50-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118974_6018_smart_tivi_samsung_ua50au8000_50_inch_4k_org_7.jpg" class="lazyload" alt="Smart tivi Samsung UA50AU8000 50 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart tivi Samsung UA50AU8000 50 inch 4K</h3>
-               
-                <strong class="price">12.290.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item active" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-samsung-ua50au7000-50-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118976_6016_smart_tivi_samsung_ua50au7000_50_inch_4k_org_10.jpg" class="lazyload" alt="Smart Tivi Samsung UA50AU7000 50 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart Tivi Samsung UA50AU7000 50 inch 4K</h3>
-               
-                <strong class="price">11.390.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item active" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-samsung-ua50au7700-50-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118978_6014_smart_tivi_samsung_ua50au7700_50_inch_4k_org_11.jpg" class="lazyload" alt="Smart Tivi Samsung UA50AU7700 50 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart Tivi Samsung UA50AU7700 50 inch 4K</h3>
-               
-                <strong class="price">11.990.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item active" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-neo-qled-samsung-qa75qn85a-75-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118979_5977_smart_tivi_neo_qled_samsung_qa75qn85a_75_inch_4k_org_16.jpg" class="lazyload" alt="Smart Tivi Neo QLED Samsung QA75QN85A 75 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart Tivi Neo QLED Samsung QA75QN85A 75 inch 4K</h3>
-               
-                <strong class="price">61.390.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/android-tivi-philips-65put8215-65-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118984_6072_6.jpg" class="lazyload" alt="Android Tivi Philips 65PUT8215 65 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Android Tivi Philips 65PUT8215 65 inch 4K</h3>
-               
-                <strong class="price">14.000.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/android-tivi-philips-50put8215-50-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118985_6071_6.jpg" class="lazyload" alt="Android Tivi Philips 50PUT8215 50 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Android Tivi Philips 50PUT8215 50 inch 4K</h3>
-               
-                <strong class="price">9.000.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/android-tivi-philips-32pht6915-32-inch-hd" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/1651466094_32PHT6915.jpg" class="lazyload" alt="Android Tivi Philips 32PHT6915 32 inch HD">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Android Tivi Philips 32PHT6915 32 inch HD</h3>
-               
-                <strong class="price">4.600.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-lg-43up7500ptc-43-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118990_5946_smart_tivi_lg_43up7500ptc_43_inch_4k_org_4.jpg" class="lazyload" alt="Smart tivi LG 43UP7500PTC 43 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart tivi LG 43UP7500PTC 43 inch 4K</h3>
-               
-                <strong class="price">9.090.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/android-tivi-sony-kd-43x75-43-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118994_5923_android_tivi_sony_kd_43x75_43_inch_4k_org.jpg" class="lazyload" alt="Android Tivi Sony KD-43X75 43 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Android Tivi Sony KD-43X75 43 inch 4K</h3>
-               
-                <strong class="price">11.590.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-lg-43up7550ptc-43-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118995_5802_smart_tivi_lg_43up7550ptc_43_inch_4k_org.jpg" class="lazyload" alt="Smart tivi LG 43UP7550PTC 43 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart tivi LG 43UP7550PTC 43 inch 4K</h3>
-               
-                <strong class="price">9.090.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-qled-samsung-qa55q60a-55-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119016_5947_qa55q60a_115.jpg" class="lazyload" alt="Smart tivi QLED Samsung QA55Q60A 55 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart tivi QLED Samsung QA55Q60A 55 inch 4K</h3>
-               
-                <strong class="price">14.790.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/tivi-sharp-32-inch-lc-32le280x-hd" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119103_3866_lc_32le280x.jpg" class="lazyload" alt="Tivi Sharp 32 inch LC-32LE280X, HD">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Tivi Sharp 32 inch LC-32LE280X, HD</h3>
-               
-                <strong class="price">0₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/tivi-led-sharp-lc-32le150m-32-inch-hd-ready" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119104_1091_0_tv_led_sharp_lc_32le150m_1.jpg" class="lazyload" alt="Tivi LED Sharp LC-32LE150M 32 inch HD Ready">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Tivi LED Sharp LC-32LE150M 32 inch HD Ready</h3>
-               
-                <strong class="price">0₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/android-tivi-sony-kd-85x86j-85-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119106_5877_x86j_001.jpg" class="lazyload" alt="Android Tivi Sony KD-85X86J 85 inch  4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Android Tivi Sony KD-85X86J 85 inch  4K</h3>
-               
-                <strong class="price">43.690.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/android-tivi-sony-kd-65x86j-65-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119107_5875_x86j_001.jpg" class="lazyload" alt="Android Tivi Sony KD-65X86J 65 inch  4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Android Tivi Sony KD-65X86J 65 inch  4K</h3>
-               
-                <strong class="price">22.390.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/android-tivi-sony-kd-55x80j-s-55-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119114_5856_55x80j.jpg" class="lazyload" alt="Android Tivi Sony KD-55X80J/S 55 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Android Tivi Sony KD-55X80J/S 55 inch 4K</h3>
-               
-                <strong class="price">15.790.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/android-tivi-sony-kd-55x80j-55-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119115_5855_kd_55x80j_115.jpg" class="lazyload" alt="Android Tivi Sony KD-55X80J 55 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Android Tivi Sony KD-55X80J 55 inch 4K</h3>
-               
-                <strong class="price">15.790.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/tivi-oled-sony-55-inch-4k-kd-55a8f" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119172_4911_a8f_4.jpg" class="lazyload" alt="Tivi OLED Sony 55 inch 4K KD-55A8F">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Tivi OLED Sony 55 inch 4K KD-55A8F</h3>
-               
-                <strong class="price">0₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/tivi-oled-sony-65-inch-4k-kd-65a8f" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119175_4578_a8f_4.jpg" class="lazyload" alt="Tivi OLED Sony 65 inch 4K KD-65A8F">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Tivi OLED Sony 65 inch 4K KD-65A8F</h3>
-               
-                <strong class="price">0₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-lg-50up7500ptc-50-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119189_5945_smart_tivi_lg_55up7500ptc_55_inch_4k_org_4.jpg" class="lazyload" alt="Smart tivi LG 50UP7500PTC 50 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart tivi LG 50UP7500PTC 50 inch 4K</h3>
-               
-                <strong class="price">10.890.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-lg-55up7500ptc-55-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119190_5944_smart_tivi_lg_55up7500ptc_55_inch_4k_org_4.jpg" class="lazyload" alt="Smart tivi LG 55UP7500PTC 55 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart tivi LG 55UP7500PTC 55 inch 4K</h3>
-               
-                <strong class="price">11.590.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-lg-55un721cotf-55-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119192_5845_smart_tivi_lg_65un721c0tf_65_inch_4k_org.jpg" class="lazyload" alt="Smart tivi LG 55UN721COTF 55 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart tivi LG 55UN721COTF 55 inch 4K</h3>
-               
-                <strong class="price">11.200.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-lg-50up7550ptc-50-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119194_5801_smart_tivi_lg_50up7550ptc_50_inch_4k_org.jpg" class="lazyload" alt="Smart tivi LG 50UP7550PTC 50 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart tivi LG 50UP7550PTC 50 inch 4K</h3>
-               
-                <strong class="price">10.890.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-lg-55up7550ptc-55-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119195_5800_smart_tivi_lg_55up7550ptc_55_inch_4k_org.jpg" class="lazyload" alt="Smart tivi LG 55UP7550PTC 55 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart tivi LG 55UP7550PTC 55 inch 4K</h3>
-               
-                <strong class="price">11.590.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-samsung-ua50au9000-50-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118973_6021_smart_tivi_samsung_ua50au9000_50_inch_4k_org_14.jpg" class="lazyload" alt="Smart tivi Samsung UA50AU9000 50 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart tivi Samsung UA50AU9000 50 inch 4K</h3>
-               
-                <strong class="price">13.890.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-samsung-ua50au8000-50-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118974_6018_smart_tivi_samsung_ua50au8000_50_inch_4k_org_7.jpg" class="lazyload" alt="Smart tivi Samsung UA50AU8000 50 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart tivi Samsung UA50AU8000 50 inch 4K</h3>
-               
-                <strong class="price">12.290.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-samsung-ua50au7000-50-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118976_6016_smart_tivi_samsung_ua50au7000_50_inch_4k_org_10.jpg" class="lazyload" alt="Smart Tivi Samsung UA50AU7000 50 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart Tivi Samsung UA50AU7000 50 inch 4K</h3>
-               
-                <strong class="price">11.390.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-samsung-ua50au7700-50-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118978_6014_smart_tivi_samsung_ua50au7700_50_inch_4k_org_11.jpg" class="lazyload" alt="Smart Tivi Samsung UA50AU7700 50 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart Tivi Samsung UA50AU7700 50 inch 4K</h3>
-               
-                <strong class="price">11.990.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-neo-qled-samsung-qa75qn85a-75-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118979_5977_smart_tivi_neo_qled_samsung_qa75qn85a_75_inch_4k_org_16.jpg" class="lazyload" alt="Smart Tivi Neo QLED Samsung QA75QN85A 75 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart Tivi Neo QLED Samsung QA75QN85A 75 inch 4K</h3>
-               
-                <strong class="price">61.390.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/android-tivi-philips-65put8215-65-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118984_6072_6.jpg" class="lazyload" alt="Android Tivi Philips 65PUT8215 65 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Android Tivi Philips 65PUT8215 65 inch 4K</h3>
-               
-                <strong class="price">14.000.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/android-tivi-philips-50put8215-50-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118985_6071_6.jpg" class="lazyload" alt="Android Tivi Philips 50PUT8215 50 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Android Tivi Philips 50PUT8215 50 inch 4K</h3>
-               
-                <strong class="price">9.000.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/android-tivi-philips-32pht6915-32-inch-hd" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/1651466094_32PHT6915.jpg" class="lazyload" alt="Android Tivi Philips 32PHT6915 32 inch HD">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Android Tivi Philips 32PHT6915 32 inch HD</h3>
-               
-                <strong class="price">4.600.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-lg-43up7500ptc-43-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118990_5946_smart_tivi_lg_43up7500ptc_43_inch_4k_org_4.jpg" class="lazyload" alt="Smart tivi LG 43UP7500PTC 43 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart tivi LG 43UP7500PTC 43 inch 4K</h3>
-               
-                <strong class="price">9.090.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/android-tivi-sony-kd-43x75-43-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118994_5923_android_tivi_sony_kd_43x75_43_inch_4k_org.jpg" class="lazyload" alt="Android Tivi Sony KD-43X75 43 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Android Tivi Sony KD-43X75 43 inch 4K</h3>
-               
-                <strong class="price">11.590.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-lg-43up7550ptc-43-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118995_5802_smart_tivi_lg_43up7550ptc_43_inch_4k_org.jpg" class="lazyload" alt="Smart tivi LG 43UP7550PTC 43 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart tivi LG 43UP7550PTC 43 inch 4K</h3>
-               
-                <strong class="price">9.090.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/smart-tivi-qled-samsung-qa55q60a-55-inch-4k" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119016_5947_qa55q60a_115.jpg" class="lazyload" alt="Smart tivi QLED Samsung QA55Q60A 55 inch 4K">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Smart tivi QLED Samsung QA55Q60A 55 inch 4K</h3>
-               
-                <strong class="price">14.790.000₫</strong>
-            
-            </a>
-        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-            <a href="https://dienmaynguoiviet.vn/tivi-sharp-32-inch-lc-32le280x-hd" class=" main-contain">
-                <div class="item-label">
-                </div>
-                <div class="item-img">
-                    <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651119103_3866_lc_32le280x.jpg" class="lazyload" alt="Tivi Sharp 32 inch LC-32LE280X, HD">
-                </div>
-               <!--  <p class='result-label temp1'><img width='20' height='20' class='lazyload' alt='Giảm Sốc' data-src='https://cdn.tgdd.vn/2020/10/content/icon1-50x50.png'><span>Giảm Sốc</span></p> -->
-                <h3>Tivi Sharp 32 inch LC-32LE280X, HD</h3>
-               
-                <strong class="price">0₫</strong>
-            
-            </a>
-        </div></div></div></div><div class="owl-nav disabled"><div class="owl-prev">prev</div><div class="owl-next">next</div></div><div class="owl-dots"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div>
-
-    <script type="text/javascript">
-        
-        $('.banner-sales').owlCarousel({
-                loop:true,
-
-                margin:10,
-                nav:false,
-                responsive:{
-                    0:{
-                        items:1.5
-                    },
-                    600:{
-                        items:1.5
-                    },
-                    1000:{
-                        items:5
-                    }
-                }
-            });
-
-    </script>
-    </div>
-        <div class="col-md-8 clearfix" id="comment_pro">
-            <article id="article-comment-2131" itemprop="comment" itemscope="" itemtype="https://schema.org/Comment">
-                                                                            </article>
-            <div class="rate-text">
-                <!-- <h3 style="margin-bottom: 0;margin-top: 40px;"> Đánh giá  Smart tivi LG 65UP7720PTC 65 inch 4K</h3> -->
-                <p style="background: #f3f3f3;padding: 10px;border-radius: 3px;margin: 10px 0;">Đánh giá sản phẩm nhận Coupon 20.000đ dành cho khách mua hàng tại Điện máy người việt.</p>
-            </div>
-            <div class="p-comment">
-                <form class="comment-form" name="rate-form" id="rate-form" role="form" novalidate="novalidate">
-                    <div class="rate_view">
-                        Chọn đánh giá của bạn:
-                        <div class="stars">
-                            <div>
-                                <input class="star star-click star-5" id="star-5" type="radio" name="star">
-                                <label class="star star-5" for="star-5"></label>
-                                <input class="star star-click star-4" id="star-4" type="radio" name="star">
-                                <label class="star star-4" for="star-4"></label>
-                                <input class="star star-click star-3" id="star-3" type="radio" name="star">
-                                <label class="star star-3" for="star-3"></label>
-                                <input class="star star-click star-2" id="star-2" type="radio" name="star">
-                                <label class="star star-2" for="star-2"></label>
-                                <input class="star star-click star-1" id="star-1" type="radio" name="star">
-                                <label class="star star-1" for="star-1"></label>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="relative">
-                        <div class="left">
-                            <textarea style="padding: 10px;border-radius: 3px; width: 100%;" name="content" placeholder="Nhập đánh giá về sản phẩm " id="content0"></textarea>
-                        </div>
-                        <div class="left">
-                            <div class="form-input">
-                                <table style="width:100%;" class="tbl-common">
-                                    <tbody>
-                                        <tr>
-                                            <td style="padding-right: 5px;">
-                                                <input style="border-radius: 3px;height: 43px;" type="text" id="name0" name="name" class="inputText" placeholder="Họ tên" value="">
-                                            </td>
-                                            <td style="padding-left: 5px;">
-                                                <input style="border-radius: 3px;height: 43px;" type="text" id="email0" name="email" class="inputText" placeholder="Email" value="">
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td><input style="margin-top: 15px;width: calc(100% - 6px);border-radius: 3px;" type="submit" value="Gửi bình luận" class="btn btn-red comments-rate"></td>
-                                            <td></td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-                            <!--form-input-->
-                        </div>
-                    </div>
-                </form>
-                <input type="hidden" name="star" id="star_number" value="5">
-                <!--comment-form-->
-            </div>
+        <div class="watched"></div>
         </div>
-        <!-- end đánh giá -->
-        <div class="related view-more-related">
-            <p class="related__ttl">Xem thêm sản phẩm khác</p>
-                        <div class="listproduct slider-promo owl-carousel owl-loaded owl-drag">
-                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                            <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1210px, 0px, 0px); transition: all 0s ease 0s; width: 4840px;"><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-                    <a href="https://dienmaynguoiviet.vn/smart-tivi-neo-qled-samsung-qa65qn85a-65-inch-4k" class=" main-contain">
-                    <div class="item-label">
-                    </div>
-                    <div class="item-img">
-                        <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118982_5976_smart_tivi_neo_qled_samsung_qa65qn85a_65_inch_4k_org_16.jpg" class="lazyload" alt="Smart Tivi Neo QLED Samsung QA65QN85A 65 inch 4K" width="210" height="210">
-                    </div>
-                    
-                    <h3>Smart Tivi Neo QLED Samsung QA65QN85A 65 inch 4K</h3>
-                    <strong class="price">36.290.000₫</strong>
-                    </a>
-                </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-                    <a href="https://dienmaynguoiviet.vn/smart-tivi-neo-qled-samsung-qa65qn800a-65-inch-8k" class=" main-contain">
-                    <div class="item-label">
-                    </div>
-                    <div class="item-img">
-                        <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118983_5975_smart_tivi_neo_qled_samsung_qa65qn800a_65_inch_8k_org_16.jpg" class="lazyload" alt="Smart Tivi Neo QLED Samsung QA65QN800A 65 inch 8K" width="210" height="210">
-                    </div>
-                    
-                    <h3>Smart Tivi Neo QLED Samsung QA65QN800A 65 inch 8K</h3>
-                    <strong class="price">66.590.000₫</strong>
-                    </a>
-                </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-                    <a href="https://dienmaynguoiviet.vn/android-tivi-philips-65put8215-65-inch-4k" class=" main-contain">
-                    <div class="item-label">
-                    </div>
-                    <div class="item-img">
-                        <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118984_6072_6.jpg" class="lazyload" alt="Android Tivi Philips 65PUT8215 65 inch 4K" width="210" height="210">
-                    </div>
-                    
-                    <h3>Android Tivi Philips 65PUT8215 65 inch 4K</h3>
-                    <strong class="price">14.000.000₫</strong>
-                    </a>
-                </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-                    <a href="https://dienmaynguoiviet.vn/android-tivi-philips-50put8215-50-inch-4k" class=" main-contain">
-                    <div class="item-label">
-                    </div>
-                    <div class="item-img">
-                        <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118985_6071_6.jpg" class="lazyload" alt="Android Tivi Philips 50PUT8215 50 inch 4K" width="210" height="210">
-                    </div>
-                    
-                    <h3>Android Tivi Philips 50PUT8215 50 inch 4K</h3>
-                    <strong class="price">9.000.000₫</strong>
-                    </a>
-                </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-                    <a href="https://dienmaynguoiviet.vn/android-tivi-philips-32pht6915-32-inch-hd" class=" main-contain">
-                    <div class="item-label">
-                    </div>
-                    <div class="item-img">
-                        <img data-src="https://dienmaynguoiviet.vn/uploads/product/1651466094_32PHT6915.jpg" class="lazyload" alt="Android Tivi Philips 32PHT6915 32 inch HD" width="210" height="210">
-                    </div>
-                    
-                    <h3>Android Tivi Philips 32PHT6915 32 inch HD</h3>
-                    <strong class="price">4.600.000₫</strong>
-                    </a>
-                </div></div><div class="owl-item active" style="width: 232px; margin-right: 10px;"><div class="item">
-                    <a href="https://dienmaynguoiviet.vn/smart-tivi-samsung-ua50au9000-50-inch-4k" class=" main-contain">
-                    <div class="item-label">
-                    </div>
-                    <div class="item-img">
-                        <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118973_6021_smart_tivi_samsung_ua50au9000_50_inch_4k_org_14.jpg" class="lazyload" alt="Smart tivi Samsung UA50AU9000 50 inch 4K" width="210" height="210">
-                    </div>
-                    
-                    <h3>Smart tivi Samsung UA50AU9000 50 inch 4K</h3>
-                    <strong class="price">13.890.000₫</strong>
-                    </a>
-                </div></div><div class="owl-item active" style="width: 232px; margin-right: 10px;"><div class="item">
-                    <a href="https://dienmaynguoiviet.vn/smart-tivi-samsung-ua50au8000-50-inch-4k" class=" main-contain">
-                    <div class="item-label">
-                    </div>
-                    <div class="item-img">
-                        <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118974_6018_smart_tivi_samsung_ua50au8000_50_inch_4k_org_7.jpg" class="lazyload" alt="Smart tivi Samsung UA50AU8000 50 inch 4K" width="210" height="210">
-                    </div>
-                    
-                    <h3>Smart tivi Samsung UA50AU8000 50 inch 4K</h3>
-                    <strong class="price">12.290.000₫</strong>
-                    </a>
-                </div></div><div class="owl-item active" style="width: 232px; margin-right: 10px;"><div class="item">
-                    <a href="https://dienmaynguoiviet.vn/smart-tivi-samsung-ua50au7000-50-inch-4k" class=" main-contain">
-                    <div class="item-label">
-                    </div>
-                    <div class="item-img">
-                        <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118976_6016_smart_tivi_samsung_ua50au7000_50_inch_4k_org_10.jpg" class="lazyload" alt="Smart Tivi Samsung UA50AU7000 50 inch 4K" width="210" height="210">
-                    </div>
-                    
-                    <h3>Smart Tivi Samsung UA50AU7000 50 inch 4K</h3>
-                    <strong class="price">11.390.000₫</strong>
-                    </a>
-                </div></div><div class="owl-item active" style="width: 232px; margin-right: 10px;"><div class="item">
-                    <a href="https://dienmaynguoiviet.vn/smart-tivi-samsung-ua50au7700-50-inch-4k" class=" main-contain">
-                    <div class="item-label">
-                    </div>
-                    <div class="item-img">
-                        <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118978_6014_smart_tivi_samsung_ua50au7700_50_inch_4k_org_11.jpg" class="lazyload" alt="Smart Tivi Samsung UA50AU7700 50 inch 4K" width="210" height="210">
-                    </div>
-                    
-                    <h3>Smart Tivi Samsung UA50AU7700 50 inch 4K</h3>
-                    <strong class="price">11.990.000₫</strong>
-                    </a>
-                </div></div><div class="owl-item active" style="width: 232px; margin-right: 10px;"><div class="item">
-                    <a href="https://dienmaynguoiviet.vn/smart-tivi-neo-qled-samsung-qa75qn85a-75-inch-4k" class=" main-contain">
-                    <div class="item-label">
-                    </div>
-                    <div class="item-img">
-                        <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118979_5977_smart_tivi_neo_qled_samsung_qa75qn85a_75_inch_4k_org_16.jpg" class="lazyload" alt="Smart Tivi Neo QLED Samsung QA75QN85A 75 inch 4K" width="210" height="210">
-                    </div>
-                    
-                    <h3>Smart Tivi Neo QLED Samsung QA75QN85A 75 inch 4K</h3>
-                    <strong class="price">61.390.000₫</strong>
-                    </a>
-                </div></div><div class="owl-item" style="width: 232px; margin-right: 10px;"><div class="item">
-                    <a href="https://dienmaynguoiviet.vn/smart-tivi-neo-qled-samsung-qa65qn85a-65-inch-4k" class=" main-contain">
-                    <div class="item-label">
-                    </div>
-                    <div class="item-img">
-                        <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118982_5976_smart_tivi_neo_qled_samsung_qa65qn85a_65_inch_4k_org_16.jpg" class="lazyload" alt="Smart Tivi Neo QLED Samsung QA65QN85A 65 inch 4K" width="210" height="210">
-                    </div>
-                    
-                    <h3>Smart Tivi Neo QLED Samsung QA65QN85A 65 inch 4K</h3>
-                    <strong class="price">36.290.000₫</strong>
-                    </a>
-                </div></div><div class="owl-item" style="width: 232px; margin-right: 10px;"><div class="item">
-                    <a href="https://dienmaynguoiviet.vn/smart-tivi-neo-qled-samsung-qa65qn800a-65-inch-8k" class=" main-contain">
-                    <div class="item-label">
-                    </div>
-                    <div class="item-img">
-                        <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118983_5975_smart_tivi_neo_qled_samsung_qa65qn800a_65_inch_8k_org_16.jpg" class="lazyload" alt="Smart Tivi Neo QLED Samsung QA65QN800A 65 inch 8K" width="210" height="210">
-                    </div>
-                    
-                    <h3>Smart Tivi Neo QLED Samsung QA65QN800A 65 inch 8K</h3>
-                    <strong class="price">66.590.000₫</strong>
-                    </a>
-                </div></div><div class="owl-item" style="width: 232px; margin-right: 10px;"><div class="item">
-                    <a href="https://dienmaynguoiviet.vn/android-tivi-philips-65put8215-65-inch-4k" class=" main-contain">
-                    <div class="item-label">
-                    </div>
-                    <div class="item-img">
-                        <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118984_6072_6.jpg" class="lazyload" alt="Android Tivi Philips 65PUT8215 65 inch 4K" width="210" height="210">
-                    </div>
-                    
-                    <h3>Android Tivi Philips 65PUT8215 65 inch 4K</h3>
-                    <strong class="price">14.000.000₫</strong>
-                    </a>
-                </div></div><div class="owl-item" style="width: 232px; margin-right: 10px;"><div class="item">
-                    <a href="https://dienmaynguoiviet.vn/android-tivi-philips-50put8215-50-inch-4k" class=" main-contain">
-                    <div class="item-label">
-                    </div>
-                    <div class="item-img">
-                        <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118985_6071_6.jpg" class="lazyload" alt="Android Tivi Philips 50PUT8215 50 inch 4K" width="210" height="210">
-                    </div>
-                    
-                    <h3>Android Tivi Philips 50PUT8215 50 inch 4K</h3>
-                    <strong class="price">9.000.000₫</strong>
-                    </a>
-                </div></div><div class="owl-item" style="width: 232px; margin-right: 10px;"><div class="item">
-                    <a href="https://dienmaynguoiviet.vn/android-tivi-philips-32pht6915-32-inch-hd" class=" main-contain">
-                    <div class="item-label">
-                    </div>
-                    <div class="item-img">
-                        <img data-src="https://dienmaynguoiviet.vn/uploads/product/1651466094_32PHT6915.jpg" class="lazyload" alt="Android Tivi Philips 32PHT6915 32 inch HD" width="210" height="210">
-                    </div>
-                    
-                    <h3>Android Tivi Philips 32PHT6915 32 inch HD</h3>
-                    <strong class="price">4.600.000₫</strong>
-                    </a>
-                </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-                    <a href="https://dienmaynguoiviet.vn/smart-tivi-samsung-ua50au9000-50-inch-4k" class=" main-contain">
-                    <div class="item-label">
-                    </div>
-                    <div class="item-img">
-                        <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118973_6021_smart_tivi_samsung_ua50au9000_50_inch_4k_org_14.jpg" class="lazyload" alt="Smart tivi Samsung UA50AU9000 50 inch 4K" width="210" height="210">
-                    </div>
-                    
-                    <h3>Smart tivi Samsung UA50AU9000 50 inch 4K</h3>
-                    <strong class="price">13.890.000₫</strong>
-                    </a>
-                </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-                    <a href="https://dienmaynguoiviet.vn/smart-tivi-samsung-ua50au8000-50-inch-4k" class=" main-contain">
-                    <div class="item-label">
-                    </div>
-                    <div class="item-img">
-                        <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118974_6018_smart_tivi_samsung_ua50au8000_50_inch_4k_org_7.jpg" class="lazyload" alt="Smart tivi Samsung UA50AU8000 50 inch 4K" width="210" height="210">
-                    </div>
-                    
-                    <h3>Smart tivi Samsung UA50AU8000 50 inch 4K</h3>
-                    <strong class="price">12.290.000₫</strong>
-                    </a>
-                </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-                    <a href="https://dienmaynguoiviet.vn/smart-tivi-samsung-ua50au7000-50-inch-4k" class=" main-contain">
-                    <div class="item-label">
-                    </div>
-                    <div class="item-img">
-                        <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118976_6016_smart_tivi_samsung_ua50au7000_50_inch_4k_org_10.jpg" class="lazyload" alt="Smart Tivi Samsung UA50AU7000 50 inch 4K" width="210" height="210">
-                    </div>
-                    
-                    <h3>Smart Tivi Samsung UA50AU7000 50 inch 4K</h3>
-                    <strong class="price">11.390.000₫</strong>
-                    </a>
-                </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-                    <a href="https://dienmaynguoiviet.vn/smart-tivi-samsung-ua50au7700-50-inch-4k" class=" main-contain">
-                    <div class="item-label">
-                    </div>
-                    <div class="item-img">
-                        <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118978_6014_smart_tivi_samsung_ua50au7700_50_inch_4k_org_11.jpg" class="lazyload" alt="Smart Tivi Samsung UA50AU7700 50 inch 4K" width="210" height="210">
-                    </div>
-                    
-                    <h3>Smart Tivi Samsung UA50AU7700 50 inch 4K</h3>
-                    <strong class="price">11.990.000₫</strong>
-                    </a>
-                </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 10px;"><div class="item">
-                    <a href="https://dienmaynguoiviet.vn/smart-tivi-neo-qled-samsung-qa75qn85a-75-inch-4k" class=" main-contain">
-                    <div class="item-label">
-                    </div>
-                    <div class="item-img">
-                        <img data-src="https://dienmaynguoiviet.vn/uploads/product/crawl/1651118979_5977_smart_tivi_neo_qled_samsung_qa75qn85a_75_inch_4k_org_16.jpg" class="lazyload" alt="Smart Tivi Neo QLED Samsung QA75QN85A 75 inch 4K" width="210" height="210">
-                    </div>
-                    
-                    <h3>Smart Tivi Neo QLED Samsung QA75QN85A 75 inch 4K</h3>
-                    <strong class="price">61.390.000₫</strong>
-                    </a>
-                </div></div></div></div><div class="owl-nav disabled"><div class="owl-prev">prev</div><div class="owl-next">next</div></div><div class="owl-dots"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div></div></div>
-                    </div>
-    </div>
-    <div class="border7"></div>
-    <div class="watched"></div>
-    
-    <div class="errorcompare" style="display:none;"></div>
-    <!--#endregion-->
-    <!--#region BreadcrumbList-->
-    <!--#endregion-->
-    <!--#region Organization-->
-    <!--#endregion-->
-</section>
+        <div class="errorcompare" style="display:none;"></div>
+        <!--#endregion-->
+        <!--#region BreadcrumbList-->
+        <!--#endregion-->
+        <!--#region Organization-->
+        <!--#endregion-->
+    </section>
 
 
 

@@ -3,9 +3,18 @@
 
 @push('style')
 <link rel="stylesheet" type="text/css" href="{{ asset('css/homesao.css') }}">
-
-
+<style type="text/css">
+    .dcjq-mega-menu #megamenu>.activated {
+        background: none;
+    }
+    .bg_pos6 .after-lazy{
+        height: 181px !important;
+        width: auto;
+    }
+</style>
 @endpush
+
+
 <div class="home_index ">
     <div class="navigation_main_wrapper" id="top-menu">
         <div class="menu_relative">
@@ -22,7 +31,7 @@
                             </svg>
                         </div>
                         <ul id = 'megamenu' class="menu mypopup">
-                            <li class="level_0 sort home activated active_home">
+                            <li class="level_0 sort home  active_home">
                                 <a  class="menu_item_a"  href="https://mutosi.com/" title="Mutosi chăm sóc sức khoẻ gia đình bạn" rel="home" >
                                     <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512.001 512.001" style="enable-background:new 0 0 512.001 512.001;" xml:space="preserve">
                                         <g>
@@ -39,7 +48,7 @@
                                 </a>
                             </li>
                             <li class="level_0 sort " id="level_t_890" >
-                                <a href="https://mutosi.com/cham-soc-nuoc" id="menu_item_890" class="menu_item_a" title="Chăm sóc nước">
+                                <a href="https://mutosi.com/cham-soc-nuoc" id="menu_item_890" class="menu_item_a" title="Máy lọc nước">
                                     <span class="icon_svg cls">
                                         <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                                             viewBox="0 0 382.8 382.8" style="enable-background:new 0 0 382.8 382.8;" xml:space="preserve">
@@ -60,7 +69,7 @@
                                             </g>
                                         </svg>
                                     </span>
-                                    Chăm sóc nước               
+                                    Máy lọc nước              
                                 </a>
                                 <!--    LEVEL 1         -->
                                 <span class="drop_down">
@@ -73,7 +82,7 @@
                                         </g>
                                     </svg>
                                 </span>
-                                <div class='highlight'>
+                               <!--  <div class='highlight'>
                                     <div class='highlight1 container'>
                                         <div class="menu-child_list">
                                             <div class='sub-menu sub-menu-level1 has_child  ' >
@@ -203,11 +212,11 @@
                                         </div>
                                     </div>
                                     <div class='menu_desc'></div>
-                                </div>
+                                </div> -->
                                 <!--    end LEVEL 1         -->
                             </li>
                             <li class="level_0 sort " id="level_t_895" >
-                                <a href="https://mutosi.com/cham-soc-bep" id="menu_item_895" class="menu_item_a" title="Chăm sóc bếp">
+                                <a href="https://mutosi.com/cham-soc-bep" id="menu_item_895" class="menu_item_a" title="Máy lọc không khí">
                                     <span class="icon_svg cls">
                                         <svg  height="50" viewBox="0 0 512 512" width="50" xmlns="http://www.w3.org/2000/svg">
                                             <path d="m272 296a8.008 8.008 0 0 0 -8-8h-48a8.008 8.008 0 0 0 -8 8v8h64z"/>
@@ -221,382 +230,9 @@
                                             <path d="m460.824 144.488a90.633 90.633 0 0 1 3.176 23.512v40h16v-40a24.039 24.039 0 0 0 -19.176-23.512z"/>
                                         </svg>
                                     </span>
-                                    Chăm sóc bếp                
+                                    Máy lọc không khí              
                                 </a>
-                                <!--    LEVEL 1         -->
-                                <span class="drop_down">
-                                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                                        width="255px" height="255px" viewBox="0 0 255 255" style="enable-background:new 0 0 255 255;" xml:space="preserve">
-                                        <g>
-                                            <g id="varrow-drop-down-895">
-                                                <polygon points="0,63.75 127.5,191.25 255,63.75         "/>
-                                            </g>
-                                        </g>
-                                    </svg>
-                                </span>
-                                <div class='highlight'>
-                                    <div class='highlight1 container'>
-                                        <div class="menu-child_list">
-                                            <div class='sub-menu sub-menu-level1 has_child  ' >
-                                                <a href="https://mutosi.com/bep-tu" class="level_0 sort sub-menu-item" data-menu_tags="15" id="menu3_item_15" title="Bếp từ"  >
-                                                Bếp từ                                      </a>
-                                            </div>
-                                            <div class='sub-menu sub-menu-level1 has_child  ' >
-                                                <a href="https://mutosi.com/bep-ga" class="level_0 sort sub-menu-item" data-menu_tags="59" id="menu3_item_59" title="Bếp Ga"  >
-                                                Bếp Ga                                      </a>
-                                            </div>
-                                            <div class='sub-menu sub-menu-level1 has_child  ' >
-                                                <a href="https://mutosi.com/bo-noi-chao" class="level_0 sort sub-menu-item" data-menu_tags="60" id="menu3_item_60" title="Bộ nồi chảo"  >
-                                                Bộ nồi chảo                                     </a>
-                                            </div>
-                                            <div class='sub-menu sub-menu-level1 has_child  ' >
-                                                <a href="https://mutosi.com/may-hut-mui" class="level_0 sort sub-menu-item" data-menu_tags="61" id="menu3_item_61" title="Máy hút mùi"  >
-                                                Máy hút mùi                                     </a>
-                                            </div>
-                                            <div class='sub-menu sub-menu-level1 has_child  ' >
-                                                <a href="https://mutosi.com/noi-ap-suat" class="level_0 sort sub-menu-item" data-menu_tags="39" id="menu3_item_39" title="Nồi áp suất"  >
-                                                Nồi áp suất                                     </a>
-                                            </div>
-                                            <div class='sub-menu sub-menu-level1 has_child  ' >
-                                                <a href="https://mutosi.com/noi-com-dien" class="level_0 sort sub-menu-item" data-menu_tags="36" id="menu3_item_36" title="Nồi cơm điện"  >
-                                                Nồi cơm điện                                        </a>
-                                            </div>
-                                            <div class='sub-menu sub-menu-level1 has_child  ' >
-                                                <a href="https://mutosi.com/may-ep-cham" class="level_0 sort sub-menu-item" data-menu_tags="40" id="menu3_item_40" title="Máy ép chậm"  >
-                                                Máy ép chậm                                     </a>
-                                            </div>
-                                            <div class='sub-menu sub-menu-level1 has_child  ' >
-                                                <a href="https://mutosi.com/am-dun-sieu-toc" class="level_0 sort sub-menu-item" data-menu_tags="42" id="menu3_item_42" title="Ấm đun siêu tốc"  >
-                                                Ấm đun siêu tốc                                     </a>
-                                            </div>
-                                            <div class='sub-menu sub-menu-level1 has_child  ' >
-                                                <a href="https://mutosi.com/noi-chien-khong-dau" class="level_0 sort sub-menu-item" data-menu_tags="4" id="menu3_item_4" title="Nồi chiên không dầu"  >
-                                                Nồi chiên không dầu                                     </a>
-                                            </div>
-                                            <div class='sub-menu sub-menu-level1 has_child  ' >
-                                                <a href="https://mutosi.com/may-xay" class="level_0 sort sub-menu-item" data-menu_tags="64" id="menu3_item_64" title="Máy xay"  >
-                                                Máy xay                                     </a>
-                                            </div>
-                                        </div>
-                                        <div class="wraper_item " data-menu_tags="15" data-menu_idt="0">
-                                            <div class="image_sub image_sub_0">
-                                                <a href="https://mutosi.com/bep-tu" title="Bếp từ">
-                                                <img  class="lazy" alt="Bếp từ" data-src="https://mutosi.com/images/products/cat/resized/banner-trang-con-bo-sung-02_1611801857.jpg" data-srcset="https://mutosi.com/images/products/cat/resized/banner-trang-con-bo-sung-02_1611801857.jpg.webp">                                      </a>
-                                            </div>
-                                            <div class="product_item">
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/bep-tu-doi-mutosi-mi-92d/" title = "Bếp từ đôi MUTOSI MI-92D" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2021/08/20/small/bep-tu-mutosi-mi92d_1629459859.png" alt="Bếp từ đôi MUTOSI MI-92D"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Bếp từ đôi MUTOSI MI-92D                                                          </div>
-                                                                <span class="price"> 9.990.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/bep-tu-doi-mutosi-mi-95d/" title = "Bếp từ đôi MUTOSI MI-95D" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2021/05/14/small/md95_1620973853.png" alt="Bếp từ đôi MUTOSI MI-95D"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Bếp từ đôi MUTOSI MI-95D                                                          </div>
-                                                                <span class="price"> 10.690.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="wraper_item hide" data-menu_tags="59" data-menu_idt="1">
-                                            <div class="image_sub image_sub_1">
-                                                <a href="https://mutosi.com/bep-ga" title="Bếp Ga">
-                                                <img  class="lazy" alt="Bếp Ga" data-src="https://mutosi.com/images/products/cat/resized/banner-trang-con-bo-sung-03_1611801555.jpg" data-srcset="https://mutosi.com/images/products/cat/resized/banner-trang-con-bo-sung-03_1611801555.jpg.webp">                                      </a>
-                                            </div>
-                                            <div class="product_item">
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/bep-ga-am-co-mutosi-mg-56c/" title = "Bếp ga âm cơ Mutosi MG-56C" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2021/07/14/small/bep-ga-am-mutosi-2_1620902870_1626233549.png" alt="Bếp ga âm cơ Mutosi MG-56C"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Bếp ga âm cơ Mutosi MG-56C                                                            </div>
-                                                                <span class="price"> 2.380.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/bep-ga-duong-mutosi-mg-38b/" title = "Bếp ga dương Mutosi MG-38B" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2020/12/02/small/untitled-17_1606899925.png" alt="Bếp ga dương Mutosi MG-38B"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Bếp ga dương Mutosi MG-38B                                                            </div>
-                                                                <span class="price"> 1.970.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="wraper_item hide" data-menu_tags="60" data-menu_idt="2">
-                                            <div class="image_sub image_sub_2">
-                                                <a href="https://mutosi.com/bo-noi-chao" title="Bộ nồi chảo">
-                                                <img  class="lazy" alt="Bộ nồi chảo" data-src="https://mutosi.com/images/products/cat/resized/banner-trang-con-bo-sung-04_1611801801.jpg" data-srcset="https://mutosi.com/images/products/cat/resized/banner-trang-con-bo-sung-04_1611801801.jpg.webp">                                     </a>
-                                            </div>
-                                            <div class="product_item">
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/bo-noi-chao-inox-mutosi-mc-347/" title = "Bộ nồi chảo Inox Mutosi MC-347" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2020/12/02/small/bo-noi-chao-inox-mutosi_1606899862.png" alt="Bộ nồi chảo Inox Mutosi MC-347"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Bộ nồi chảo Inox Mutosi MC-347                                                            </div>
-                                                                <span class="price"> 1.950.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="wraper_item hide" data-menu_tags="61" data-menu_idt="3">
-                                            <div class="image_sub image_sub_3">
-                                                <a href="https://mutosi.com/may-hut-mui" title="Máy hút mùi">
-                                                <img  class="lazy" alt="Máy hút mùi" data-src="https://mutosi.com/images/products/cat/resized/banner-trang-con-bo-sung-01_1611801507.jpg" data-srcset="https://mutosi.com/images/products/cat/resized/banner-trang-con-bo-sung-01_1611801507.jpg.webp">                                     </a>
-                                            </div>
-                                            <div class="product_item">
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/may-hut-mui-kinh-cong-cam-ung-mutosi-mh-73t-70c/" title = "Máy Hút Mùi Kính Cong Cảm Ứng Mutosi MH-73T-70C" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2021/05/20/small/27_1621494074.png" alt="Máy Hút Mùi Kính Cong Cảm Ứng Mutosi MH-73T-70C"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Máy Hút Mùi Kính Cong Cảm Ứng Mutosi MH-73T-70C                                                           </div>
-                                                                <span class="price"> 5.990.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/may-hut-mui-kinh-cong-mutosi-mh-33b-70c/" title = "Máy Hút Mùi Kính Cong Mutosi MH-33B-70C" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2021/05/20/small/26_1621493977.png" alt="Máy Hút Mùi Kính Cong Mutosi MH-33B-70C"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Máy Hút Mùi Kính Cong Mutosi MH-33B-70C                                                           </div>
-                                                                <span class="price"> 4.380.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="wraper_item hide" data-menu_tags="39" data-menu_idt="4">
-                                            <div class="image_sub image_sub_4">
-                                                <a href="https://mutosi.com/noi-ap-suat" title="Nồi áp suất">
-                                                <img  class="lazy" alt="Nồi áp suất" data-src="https://mutosi.com/images/products/cat/resized/z2487934527257_7e7f90a9494c6c6e609b208ba1cb93c8_1620974228.jpg" data-srcset="https://mutosi.com/images/products/cat/resized/z2487934527257_7e7f90a9494c6c6e609b208ba1cb93c8_1620974228.jpg.webp">                                     </a>
-                                            </div>
-                                            <div class="product_item">
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/noi-ap-suat-dien-mutosi-mip-59/" title = "Nồi áp suất điện Mutosi MIP-59" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2021/03/17/small/noi-ap-suat-mutosi-mip59_1615955891.png" alt="Nồi áp suất điện Mutosi MIP-59"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Nồi áp suất điện Mutosi MIP-59                                                            </div>
-                                                                <span class="price"> 1.490.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="wraper_item hide" data-menu_tags="36" data-menu_idt="5">
-                                            <div class="image_sub image_sub_5">
-                                                <a href="https://mutosi.com/noi-com-dien" title="Nồi cơm điện">
-                                                <img  class="lazy" alt="Nồi cơm điện" data-src="https://mutosi.com/images/products/cat/resized/4_1620893062.png" data-srcset="https://mutosi.com/images/products/cat/resized/4_1620893062.png.webp">                                        </a>
-                                            </div>
-                                            <div class="product_item">
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/noi-com-dien-mutosi-mr-36pb-mau-vang-dong/" title = "Nồi cơm điện Mutosi MR-36PB (Màu vàng đồng)" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2022/03/28/small/mr-36--bo-icon_1648458154.png" alt="Nồi cơm điện Mutosi MR-36PB (Màu vàng đồng)"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Nồi cơm điện Mutosi MR-36PB (Màu vàng đồng)                                                           </div>
-                                                                <span class="price"> 1.020.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/noi-com-dien-mutosi-mr-12-do/" title = "Nồi cơm điện Mutosi MR-12 (Đỏ) - SP Ngừng Kinh doanh" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2022/03/28/small/mr-12-do_1648458316.png" alt="Nồi cơm điện Mutosi MR-12 (Đỏ) - SP Ngừng Kinh doanh"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Nồi cơm điện Mutosi MR-12 (Đỏ) - SP Ngừng Kinh doanh                                                          </div>
-                                                                <span class="price"> 850.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="wraper_item hide" data-menu_tags="40" data-menu_idt="6">
-                                            <div class="image_sub image_sub_6">
-                                                <a href="https://mutosi.com/may-ep-cham" title="Máy ép chậm">
-                                                <img  class="lazy" alt="Máy ép chậm" data-src="https://mutosi.com/images/products/cat/resized/mj-86r-2_1645522333.jpg" data-srcset="https://mutosi.com/images/products/cat/resized/mj-86r-2_1645522333.jpg.webp">                                       </a>
-                                            </div>
-                                            <div class="product_item">
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/may-ep-cham-mutosi-mj-83/" title = "Máy ép chậm Mutosi MJ-83" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2021/05/20/small/8_1621494783.png" alt="Máy ép chậm Mutosi MJ-83"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Máy ép chậm Mutosi MJ-83                                                          </div>
-                                                                <span class="price"> 2.250.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/may-ep-cham-mutosi-mj-86r/" title = "Máy ép chậm Mutosi MJ-86R" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2021/09/23/small/mj-86r-714x714_1632372893.png" alt="Máy ép chậm Mutosi MJ-86R"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Máy ép chậm Mutosi MJ-86R                                                         </div>
-                                                                <span class="price"> 3.000.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="wraper_item hide" data-menu_tags="42" data-menu_idt="7">
-                                            <div class="image_sub image_sub_7">
-                                                <a href="https://mutosi.com/am-dun-sieu-toc" title="Ấm đun siêu tốc">
-                                                <img  class="lazy" alt="Ấm đun siêu tốc" data-src="https://mutosi.com/images/products/cat/resized/3_1595242469.jpg" data-srcset="https://mutosi.com/images/products/cat/resized/3_1595242469.jpg.webp">                                     </a>
-                                            </div>
-                                            <div class="product_item">
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/am-dun-sieu-toc-mutosi-mk-18-hong/" title = "Ấm đun siêu tốc Mutosi MK-18 (Hồng)" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2021/05/20/small/13_1621494914.png" alt="Ấm đun siêu tốc Mutosi MK-18 (Hồng)"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Ấm đun siêu tốc Mutosi MK-18 (Hồng)                                                           </div>
-                                                                <span class="price"> 560.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/am-dun-sieu-toc-mutosi-mk-18-xanh/" title = "Ấm đun siêu tốc Mutosi MK-18 (Xanh)" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2021/05/20/small/14_1621494397.png" alt="Ấm đun siêu tốc Mutosi MK-18 (Xanh)"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Ấm đun siêu tốc Mutosi MK-18 (Xanh)                                                           </div>
-                                                                <span class="price"> 560.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="wraper_item hide" data-menu_tags="4" data-menu_idt="8">
-                                            <div class="image_sub image_sub_8">
-                                                <a href="https://mutosi.com/noi-chien-khong-dau" title="Nồi chiên không dầu">
-                                                <img  class="lazy" alt="Nồi chiên không dầu" data-src="https://mutosi.com/images/products/cat/resized/mf99d-550x330-01_1645523030.jpg" data-srcset="https://mutosi.com/images/products/cat/resized/mf99d-550x330-01_1645523030.jpg.webp">                                       </a>
-                                            </div>
-                                            <div class="product_item">
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/noi-chien-khong-dau-mf88-den/" title = "Nồi chiên không dầu Mutosi MF-88 (Đen) Tạm thời hết hàng" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2021/05/20/small/2_1621495769.png" alt="Nồi chiên không dầu Mutosi MF-88 (Đen) Tạm thời hết hàng"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Nồi chiên không dầu Mutosi MF-88 (Đen) Tạm thời hết hàng                                                          </div>
-                                                                <span class="price"> 2.290.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/noi-chien-khong-dau-mf88-xanh/" title = "Nồi chiên không dầu Mutosi MF-88 (Xanh) Tạm thời hết hàng" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2021/05/20/small/3_1621495819.png" alt="Nồi chiên không dầu Mutosi MF-88 (Xanh) Tạm thời hết hàng"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Nồi chiên không dầu Mutosi MF-88 (Xanh) Tạm thời hết hàng                                                         </div>
-                                                                <span class="price"> 2.290.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="wraper_item hide" data-menu_tags="64" data-menu_idt="9">
-                                            <div class="image_sub image_sub_9">
-                                                <a href="https://mutosi.com/may-xay" title="Máy xay">
-                                                <img data-src="https://mutosi.com/images/config/ho-tro-khach-hang.jpg" class="lazy grayscale" alt="Máy xay" />
-                                                </a>
-                                            </div>
-                                            <div class="product_item">
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/may-xay-thit-da-nang-mutosi-mb-g523/" title = "Máy xay thịt đa năng Mutosi MB-G523" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2022/05/22/small/1_1653226893.png" alt="Máy xay thịt đa năng Mutosi MB-G523"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Máy xay thịt đa năng Mutosi MB-G523                                                           </div>
-                                                                <span class="price"> 990.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/may-xay-thit-da-nang-mutosi-mb-g522/" title = "Máy xay thịt đa năng Mutosi MB-G522" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2022/05/21/small/1_1653131580.png" alt="Máy xay thịt đa năng Mutosi MB-G522"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Máy xay thịt đa năng Mutosi MB-G522                                                           </div>
-                                                                <span class="price"> 950.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class='menu_desc'></div>
-                                </div>
-                                <!--    end LEVEL 1         -->
+                              
                             </li>
                             <li class="level_0 sort " id="level_t_897" >
                                 <a href="https://mutosi.com/cham-soc-khi" id="menu_item_897" class="menu_item_a" title="Chăm sóc khí">
@@ -619,10 +255,10 @@
                                             </g>
                                         </svg>
                                     </span>
-                                    Chăm sóc khí                
+                                    Máy lọc đầu nguồn                
                                 </a>
-                                <!--    LEVEL 1         -->
-                                <span class="drop_down">
+                               
+                               <!--  <span class="drop_down">
                                     <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                                         width="255px" height="255px" viewBox="0 0 255 255" style="enable-background:new 0 0 255 255;" xml:space="preserve">
                                         <g>
@@ -740,80 +376,10 @@
                                         </div>
                                     </div>
                                     <div class='menu_desc'></div>
-                                </div>
-                                <!--    end LEVEL 1         -->
+                                </div> -->
+                               
                             </li>
-                            <li class="level_0 sort " id="level_t_898" >
-                                <a href="https://mutosi.com/cham-soc-moi-truong" id="menu_item_898" class="menu_item_a" title="Chăm sóc môi trường">
-                                    <span class="icon_svg cls">
-                                        <svg height="50" viewBox="0 -105 512.001 512" width="50" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="m192.765625 301.484375c-5.1875 0-10.226563-2.691406-13.003906-7.5l-18.5-32.042969c-4.144531-7.175781-1.6875-16.351562 5.488281-20.492187s16.347656-1.683594 20.488281 5.492187l18.5 32.042969c4.144531 7.171875 1.6875 16.347656-5.488281 20.488281-2.363281 1.363282-4.941406 2.011719-7.484375 2.011719zm0 0"/>
-                                            <path d="m265.265625 301.484375c-5.1875 0-10.226563-2.691406-13.003906-7.5l-18.5-32.042969c-4.144531-7.175781-1.6875-16.351562 5.488281-20.492187s16.347656-1.683594 20.488281 5.492187l18.5 32.042969c4.144531 7.171875 1.6875 16.347656-5.488281 20.488281-2.363281 1.363282-4.941406 2.011719-7.484375 2.011719zm0 0"/>
-                                            <path d="m337.765625 301.484375c-5.1875 0-10.226563-2.691406-13.003906-7.5l-18.5-32.042969c-4.144531-7.175781-1.6875-16.351562 5.488281-20.492187s16.347656-1.683594 20.488281 5.492187l18.5 32.042969c4.144531 7.171875 1.6875 16.347656-5.488281 20.488281-2.363281 1.363282-4.941406 2.011719-7.484375 2.011719zm0 0"/>
-                                            <path d="m102.96875 182.742188-4.851562 32.746093h315.765624l-4.851562-32.746093zm0 0"/>
-                                            <path d="m468.863281 0h-425.726562c-23.785157 0-43.136719 19.351562-43.136719 43.132812v129.21875c0 23.785157 19.351562 43.136719 43.136719 43.136719h24.65625l.316406-2.144531.84375-5.6875 2.695313-18.210938 3.539062-23.902343c1.089844-7.351563 7.402344-12.800781 14.839844-12.800781h331.949218c7.433594 0 13.746094 5.445312 14.835938 12.800781l3.539062 23.902343 2.699219 18.210938.839844 5.6875.320313 2.144531h24.65625c23.78125 0 43.132812-19.351562 43.132812-43.136719v-129.21875c0-23.78125-19.351562-43.132812-43.136719-43.132812zm-57.152343 127.992188c-8.902344 0-16.148438-7.246094-16.148438-16.148438s7.246094-16.148438 16.148438-16.148438c8.902343 0 16.148437 7.246094 16.148437 16.148438s-7.246094 16.148438-16.148437 16.148438zm0-42c-8.902344 0-16.148438-7.246094-16.148438-16.148438s7.246094-16.148438 16.148438-16.148438c8.902343 0 16.148437 7.246094 16.148437 16.148438s-7.246094 16.148438-16.148437 16.148438zm0 0"/>
-                                        </svg>
-                                    </span>
-                                    Chăm sóc môi trường             
-                                </a>
-                                <!--    LEVEL 1         -->
-                                <span class="drop_down">
-                                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                                        width="255px" height="255px" viewBox="0 0 255 255" style="enable-background:new 0 0 255 255;" xml:space="preserve">
-                                        <g>
-                                            <g id="varrow-drop-down-898">
-                                                <polygon points="0,63.75 127.5,191.25 255,63.75         "/>
-                                            </g>
-                                        </g>
-                                    </svg>
-                                </span>
-                                <div class='highlight'>
-                                    <div class='highlight1 container'>
-                                        <div class="menu-child_list">
-                                            <div class='sub-menu sub-menu-level1 has_child  ' >
-                                                <a href="https://mutosi.com/he-thong-xu-ly-nuoc-cap" class="level_0 sort sub-menu-item" data-menu_tags="54" id="menu3_item_54" title="Hệ thống xử lý nước cấp"  >
-                                                Hệ thống xử lý nước cấp                                     </a>
-                                            </div>
-                                        </div>
-                                        <div class="wraper_item " data-menu_tags="54" data-menu_idt="0">
-                                            <div class="image_sub image_sub_0">
-                                                <a href="https://mutosi.com/he-thong-xu-ly-nuoc-cap" title="Hệ thống xử lý nước cấp">
-                                                <img  class="lazy" alt="Hệ thống xử lý nước cấp" data-src="https://mutosi.com/images/products/cat/resized/0110-banner-trang-chu-bo-sung-5_1633077479.jpg" data-srcset="https://mutosi.com/images/products/cat/resized/0110-banner-trang-chu-bo-sung-5_1633077479.jpg.webp">                                     </a>
-                                            </div>
-                                            <div class="product_item">
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/he-thong-loc-nuoc-tinh-khiet-ro-cong-nghiep/" title = "Hệ thống lọc nước tinh khiết RO Công nghiệp" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2020/06/10/small/ro-cong-nghiep_1591765099.png" alt="Hệ thống lọc nước tinh khiết RO Công nghiệp"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Hệ thống lọc nước tinh khiết RO Công nghiệp                                                           </div>
-                                                                <span class="price"> Contact</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/he-thong-xu-ly-nguon-nuoc-nhiem-kim-loai-nang-tap-chat-huu-co-va-da-voi-mt075-3/" title = "Hệ thống xử lý Nguồn nước nhiễm Kim loại nặng, tạp chất hữu cơ và đá vôi MT075-3" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2021/12/29/small/mt075-3_1640771967.png" alt="Hệ thống xử lý Nguồn nước nhiễm Kim loại nặng, tạp chất hữu cơ và đá vôi MT075-3"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Hệ thống xử lý Nguồn nước nhiễm Kim loại nặng, tạp chất hữu cơ và đá vôi MT075-3                                                          </div>
-                                                                <span class="price"> 18.890.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class='menu_desc'></div>
-                                </div>
-                                <!--    end LEVEL 1         -->
-                            </li>
+                           
                             <!--    CHILDREN                -->
                         </ul>
                     </div>
@@ -824,13 +390,15 @@
         </div>
     </div>
     <div class="modal-menu-full-screen"></div>
+
+    
     <div class="slideshow_countdown cls">
         <div class="slideshow">
             <div id="pav-slideShow">
                 <div id="fs-slider-home" class="owl-carousel">
                     <div class="item hide">
                         <a href="https://truesmart.mutosi.com/?utm_source=Optimal.content&utm_medium=banner.link&utm_campaign=BannerSlide_Ldp.Truesmart" title="">  
-                        <img  alt="Mutosi chuẩn chất lượng Nhật Bản" src ="https://mutosi.com/images/slideshow/2022/06/06/compress/to-roi-truesmart_rgb-04_1654491073.jpg" srcset="https://mutosi.com/images/slideshow/2022/06/06/compress/to-roi-truesmart_rgb-04_1654491073.jpg.webp">                                            </a>
+                        <img  alt="Mutosi chuẩn chất lượng Nhật Bản" src ="https://theme.hstatic.net/1000286959/1000784865/14/slideshow_4.jpg?v=345" srcset="https://theme.hstatic.net/1000286959/1000784865/14/slideshow_4.jpg?v=345">                                            </a>
                         <div class="container">
                             <div class="slide-content">
                             </div>
@@ -838,7 +406,7 @@
                     </div>
                     <div class="item hide">
                         <a href="https://mutosi.com/may-loc-nuoc-mutosi-9-loi-enrolas-mp-e91s/?utm_source=Optimal.content&utm_medium=banner.link&utm_campaign=BannerSlide_MPE91S" title=""> 
-                        <img  class="owl-lazy" alt="Mutosi chuẩn chất lượng Nhật Bản" data-src="https://mutosi.com/images/slideshow/2022/02/24/compress/mang-ro-slitec-dat-chuan--ansi-58-1_1645667788.jpg" data-srcset="https://mutosi.com/images/slideshow/2022/02/24/compress/mang-ro-slitec-dat-chuan--ansi-58-1_1645667788.jpg.webp">                                          </a>
+                        <img  class="owl-lazy" alt="Mutosi chuẩn chất lượng Nhật Bản" data-src="https://theme.hstatic.net/1000286959/1000784865/14/slideshow_2.jpg?v=345" data-srcset="https://theme.hstatic.net/1000286959/1000784865/14/slideshow_2.jpg?v=345">                                          </a>
                         <div class="container">
                             <div class="slide-content">
                             </div>
@@ -848,6 +416,8 @@
             </div>
         </div>
     </div>
+
+
     <div class="introdu pos1">
         <div class=" container">
             <div class='block_introduce introduce- introduce_0 block'  id = "block_id_121" >
@@ -855,13 +425,17 @@
                     <div class="body-introduce cls">
                         <div class="content-bl">
                             <div class="title1">
-                                <h1>Giới thiệu Mutosi</h1>
+                                <h1>Giới thiệu</h1>
                             </div>
                             <div class="summary-bl">
-                                <p><span style="font-size:26px"><strong>Nghi&ecirc;n cứu v&agrave; sản xuất c&aacute;c thiết bị gia dụng</strong></span><span style="font-size:11pt"><span style="background-color:white"><span><span style="font-family:Calibri,sans-serif"><span style="font-size:12.5pt"><span><span style="color:#222222"> </span></span></span></span></span></span></span></p>
+                               <p>
+                                       
+                                </p>
                             </div>
                             <div class="description_c">
-                                <p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:18px"><span style="background-color:white"><span style="color:#222222">Ch&uacute;ng t&ocirc;i l&agrave; nh&agrave; sản xuất v&agrave; ph&acirc;n phối mang sứ mệnh đặc biệt trong ng&agrave;nh c&ocirc;ng nghiệp gia dụng &amp; m&ocirc;i trường. Ch&uacute;ng t&ocirc;i &aacute;p dụng những hệ thống quản trị chất lượng như ISO; 5S; Lean 6 Sigma &hellip; h&igrave;nh th&agrave;nh n&ecirc;n MPS &ndash; Mutosi Production System xoay quanh sự dịch chuyển của trải nghiệm người d&ugrave;ng, hướng tới c&aacute;c sản phẩm chất lượng cao hơn, bền hơn.&nbsp;</span></span></span></span></p>
+                                 Trong hơn 145 năm phát triển, thương hiệu A. O. Smith được biết đến với hàng loạt giải pháp và hàng trăm phát minh, sáng chế về công nghệ ứng dụng mang lại không chỉ sự tiện nghi mà còn là những tiện ích thực sự cho khách hàng. Trên chặng đường thành công bền bỉ của mình, qua những cột mốc lịch sử, những thành tựu nổi bật của A. O. Smith được đánh dấu và đóng góp bởi những cá nhân và tập thể A. O. Smith đoàn kết cùng nhau gây dựng.
+                                    <br><br>
+                                    Với tôn chỉ “Chính trực – Đổi mới – Niềm tin của khách hàng”, tập thể A. O. Smith luôn đảm bảo sự phồn thịnh cho công ty và hướng tới hơn 145 năm thành công bền vững.
                             </div>
                             <div class="block-strengths block-strengths-3 block-strengths-row-3 cls">
                                 <div class="box_item_strengths-3 cls">
@@ -933,9 +507,9 @@
                                     <div class="clear"></div>
                                 </div>
                             </div>
-                            <div class="read_more">
+                           <!--  <div class="read_more">
                                 <a href="ct-gioi-thieu-cong-ty.html" title="Giới thiệu Mutosi">Xem thêm Mutosi</a>
-                            </div>
+                            </div> -->
                         </div>
                         <div class="intro_images">
                             <!-- <span></span>
@@ -943,7 +517,8 @@
                                 <span></span>
                                 <span></span> -->
                             <a href="ct-gioi-thieu-cong-ty.html" title="Giới thiệu Mutosi">
-                            <img  class="lazy" alt="Giới thiệu Mutosi" data-src="https://mutosi.com/images/introduce/2020/02/24/large/image_1582541617.jpg" data-srcset="https://mutosi.com/images/introduce/2020/02/24/large/image_1582541617.jpg.webp">                   </a>
+                                <img  class="lazy" alt="Giới thiệu Mutosi" data-src="https://theme.hstatic.net/1000286959/1000784865/14/logo_about.png?v=345" data-srcset="https://theme.hstatic.net/1000286959/1000784865/14/logo_about.png?v=345">                   
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -967,7 +542,7 @@
                             <img  class="lazy" alt="Điểm mạnh" data-src="https://mutosi.com/images/config/banner-vong-tron-trang-chu---2-10_1586799874_1587626211.png" data-srcset="https://mutosi.com/images/config/banner-vong-tron-trang-chu---2-10_1586799874_1587626211.png.webp">         
                             <div class="item item_1 bg_1">
                                 <div class="item_inner">
-                                    <img  class="lazy img_1" alt="QCVN 6-1:2010/BYT" data-src="https://mutosi.com/blocks/strengths/assets/images/v11.png" data-srcset="https://mutosi.com/blocks/strengths/assets/images/v11.png.webp">                                             
+                                    <img  class="lazy img_1" alt="QCVN 6-1:2010/BYT" data-src="{{ asset('images/banner/v11.png')}}" data-srcset="{{ asset('images/banner/v11.png')}}">                                             
                                     <div class="svg_icon">
                                         <img  class="lazy" alt="QCVN 6-1:2010/BYT" data-src="https://mutosi.com/images/strengths/resized/icon-trang-chu_1587957998.png" data-srcset="https://mutosi.com/images/strengths/resized/icon-trang-chu_1587957998.png.webp">                       
                                     </div>
@@ -984,7 +559,7 @@
                             </div>
                             <div class="item item_2 bg_2">
                                 <div class="item_inner">
-                                    <img  class="lazy img_2" alt="RO SLITEC" data-src="https://mutosi.com/blocks/strengths/assets/images/v22.png" data-srcset="https://mutosi.com/blocks/strengths/assets/images/v22.png.webp">                                             
+                                    <img  class="lazy img_2" alt="RO SLITEC" data-src="{{ asset('images/banner/v22.png')}}" data-srcset="{{ asset('images/banner/v22.png')}}">                                             
                                     <div class="svg_icon">
                                         <img  class="lazy" alt="RO SLITEC" data-src="https://mutosi.com/images/strengths/resized/loi-loc-nuoc-mutosi-10_1625710046.png" data-srcset="https://mutosi.com/images/strengths/resized/loi-loc-nuoc-mutosi-10_1625710046.png.webp">                       
                                     </div>
@@ -1001,15 +576,15 @@
                             </div>
                             <div class="item item_3 bg_3">
                                 <div class="item_inner">
-                                    <img  class="lazy img_3" alt="RO SLITEC" data-src="https://mutosi.com/blocks/strengths/assets/images/v3.png" data-srcset="https://mutosi.com/blocks/strengths/assets/images/v3.png.webp">                           
+                                    <img  class="lazy img_3" alt="RO SLITEC" data-src="{{ asset('images/banner/v3.png')}}" data-srcset="{{ asset('images/banner/v3.png')}}">                           
                                     <div class="image_cat">
-                                        <img  class="lazy" alt="Tiêu chuẩn nhật" data-src="https://mutosi.com/images/strengths/compress/untitled-1_1626834030.png" data-srcset="https://mutosi.com/images/strengths/compress/untitled-1_1626834030.png.webp">                           
+                                        <img  class="lazy" alt="Tiêu chuẩn nhật" data-src="" data-srcset="">                           
                                     </div>
                                 </div>
                             </div>
                             <div class="item item_4 bg_4">
                                 <div class="item_inner">
-                                    <img  class="lazy img_4" alt="Máy lọc nước" data-src="https://mutosi.com/blocks/strengths/assets/images/v44.png" data-srcset="https://mutosi.com/blocks/strengths/assets/images/v44.png.webp">
+                                    <img  class="lazy img_4" alt="Máy lọc nước" data-src="{{ asset('images/banner/v33.png') }}" data-srcset="{{ asset('images/banner/v33.png') }}">
                                     <div class="svg_icon">
                                         <img  class="lazy" alt="Máy lọc nước" data-src="https://mutosi.com/images/strengths/resized/icon-trang-chu-3_1587957988.png" data-srcset="https://mutosi.com/images/strengths/resized/icon-trang-chu-3_1587957988.png.webp">                        
                                     </div>
@@ -1037,9 +612,9 @@
             <div class='block_strengths strengths_0 blocks_strengths_left blocks0 block'  id = "block_id_130" >
                 <div class="block_title">
                     <h2>
-                    <a href="https://mutosi.com/noi-com-dien-pc36.html" title="Nồi cơm điện Cơm ngon nhanh chín - Gia đình yêu thương">
-                    <span class="text-left">Nồi cơm điện</span>
-                    <span class="text-right">Cơm ngon nhanh chín - Gia đình yêu thương</span>
+                    <a href="#" title="">
+                    <span class="text-left">Máy lọc nước</span>
+                   <!--  <span class="text-right">Cơm ngon nhanh chín - Gia đình yêu thương</span> -->
                     </a>
                 </div>
                 <div class='strengths_vertical_block cls'>
@@ -1053,8 +628,10 @@
                             <div class="item-r">
                                 <h3>
                                     <span class="sumamry">
-                                    Bảo hành                                                            <br>
-                                    12 tháng                                                    </span>
+                                        Bảo hành                                                            
+                                        <br>
+                                        12 tháng                                                    
+                                    </span>
                                 </h3>
                             </div>
                         </div>
@@ -1069,8 +646,10 @@
                             <div class="item-r">
                                 <h3>
                                     <span class="sumamry">
-                                    Nhiệt                                                           <br>
-                                    tỏa đều                                                 </span>
+                                        Nhiệt                                                           
+                                        <br>
+                                        tỏa đều                                                 
+                                    </span>
                                 </h3>
                             </div>
                         </div>
@@ -1085,14 +664,16 @@
                             <div class="item-r">
                                 <h3>
                                     <span class="sumamry">
-                                    Lòng nồi nhôm                                                           <br>
-                                    đúc siêu dầy                                                    </span>
+                                        Lòng nồi nhôm                                                           
+                                        <br>
+                                        đúc siêu dầy                                                    
+                                    </span>
                                 </h3>
                             </div>
                         </div>
                     </div>
                     <div class="cat_image">
-                        <img  class="lazy" alt="Nồi cơm điện" data-src="https://mutosi.com/images/strengths/compress/rice_cook_mutosi_1582710394_1614313594.png" data-srcset="https://mutosi.com/images/strengths/compress/rice_cook_mutosi_1582710394_1614313594.png.webp">    
+                        <img  class="lazy" alt="Nồi cơm điện" data-src="{{ asset('images/home/maylocnuoc.png') }}" data-srcset="{{ asset('images/home/maylocnuoc.png') }}">    
                     </div>
                 </div>
             </div>
@@ -1100,8 +681,8 @@
                 <div class="block_title">
                     <h2>
                     <a href="" title="Thiết bị gia dụng Thiết bị đắc lực tạo nên những món ăn thơm ngon cho gia đình bạn">
-                    <span class="text-left">Thiết bị gia dụng</span>
-                    <span class="text-right">Thiết bị đắc lực tạo nên những món ăn thơm ngon cho gia đình bạn</span>
+                    <span class="text-left">Máy lọc không khí</span>
+                   
                     </a>
                 </div>
                 <div class='strengths_vertical_block cls'>
@@ -1109,7 +690,7 @@
                         <div class="item-inner">
                             <div class="item-l">
                                 <div class="svg_icon">
-                                    <img  class="lazy" alt="Giữ chọn" data-src="https://mutosi.com/images/strengths/large/artboard-125_1634375486_1648113122.png" data-srcset="https://mutosi.com/images/strengths/large/artboard-125_1634375486_1648113122.png.webp">                  
+                                    <img  class="lazy" alt="Giữ chọn" data-src="{{ asset('images/home/sticker_phanloai.png') }}" data-srcset="{{ asset('images/home/sticker_phanloai.png') }}">                  
                                 </div>
                             </div>
                             <div class="item-r">
@@ -1153,9 +734,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="cat_image">
+                   <!--  <div class="cat_image">
                         <img  class="lazy" alt="Thiết bị gia dụng" data-src="https://mutosi.com/images/strengths/compress/rice_cook_1582710093_1614313605-2_1633077199.png" data-srcset="https://mutosi.com/images/strengths/compress/rice_cook_1582710093_1614313605-2_1633077199.png.webp">   
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -1170,39 +751,39 @@
     <div  class="bg_pos6 lazy"style="background-image: url(https://mutosi.com/images/config/10-4-landing-page-4_1586533691.jpg.webp); display: block;">
         <div class="pos6 container">
             <div class='block_product_cat product_cat_0 blocks_product_cat blocks0 block'  id = "block_id_129" >
-                <div class="block_title"><span class="text-right"><img  class="lazy" alt="Logo" data-src="https://mutosi.com/images/config/logo---2022-01-2_1644216762.png" data-srcset="https://mutosi.com/images/config/logo---2022-01-2_1644216762.png.webp"></span></div>
+                <div class="block_title"><span class="text-right"><img  class="lazy" alt="Logo" data-src="{{ asset('images/logo.svg') }}" data-srcset="{{ asset('images/logo.svg') }}"></span></div>
                 <div class="_content product_cat_slide product_hide">
                     <div class="item " >
-                        <a href="https://mutosi.com/cham-soc-nuoc"  title="Chăm sóc nước">
+                        <a href="#"  title="Chăm sóc nước">
                             <figure>
-                                <img  class="lazy" alt="Chăm sóc nước" data-src="https://mutosi.com/images/products/cat/large/anh-san-pham-do-bong-trang-chu_1587995177.png" data-srcset="https://mutosi.com/images/products/cat/large/anh-san-pham-do-bong-trang-chu_1587995177.png.webp">
+                                <img  class="lazy" alt="Chăm sóc nước" data-src="{{ asset('images/home/image-mayloc.png') }}" data-srcset="{{ asset('images/home/image-mayloc.png') }}">
                             </figure>
                         </a>
-                        <h2> <a href="https://mutosi.com/cham-soc-nuoc"  title="Chăm sóc nước">  <span class="product_title">Chăm sóc nước</span> </a></h2>
+                        <h2> <a href="https://mutosi.com/cham-soc-nuoc"  title="Máy lọc nước">  <span class="product_title">Máy lọc nước</span> </a></h2>
                     </div>
                     <div class="item " >
-                        <a href="https://mutosi.com/cham-soc-bep"  title="Chăm sóc bếp">
+                        <a href="https://mutosi.com/cham-soc-bep"  title="Máy lọc không khí">
                             <figure>
-                                <img  class="lazy" alt="Chăm sóc bếp" data-src="https://mutosi.com/images/products/cat/large/anh-san-pham-do-bong-trang-chu-1_1587995165.png" data-srcset="https://mutosi.com/images/products/cat/large/anh-san-pham-do-bong-trang-chu-1_1587995165.png.webp">
+                                <img  class="lazy" alt="Máy lọc không khí" data-src="{{ asset('images/home/sticker_phanloai.png') }}" data-srcset="{{ asset('images/home/sticker_phanloai.png') }}">
                             </figure>
                         </a>
-                        <h2> <a href="https://mutosi.com/cham-soc-bep"  title="Chăm sóc bếp">  <span class="product_title">Chăm sóc bếp</span> </a></h2>
+                        <h2> <a href="https://mutosi.com/cham-soc-bep"  title="Máy lọc không khí">  <span class="product_title">Máy lọc không khí</span> </a></h2>
                     </div>
                     <div class="item " >
                         <a href="https://mutosi.com/cham-soc-khi"  title="Chăm sóc khí">
                             <figure>
-                                <img  class="lazy" alt="Chăm sóc khí" data-src="https://mutosi.com/images/products/cat/large/anh-san-pham-do-bong-trang-chu-3_1587995139.png" data-srcset="https://mutosi.com/images/products/cat/large/anh-san-pham-do-bong-trang-chu-3_1587995139.png.webp">
+                                <img  class="lazy" alt="Chăm sóc khí" data-src="{{ asset('images/home/may-loc-dau-nguon.png') }}" data-srcset="{{ asset('images/home/may-loc-dau-nguon.png') }}">
                             </figure>
                         </a>
-                        <h2> <a href="https://mutosi.com/cham-soc-khi"  title="Chăm sóc khí">  <span class="product_title">Chăm sóc khí</span> </a></h2>
+                        <h2> <a href="https://mutosi.com/cham-soc-khi"  title="Máy lọc nước đầu nguồn">  <span class="product_title">Máy lọc nước đầu nguồn</span> </a></h2>
                     </div>
                     <div class="item " >
                         <a href="https://mutosi.com/cham-soc-moi-truong"  title="Chăm sóc môi trường">
                             <figure>
-                                <img  class="lazy" alt="Chăm sóc môi trường" data-src="https://mutosi.com/images/products/cat/large/anh-san-pham-do-bong-trang-chu-4_1587995154.png" data-srcset="https://mutosi.com/images/products/cat/large/anh-san-pham-do-bong-trang-chu-4_1587995154.png.webp">
+                                <img  class="lazy" alt="Chăm sóc môi trường" data-src="{{ asset('images/home/maynuocnong.png') }}" data-srcset="{{ asset('images/home/maynuocnong.png') }}">
                             </figure>
                         </a>
-                        <h2> <a href="https://mutosi.com/cham-soc-moi-truong"  title="Chăm sóc môi trường">  <span class="product_title">Chăm sóc môi trường</span> </a></h2>
+                        <h2> <a href="#"  title="Máy nước nóng">  <span class="product_title">Máy nước nóng</span> </a></h2>
                     </div>
                 </div>
             </div>
@@ -1370,15 +951,15 @@
                     </div>
                 </div>
                 <div class='block_banners banners_0 blocks_banner blocks0 block'  id = "block_id_133" >
-                    <div style="background-color:#b11f8f" class='banners_wrapper cls banners-default_wrapper block_inner block_banner_banner'  >
+                    <div style="background-color:#21793D" class='banners_wrapper cls banners-default_wrapper block_inner block_banner_banner'  >
                         <div class="item">
                             <span class="wrapper_ap">
-                            <img  class="lazy" alt="DỊCH VỤ BẢO HÀNH ĐIỆN TỬ MUTOSI" data-src="https://mutosi.com/images/banners/compress/hand_1584066107.png" data-srcset="https://mutosi.com/images/banners/compress/hand_1584066107.png.webp">                                                                                       
+                            <img  class="lazy" alt="DỊCH VỤ BẢO HÀNH ĐIỆN TỬ" data-src="https://mutosi.com/images/banners/compress/hand_1584066107.png" data-srcset="https://mutosi.com/images/banners/compress/hand_1584066107.png.webp">                                                                                       
                             </span>
-                            <div class="wrapper_text" style="background-color:#b11f8f">
+                            <div class="wrapper_text" style="background-color:#21793D">
                                 <div class="item">
                                     <div class="text_ab">
-                                        <h2>DỊCH VỤ BẢO HÀNH ĐIỆN TỬ MUTOSI</h2>
+                                        <h2>DỊCH VỤ BẢO HÀNH ĐIỆN TỬ</h2>
                                     </div>
                                     <div class="text_wrapper">
                                         <span class="text_left">
@@ -1400,7 +981,7 @@
                     <div class="clear"></div>
                 </div>
             </div>
-            <div class="header_r head-t" style="background-color:#b11f8f">          
+            <div class="header_r head-t" style="background-color:#21793D">          
             </div>
         </div>
     </div>
