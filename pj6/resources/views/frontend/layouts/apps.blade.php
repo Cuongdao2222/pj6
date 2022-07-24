@@ -282,6 +282,7 @@
                 z-index:9999
             }    
 
+            
              @media only screen and (min-width: 768px) {
                 .hotlines{
                    

@@ -379,6 +379,35 @@
                                 </div> -->
                                
                             </li>
+
+
+                            <li class="level_0 sort " id="level_t_897" >
+                                <a href="https://mutosi.com/cham-soc-khi" id="menu_item_897" class="menu_item_a" title="Chăm sóc khí">
+                                    <span class="icon_svg cls">
+                                        <svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+                                            <g>
+                                                <g>
+                                                    <path d="M436.03,42.773c-41.886,0-75.964,34.078-75.964,75.97c0,10.578,8.574,19.152,19.152,19.152s19.152-8.574,19.152-19.152 c0-20.774,16.892-37.666,37.659-37.666c20.774,0,37.666,16.892,37.666,37.666s-16.892,37.666-37.666,37.666H19.152 C8.574,156.409,0,164.983,0,175.561s8.574,19.152,19.152,19.152H436.03c41.886,0,75.97-34.078,75.97-75.97 S477.916,42.773,436.03,42.773z"/>
+                                                </g>
+                                            </g>
+                                            <g>
+                                                <g>
+                                                    <path d="M485.187,237.486H19.152C8.574,237.486,0,246.06,0,256.638s8.574,19.152,19.152,19.152h466.035 c10.578,0,19.152-8.574,19.152-19.152S495.765,237.486,485.187,237.486z"/>
+                                                </g>
+                                            </g>
+                                            <g>
+                                                <g>
+                                                    <path d="M436.03,317.293H19.152C8.574,317.293,0,325.867,0,336.445s8.574,19.152,19.152,19.152H436.03 c20.774,0,37.666,16.892,37.666,37.666c0,20.767-16.892,37.659-37.666,37.659c-20.767,0-37.659-16.892-37.659-37.659 c0-10.578-8.574-19.152-19.152-19.152s-19.152,8.574-19.152,19.152c0,41.886,34.072,75.964,75.964,75.964 c41.886,0,75.97-34.078,75.97-75.964C512,351.378,477.922,317.293,436.03,317.293z"/>
+                                                </g>
+                                            </g>
+                                        </svg>
+                                    </span>
+                                    Máy nước nóng                
+                                </a>
+                               
+                              
+                               
+                            </li>
                            
                             <!--    CHILDREN                -->
                         </ul>
@@ -797,7 +826,7 @@
                         <div class="item">
                             <a rel="nofollow" href="https://mutosi.com/may-loc-khong-khi" title='.'  id="banner_item_93" class="banner_item">
                             <span class="wrapper_ap">
-                            <img  class="lazy" alt="." data-src="https://mutosi.com/images/banners/compress/0110-banner-trang-chu-bo-sung-2_1633077548.jpg" data-srcset="https://mutosi.com/images/banners/compress/0110-banner-trang-chu-bo-sung-2_1633077548.jpg.webp">                                                                                                                       <span class="text_ab">
+                            <img  class="lazy" alt="." data-src="{{ asset('images/home/banner-sp2.png') }}" data-srcset="{{ asset('images/home/banner-sp2.png') }}">                                                                                                                       <span class="text_ab">
                             .                               </span>
                             </span>
                             </a>
@@ -805,7 +834,7 @@
                         <div class="item">
                             <a rel="nofollow" href="https://mutosi.com/may-loc-nuoc" title='.'  id="banner_item_94" class="banner_item">
                             <span class="wrapper_ap">
-                            <img  class="lazy" alt="." data-src="https://mutosi.com/images/banners/compress/0110-banner-trang-chu-bo-sung-1_1633077556.jpg" data-srcset="https://mutosi.com/images/banners/compress/0110-banner-trang-chu-bo-sung-1_1633077556.jpg.webp">                                                                                                                       <span class="text_ab">
+                            <img  class="lazy" alt="." data-src="{{ asset('images/home/banner-sp1.png') }}" data-srcset="{{ asset('images/home/banner-sp1.png') }}">                                                                                                                       <span class="text_ab">
                             .                               </span>
                             </span>
                             </a>
@@ -813,7 +842,7 @@
                         <div class="item">
                             <a rel="nofollow" href="https://mutosi.com/cay-nuoc-nong-lanh" title='..'  id="banner_item_95" class="banner_item">
                             <span class="wrapper_ap">
-                            <img  class="lazy" alt=".." data-src="https://mutosi.com/images/banners/compress/0110-banner-trang-chu-bo-sung-3_1633077565.jpg" data-srcset="https://mutosi.com/images/banners/compress/0110-banner-trang-chu-bo-sung-3_1633077565.jpg.webp">                                                                                                                      <span class="text_ab">
+                            <img  class="lazy" alt=".." data-src="{{ asset('images/home/banner-sp.png') }}" data-srcset="{{ asset('images/home/banner-sp.png') }}">                                                                                                                      <span class="text_ab">
                             ..                              </span>
                             </span>
                             </a>
@@ -933,7 +962,7 @@
             </div>
         </div>
     </div>
-    <div class="pos8 cls" >
+    <!-- <div class="pos8 cls" >
         <div class="container2">
             <div class="header_l head-t">           
             </div>
@@ -953,9 +982,7 @@
                 <div class='block_banners banners_0 blocks_banner blocks0 block'  id = "block_id_133" >
                     <div style="background-color:#21793D" class='banners_wrapper cls banners-default_wrapper block_inner block_banner_banner'  >
                         <div class="item">
-                            <span class="wrapper_ap">
-                            <img  class="lazy" alt="DỊCH VỤ BẢO HÀNH ĐIỆN TỬ" data-src="https://mutosi.com/images/banners/compress/hand_1584066107.png" data-srcset="https://mutosi.com/images/banners/compress/hand_1584066107.png.webp">                                                                                       
-                            </span>
+                            
                             <div class="wrapper_text" style="background-color:#21793D">
                                 <div class="item">
                                     <div class="text_ab">
@@ -984,7 +1011,7 @@
             <div class="header_r head-t" style="background-color:#21793D">          
             </div>
         </div>
-    </div>
+    </div> -->
     <div class="clear"></div>
     <div class="pos9" >
         <div class="container">

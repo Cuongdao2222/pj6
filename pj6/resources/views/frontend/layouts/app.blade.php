@@ -86,7 +86,12 @@ setTimeout( function () {
 
         </head>
 
+        <style type="text/css">
+            .dcjq-mega-menu #megamenu>.level_0:hover{
+                background: #044418 !important;
+            }
 
+        </style>
 
         <body  >
             <!-- Google Tag Manager (noscript) -->
