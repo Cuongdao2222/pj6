@@ -571,9 +571,9 @@
                             <img  class="lazy" alt="Điểm mạnh" data-src="https://mutosi.com/images/config/banner-vong-tron-trang-chu---2-10_1586799874_1587626211.png" data-srcset="https://mutosi.com/images/config/banner-vong-tron-trang-chu---2-10_1586799874_1587626211.png.webp">         
                             <div class="item item_1 bg_1">
                                 <div class="item_inner">
-                                    <img  class="lazy img_1" alt="QCVN 6-1:2010/BYT" data-src="{{ asset('images/banner/v11.png')}}" data-srcset="{{ asset('images/banner/v11.png')}}">                                             
+                                                                              
                                     <div class="svg_icon">
-                                        <img  class="lazy" alt="QCVN 6-1:2010/BYT" data-src="https://mutosi.com/images/strengths/resized/icon-trang-chu_1587957998.png" data-srcset="https://mutosi.com/images/strengths/resized/icon-trang-chu_1587957998.png.webp">                       
+                                        <img  class="lazy" alt="QCVN 6-1:2010/BYT" data-src="{{ asset('images/icon/85.2.png')}}" data-srcset="{{ asset('images/icon/85.2.png')}}">                       
                                     </div>
                                     <div class="box_content">
                                         <div class="title">
@@ -590,7 +590,7 @@
                                 <div class="item_inner">
                                     <img  class="lazy img_2" alt="RO SLITEC" data-src="{{ asset('images/banner/v22.png')}}" data-srcset="{{ asset('images/banner/v22.png')}}">                                             
                                     <div class="svg_icon">
-                                        <img  class="lazy" alt="RO SLITEC" data-src="https://mutosi.com/images/strengths/resized/loi-loc-nuoc-mutosi-10_1625710046.png" data-srcset="https://mutosi.com/images/strengths/resized/loi-loc-nuoc-mutosi-10_1625710046.png.webp">                       
+                                        <img  class="lazy" alt="RO SLITEC" data-src="{{ asset('images/icon/85.1.png')}}" data-srcset="{{ asset('images/icon/85.1.png')}}">                       
                                     </div>
                                     <div class="box_content">
                                         <div class="title">
@@ -615,7 +615,7 @@
                                 <div class="item_inner">
                                     <img  class="lazy img_4" alt="Máy lọc nước" data-src="{{ asset('images/banner/v33.png') }}" data-srcset="{{ asset('images/banner/v33.png') }}">
                                     <div class="svg_icon">
-                                        <img  class="lazy" alt="Máy lọc nước" data-src="https://mutosi.com/images/strengths/resized/icon-trang-chu-3_1587957988.png" data-srcset="https://mutosi.com/images/strengths/resized/icon-trang-chu-3_1587957988.png.webp">                        
+                                        <img  class="lazy" alt="Máy lọc nước" data-src="{{ asset('images/icon/85.3.png')}}" data-srcset="{{ asset('images/icon/85.3.png')}}">                        
                                     </div>
                                     <div class="box_content">
                                         <div class="title">
@@ -636,31 +636,29 @@
         </div>
     </div>
     <div class="clear"> </div>
-    <div  class="pos5 lazy"style="background-image: url(https://mutosi.com/images/config/2-banner-gia-dung-trang-chu-cheo_1588925995.jpg.webp); display: block;">
+    <div class="pos5 lazy hello" style="background-image: url(https://mutosi.com/images/config/2-banner-gia-dung-trang-chu-cheo_1588925995.jpg.webp); display: block;">
         <div class="container">
-            <div class='block_strengths strengths_0 blocks_strengths_left blocks0 block'  id = "block_id_130" >
+            <div class="block_strengths strengths_0 blocks_strengths_left blocks0 block" id="block_id_130">
                 <div class="block_title">
-                    <h2>
-                    <a href="#" title="">
-                    <span class="text-left">Máy lọc nước</span>
-                   <!--  <span class="text-right">Cơm ngon nhanh chín - Gia đình yêu thương</span> -->
-                    </a>
+                    <h2><a href="https://mutosi.com/noi-com-dien-pc36.html" title="Nồi cơm điện Cơm ngon nhanh chín - Gia đình yêu thương">
+                        <span class="text-left">Máy lọc nước</span>
+                        <span class="text-right">Cơm ngon nhanh chín - Gia đình yêu thương</span>
+                        </a>
+                    </h2>
                 </div>
-                <div class='strengths_vertical_block cls'>
+                <div class="strengths_vertical_block cls">
                     <div class="item">
                         <div class="item-inner">
                             <div class="item-l">
                                 <div class="svg_icon">
-                                    <img  class="lazy" alt="Bảo hành" data-src="https://mutosi.com/images/strengths/large/icon-trang-chu-4_1587957962.png" data-srcset="https://mutosi.com/images/strengths/large/icon-trang-chu-4_1587957962.png.webp">                    
+                                    <img class="lazy after-lazy" alt="Bảo hành" src="https://mutosi.com/images/strengths/large/icon-trang-chu-4_1587957962.png" srcset="https://mutosi.com/images/strengths/large/icon-trang-chu-4_1587957962.png.webp" style="display: inline;">                   
                                 </div>
                             </div>
                             <div class="item-r">
                                 <h3>
                                     <span class="sumamry">
-                                        Bảo hành                                                            
-                                        <br>
-                                        12 tháng                                                    
-                                    </span>
+                                    Bảo hành                                                            <br>
+                                    12 tháng                                                    </span>
                                 </h3>
                             </div>
                         </div>
@@ -669,16 +667,14 @@
                         <div class="item-inner">
                             <div class="item-l">
                                 <div class="svg_icon">
-                                    <img  class="lazy" alt="Nhiệt" data-src="https://mutosi.com/images/strengths/large/artboard-109_1625710707.png" data-srcset="https://mutosi.com/images/strengths/large/artboard-109_1625710707.png.webp">                   
+                                    <img class="lazy after-lazy" alt="Nhiệt" src="https://mutosi.com/images/strengths/large/artboard-109_1625710707.png" srcset="https://mutosi.com/images/strengths/large/artboard-109_1625710707.png.webp" style="display: inline;">                  
                                 </div>
                             </div>
                             <div class="item-r">
                                 <h3>
                                     <span class="sumamry">
-                                        Nhiệt                                                           
-                                        <br>
-                                        tỏa đều                                                 
-                                    </span>
+                                    Nhiệt                                                           <br>
+                                    tỏa đều                                                 </span>
                                 </h3>
                             </div>
                         </div>
@@ -687,39 +683,37 @@
                         <div class="item-inner">
                             <div class="item-l">
                                 <div class="svg_icon">
-                                    <img  class="lazy" alt="Lòng nồi nhôm" data-src="https://mutosi.com/images/strengths/large/s3_1582692722.png" data-srcset="https://mutosi.com/images/strengths/large/s3_1582692722.png.webp">                   
+                                    <img class="lazy after-lazy" alt="Lòng nồi nhôm" src="https://mutosi.com/images/strengths/large/s3_1582692722.png" srcset="https://mutosi.com/images/strengths/large/s3_1582692722.png.webp" style="display: inline;">                  
                                 </div>
                             </div>
                             <div class="item-r">
                                 <h3>
                                     <span class="sumamry">
-                                        Lòng nồi nhôm                                                           
-                                        <br>
-                                        đúc siêu dầy                                                    
-                                    </span>
+                                    Lòng nồi nhôm                                                           <br>
+                                    đúc siêu dầy                                                    </span>
                                 </h3>
                             </div>
                         </div>
                     </div>
                     <div class="cat_image">
-                        <img  class="lazy" alt="Nồi cơm điện" data-src="{{ asset('images/home/maylocnuoc.png') }}" data-srcset="{{ asset('images/home/maylocnuoc.png') }}">    
+                        <img class="lazy after-lazy" alt="Nồi cơm điện" src="{{ asset('images/home/b3.png') }}" srcset="{{ asset('images/home/b3.png') }}" style="display: inline;">   
                     </div>
                 </div>
             </div>
-            <div class='block_strengths strengths_0 blocks_strengths_right blocks0 block'  id = "block_id_141" >
+            <div class="block_strengths strengths_0 blocks_strengths_right blocks0 block" id="block_id_141">
                 <div class="block_title">
-                    <h2>
-                    <a href="" title="Thiết bị gia dụng Thiết bị đắc lực tạo nên những món ăn thơm ngon cho gia đình bạn">
-                    <span class="text-left">Máy lọc không khí</span>
-                   
-                    </a>
+                    <h2><a href="" title="Thiết bị gia dụng Thiết bị đắc lực tạo nên những món ăn thơm ngon cho gia đình bạn">
+                        <span class="text-left">Máy lọc không khí</span>
+                        <!-- <span class="text-right">Thiết bị đắc lực tạo nên những món ăn thơm ngon cho gia đình bạn</span> -->
+                        </a>
+                    </h2>
                 </div>
-                <div class='strengths_vertical_block cls'>
+                <div class="strengths_vertical_block cls">
                     <div class="item">
                         <div class="item-inner">
                             <div class="item-l">
                                 <div class="svg_icon">
-                                    <img  class="lazy" alt="Giữ chọn" data-src="{{ asset('images/home/sticker_phanloai.png') }}" data-srcset="{{ asset('images/home/sticker_phanloai.png') }}">                  
+                                    <img class="lazy after-lazy" alt="Giữ chọn" src="{{ asset('images/icon/100.1.png') }}" srcset="{{ asset('images/icon/100.1.png') }}" style="display: inline;">                 
                                 </div>
                             </div>
                             <div class="item-r">
@@ -735,7 +729,7 @@
                         <div class="item-inner">
                             <div class="item-l">
                                 <div class="svg_icon">
-                                    <img  class="lazy" alt="Sản phẩm bền" data-src="https://mutosi.com/images/strengths/large/s5_1582692826.png" data-srcset="https://mutosi.com/images/strengths/large/s5_1582692826.png.webp">                    
+                                    <img class="lazy after-lazy" alt="Sản phẩm bền" src="{{ asset('images/icon/100.2.png') }}" srcset="{{ asset('images/icon/100.2.png') }}" style="display: inline;">                   
                                 </div>
                             </div>
                             <div class="item-r">
@@ -751,7 +745,7 @@
                         <div class="item-inner">
                             <div class="item-l">
                                 <div class="svg_icon">
-                                    <img  class="lazy" alt="An toàn và" data-src="https://mutosi.com/images/strengths/large/s6_1582692855.png" data-srcset="https://mutosi.com/images/strengths/large/s6_1582692855.png.webp">                  
+                                    <img class="lazy after-lazy" alt="An toàn và" src="{{ asset('images/icon/100.3.png') }}" srcset="{{ asset('images/icon/100.3.png') }}" style="display: inline;">                 
                                 </div>
                             </div>
                             <div class="item-r">
@@ -763,9 +757,9 @@
                             </div>
                         </div>
                     </div>
-                   <!--  <div class="cat_image">
-                        <img  class="lazy" alt="Thiết bị gia dụng" data-src="https://mutosi.com/images/strengths/compress/rice_cook_1582710093_1614313605-2_1633077199.png" data-srcset="https://mutosi.com/images/strengths/compress/rice_cook_1582710093_1614313605-2_1633077199.png.webp">   
-                    </div> -->
+                    <div class="cat_image">
+                        <img class="lazy after-lazy" alt="Thiết bị gia dụng" src="{{ asset('images/home/b2.png') }}" srcset="{{ asset('images/home/b2.png') }}" style="display: inline;">  
+                    </div>
                 </div>
             </div>
         </div>
