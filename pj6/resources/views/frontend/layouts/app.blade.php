@@ -1088,8 +1088,10 @@
 
 
     <link rel="stylesheet" href="{{ asset('css/import/owl.carousel.min.css')}}">
+  <!--   <script type="text/javascript" src="{{ asset('js/layout1.js') }}"></script> -->
 
- <script src="{{ asset('js/import/layout1.js" type="text/javascript')}}"></script>
+
+ <script src="{{ asset('js/import/layout1.js')}}"></script>
     <link rel="stylesheet" href="{{ asset('css/import/owl.theme.default.min.css')}}">
     <script type="text/javascript" src="{{ asset('js/import/owl.carousel.min.js')}}"></script>
 
@@ -1099,38 +1101,9 @@
     <script src="{{ asset('js/import/jquery.validate.min.js')}}"></script>
     <script src="{{ asset('js/import/lazyload.js')}}"></script>
     <script src="{{ asset('js/import/sweetalert2.all.min.js')}}"></script>
-
-
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript" >
-
-    window.onload = function(){
-        setTimeout(
-            function () {
-                (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-                    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
-                }
-                , 8000);
-
-    };
-
-
-
-    ym(65319247, "init", {
-        clickmap:true,
-        trackLinks:true,
-        accurateTrackBounce:true,
-        webvisor:true
-    });
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/65319247" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-
-
-
-
-<!-- /Yandex.Metrika counter -->
-
+    <script type="text/javascript">
+        lazyload();
+    </script>
 
 <!-- Start of widget script -->
 

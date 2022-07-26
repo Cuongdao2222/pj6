@@ -1,6 +1,6 @@
 @extends('frontend.layouts.app')
 @section('content') 
-<link rel="stylesheet" href="https://dienmaynguoiviet.vn/css/lib/bootstrap.min.css">
+<link rel="stylesheet" href="{{ asset('css/import/bootstrap.min.css') }}">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"/>
 <link rel="stylesheet" type="text/css" href="{{ asset('css/import/category.css') }}?ver=1 ">
 

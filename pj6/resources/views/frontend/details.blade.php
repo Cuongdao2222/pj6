@@ -2,16 +2,16 @@
 @section('content') 
 
 @push('style')
- <link rel="stylesheet" href="https://dienmaynguoiviet.vn/css/lib/bootstrap.min.css">
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"/>
 
-<link rel="stylesheet" type="text/css" href="https://dienmaynguoiviet.vn/css/main.css?ver=1"> 
+<link rel="stylesheet" type="text/css" href="{{ asset('css/import/main.css') }}"> 
 <link rel="stylesheet" href="//code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
-<link rel="stylesheet" type="text/css" href="https://dienmaynguoiviet.vn/css/apps.css?ver=3"> 
+<link rel="stylesheet" type="text/css" href="{{ asset('css/import/apps.css') }}"> 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
 
-<link rel="stylesheet" type="text/css" href="https://dienmaynguoiviet.vn/css/detailsfe.css?ver=6">
-<link rel="stylesheet" type="text/css" href="https://dienmaynguoiviet.vn/css/details.css?ver=3">
+<link rel="stylesheet" type="text/css" href="{{ asset('css/detailsfe.css') }}">
+<link rel="stylesheet" type="text/css" href="{{ asset('css/details.css') }}">
 <link rel="stylesheet" type="text/css" href="{{ asset('css/main1.css') }}">
 
 <style type="text/css">
