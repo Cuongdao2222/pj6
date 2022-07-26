@@ -2,7 +2,7 @@
 @section('content') 
 
 @push('style')
-
+<link rel="stylesheet" type="text/css" href="{{ asset('css/homesao.css') }}">
 <style type="text/css">
     .dcjq-mega-menu #megamenu>.activated {
         background: none;
@@ -51,7 +51,7 @@
                                 </a>
                             </li>
                             <li class="level_0 sort " id="level_t_890" >
-                                <a href="https://mutosi.com/cham-soc-nuoc" id="menu_item_890" class="menu_item_a" title="Máy lọc nước">
+                                <a href="{{ route('details', 'may-loc-nuoc') }}" id="menu_item_890" class="menu_item_a" title="Máy lọc nước">
                                     <span class="icon_svg cls">
                                         <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                                             viewBox="0 0 382.8 382.8" style="enable-background:new 0 0 382.8 382.8;" xml:space="preserve">
@@ -219,7 +219,7 @@
                                 <!--    end LEVEL 1         -->
                             </li>
                             <li class="level_0 sort " id="level_t_895" >
-                                <a href="https://mutosi.com/cham-soc-bep" id="menu_item_895" class="menu_item_a" title="Máy lọc không khí">
+                                <a href="{{ route('details', 'may-loc-khong-khi') }}" id="menu_item_895" class="menu_item_a" title="Máy lọc không khí">
                                     <span class="icon_svg cls">
                                         <svg  height="50" viewBox="0 0 512 512" width="50" xmlns="http://www.w3.org/2000/svg">
                                             <path d="m272 296a8.008 8.008 0 0 0 -8-8h-48a8.008 8.008 0 0 0 -8 8v8h64z"/>
@@ -238,7 +238,7 @@
                               
                             </li>
                             <li class="level_0 sort " id="level_t_897" >
-                                <a href="https://mutosi.com/cham-soc-khi" id="menu_item_897" class="menu_item_a" title="Chăm sóc khí">
+                                <a href="{{ route('details', 'may-loc-dau-nguon') }}" id="menu_item_897" class="menu_item_a" title="Máy lọc đầu nguồn">
                                     <span class="icon_svg cls">
                                         <svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
                                             <g>
@@ -260,132 +260,13 @@
                                     </span>
                                     Máy lọc đầu nguồn                
                                 </a>
-                               
-                               <!--  <span class="drop_down">
-                                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                                        width="255px" height="255px" viewBox="0 0 255 255" style="enable-background:new 0 0 255 255;" xml:space="preserve">
-                                        <g>
-                                            <g id="varrow-drop-down-897">
-                                                <polygon points="0,63.75 127.5,191.25 255,63.75         "/>
-                                            </g>
-                                        </g>
-                                    </svg>
-                                </span>
-                                <div class='highlight'>
-                                    <div class='highlight1 container'>
-                                        <div class="menu-child_list">
-                                            <div class='sub-menu sub-menu-level1 has_child  ' >
-                                                <a href="https://mutosi.com/may-suoi" class="level_0 sort sub-menu-item" data-menu_tags="62" id="menu3_item_62" title="Máy sưởi"  >
-                                                Máy sưởi                                        </a>
-                                            </div>
-                                            <div class='sub-menu sub-menu-level1 has_child  ' >
-                                                <a href="https://mutosi.com/may-loc-khong-khi" class="level_0 sort sub-menu-item" data-menu_tags="49" id="menu3_item_49" title="Máy lọc không khí"  >
-                                                Máy lọc không khí                                       </a>
-                                            </div>
-                                            <div class='sub-menu sub-menu-level1 has_child  ' >
-                                                <a href="https://mutosi.com/may-hut-bui" class="level_0 sort sub-menu-item" data-menu_tags="63" id="menu3_item_63" title="Máy hút bụi"  >
-                                                Máy hút bụi                                     </a>
-                                            </div>
-                                        </div>
-                                        <div class="wraper_item " data-menu_tags="62" data-menu_idt="0">
-                                            <div class="image_sub image_sub_0">
-                                                <a href="https://mutosi.com/may-suoi" title="Máy sưởi">
-                                                <img  class="lazy" alt="Máy sưởi" data-src="https://mutosi.com/images/products/cat/resized/mch-2200l-550x330-01_1645522277.jpg" data-srcset="https://mutosi.com/images/products/cat/resized/mch-2200l-550x330-01_1645522277.jpg.webp">                                      </a>
-                                            </div>
-                                            <div class="product_item">
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/quat-suoi-gom-mutosi-mch-2000l/" title = "Quạt sưởi gốm Ceramic Mutosi MCH-2000L" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2022/01/22/small/10_1642842529.png" alt="Quạt sưởi gốm Ceramic Mutosi MCH-2000L"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Quạt sưởi gốm Ceramic Mutosi MCH-2000L                                                            </div>
-                                                                <span class="price"> 3.390.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/quat-suoi-gom-mutosi-mch-2200/" title = "Quạt sưởi gốm Ceramic Mutosi MCH-2200" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2022/01/22/small/6_1642842558.png" alt="Quạt sưởi gốm Ceramic Mutosi MCH-2200"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Quạt sưởi gốm Ceramic Mutosi MCH-2200                                                         </div>
-                                                                <span class="price"> 2.390.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="wraper_item hide" data-menu_tags="49" data-menu_idt="1">
-                                            <div class="image_sub image_sub_1">
-                                                <a href="https://mutosi.com/may-loc-khong-khi" title="Máy lọc không khí">
-                                                <img  class="lazy" alt="Máy lọc không khí" data-src="https://mutosi.com/images/products/cat/resized/0110-banner-trang-chu-bo-sung-4_1633077507.jpg" data-srcset="https://mutosi.com/images/products/cat/resized/0110-banner-trang-chu-bo-sung-4_1633077507.jpg.webp">                                       </a>
-                                            </div>
-                                            <div class="product_item">
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/may-loc-khong-khi-mutosi-map-801h-uv/" title = "Máy lọc không khí Mutosi MAP-801H-UV" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2020/06/04/small/map-801_1591260525.png" alt="Máy lọc không khí Mutosi MAP-801H-UV"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Máy lọc không khí Mutosi MAP-801H-UV                                                          </div>
-                                                                <span class="price"> 9.030.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/may-loc-khong-khi-o-to-mutosi-map-301c/" title = "Máy lọc không khí Ôtô Mutosi MAP-301C" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2020/06/05/small/map-301_1591346776.png" alt="Máy lọc không khí Ôtô Mutosi MAP-301C"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Máy lọc không khí Ôtô Mutosi MAP-301C                                                         </div>
-                                                                <span class="price"> 980.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="wraper_item hide" data-menu_tags="63" data-menu_idt="2">
-                                            <div class="image_sub image_sub_2">
-                                                <a href="https://mutosi.com/may-hut-bui" title="Máy hút bụi">
-                                                <img data-src="https://mutosi.com/images/config/ho-tro-khach-hang.jpg" class="lazy grayscale" alt="Máy hút bụi" />
-                                                </a>
-                                            </div>
-                                            <div class="product_item">
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/may-hut-bui-cam-tay-mv-h3400/" title = "Máy hút bụi cầm tay Mutosi MV-H3400" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2022/03/19/small/z3272733099428_c0afdc036304eb0e17f0f7ea6e4f6a6d-removebg_1647675977.png" alt="Máy hút bụi cầm tay Mutosi MV-H3400"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Máy hút bụi cầm tay Mutosi MV-H3400                                                           </div>
-                                                                <span class="price"> 1.450.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class='menu_desc'></div>
-                                </div> -->
+                            
                                
                             </li>
 
 
                             <li class="level_0 sort " id="level_t_897" >
-                                <a href="https://mutosi.com/cham-soc-khi" id="menu_item_897" class="menu_item_a" title="Chăm sóc khí">
+                                <a href="{{ route('details', 'may-nuoc-nong') }}" id="menu_item_897" class="menu_item_a" title="Máy nước nóng">
                                     <span class="icon_svg cls">
                                         <svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
                                             <g>
@@ -1113,18 +994,23 @@
             </div>
         </div>
     </div>
-
-
     <!--Trên Footer-->
     <div class="by_fastform">
-       <!--  <img  class="lazy left_image" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower.png.webp"> -->
+        <img  class="lazy left_image" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower.png.webp">
         <div class="container">
-            
+            <div class="img_flower">
+                <img  class="lazy item" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower_a.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower_a.png.webp">         
+                <img  class="lazy item" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower_a.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower_a.png.webp">         
+                <img  class="lazy item" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower_a.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower_a.png.webp">         
+                <img  class="lazy item" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower_a.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower_a.png.webp">         
+                <img  class="lazy item" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower_a.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower_a.png.webp">         
+                <img  class="lazy item" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower_a.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower_a.png.webp">         
+            </div>
             <div class="wrap-by-fast cls">
                 <div class="item">
                     <div class="phone-left">
                         <h2>
-                            <p class="phone-tittle">ĐĂNG KÝ NHẬN BẢN TIN</p>
+                            <p class="phone-tittle">ĐĂNG KÝ NHẬN BẢN TIN MUTOSI</p>
                         </h2>
                         <p class="phone-content">Đừng bỏ lỡ các thông tin sản phẩm mới và khuyến mãi hấp dẫn </p>
                     </div>
@@ -1157,10 +1043,8 @@
                 </div>
             </div>
         </div>
-        
+        <img  class="lazy right_image" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/home_r.png" data-srcset="https://mutosi.com/templates/mutosi/images/home_r.png.webp">
     </div>
-
-
     <div class="form_fast hide clear" id="form_fast">
         <div class="container">
             <div id="close_form" class="close" onclick="close_f();">x</div>
