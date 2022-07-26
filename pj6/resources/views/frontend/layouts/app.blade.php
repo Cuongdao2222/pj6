@@ -292,7 +292,7 @@
         <div class='search_home'>
             <div id="search" class="search search-contain s_close ">
                 <div class="search-content">
-                    <form action="https://mutosi.com/tim-kiem" name="search_form" id="search_form" method="get" onsubmit="javascript: submit_form_search();return false;" >
+                    <form action="{{ route('search-product-frontend') }}" name="search_form" id="search_form" method="get">
                         <input type="text" value="" placeholder="Tìm kiếm..." id="keyword" name="keyword" class="keyword input-text" />
                         <button type="submit" class="button-search button_s">
                             <svg  x="0px" y="0px"
