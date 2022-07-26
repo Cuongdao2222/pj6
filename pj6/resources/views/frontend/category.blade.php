@@ -13,6 +13,14 @@
 <link rel="stylesheet" href="{{ asset('css/import/bootstrap.min.css') }}">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"/>
 <link rel="stylesheet" type="text/css" href="{{ asset('css/main1.css') }}">
+<style type="text/css">
+    .navigation_main_wrapper{
+        background-color: #157939 !important;
+    }
+    .by_fastform{
+        background-color: #21793D !important;
+    }
+</style>
 
 <!-- Content -->
 <section id="categoryPage" class="desktops" data-id="1942" data-name="Tivi" data-template="cate">

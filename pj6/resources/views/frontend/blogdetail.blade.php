@@ -1,8 +1,9 @@
 
 
-    @extends('frontend.layouts.apps')
+    @extends('frontend.layouts.app')
 
     @section('content') 
+    @push('style')
 
 
     <link rel="stylesheet" type="text/css" href="{{asset('css/dienmay.css')}}?ver=4"> 
@@ -19,77 +20,12 @@
         .header__top-mobile{
             height: 133px;
         }
+        .blog-list {
+             margin-top: 0 !important; 
+        }
     </style>
-    <main class="bg-fff">
-        <!-- Begin menu blog -->
-        <div class="menu_blog">
-            <ul class="dm_container">
-                <li>
-                    <a href="/tu-van-tivi/">
-                    <img src="{{ asset('images/template/logo/tivi.png') }}" alt="">
-                    <span>Tư vấn
-                    <br> tivi</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="/tu-van-tu-lanh/">
-                    <img src="{{ asset('images/template/logo/tu-lanh.png') }}" alt="">
-                    <span>Tư vấn
-                    <br> tủ lạnh</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="/tu-van-may-giat/">
-                    <img src="{{ asset('images/template/logo/may-giat.png') }}" alt="">
-                    <span> Tư vấn
-                    <br> máy giặt</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="/tu-van-dieu-hoa/">
-                    <img src="{{ asset('images/template/logo/dieu-hoa.png') }}" alt="">
-                    <span>Tư vấn
-                    <br> điều hòa</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="/tu-van-gia-dung/">
-                    <img src="{{ asset('images/template/logo/gia-dung.png') }}" alt="">
-                    <span>Tư vấn
-                    <br> gia dụng</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="/tu-van-mua-sam/">
-                    <img src="{{ asset('images/template/logo/mua-sam.png') }}" alt="">
-                    <span>Tư vấn
-                    <br> mua sắm</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="/meo-vat-gia-dinh/">
-                    <img src="{{ asset('images/template/logo/meo-vat.png') }}" alt="">
-                    <span>Mẹo vặt
-                    <br> gia đình</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="/tin-khuyen-mai/">
-                    <img src="{{ asset('images/template/logo/khuyen-mai.png') }}" alt="">
-                    <span>Tin
-                    <br> Khuyến Mại</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="">
-                    <img src="{{ asset('images/template/logo/video.png') }}" alt="">
-                    <span>Video
-                    <br>clip</span>
-                    </a>
-                </li>
-            </ul>
-        </div>
-
+ 
+    @endpush
 
         <!-- End menu blog -->
         <div class="blog-list dm_container">
@@ -176,10 +112,7 @@
                 </div>
             </div>
         </div>
-    </main>
-    <!-- end main -->
-    <!--<hr>-->
-    <!-- begin footer -->
+    
     @push('script')
      <script type="text/javascript">
         $('img').closest('p').css('text-align', 'center');
