@@ -57,17 +57,11 @@
             <link rel="alternate" type="application/rss+xml" title="Mutosi chăm sóc sức khoẻ gia đình bạn Feed" href="https://mutosi.com/rss.xml" />
             <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"Organization","name":"Mutosi chăm sóc sức khoẻ gia đình bạn","alternateName":"Mutosichămsócsứckhoẻgiađìnhbạn","url":"https://mutosi.com/","logo":"https://mutosi.com/images/config/logo---2022-01-1_1644300307.png","contactPoint":{"@type":"ContactPoint","telephone":"+84900636595","contactType":"customer service","contactOption":"HearingImpairedSupported","areaServed":"VN","availableLanguage":"Vietnamese"},"sameAs":["https://www.facebook.com/MutosiGroup/","https://twitter.com/MutosiGroup","https://www.instagram.com/explore/locations/224650271791508/mutosi-group-chuan-chat-luong-nhat-ban/","https://www.youtube.com/channel/UCbK3Wl0ZRfo3w2GrlJLeoqg","https://mutosi.com/"]}
-            </script><script type="application/ld+json">
+            </script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"LocalBusiness","name":"Mutosi - Số 1 về chất lượng và dịch vụ","image":"https://mutosi.com/images/config/logo---2022-01-1_1644300307.png","priceRange":"400000,10000000","@id":"","url":"https://mutosi.com/","telephone":"+84900636595","address":{"@type":"PostalAddress","streetAddress":"Tầng 2, tòa nhà Đại Đông Á (Bea Sky), đường Nguyễn Xiển, phường Đại Kim, Quận Hoàng Mai, Hà Nội","addressLocality":"Hà Nội","postalCode":"","addressCountry":"VN"},"geo":{"@type":"GeoCoordinates","latitude":20.932038,"longitude":105.848944},"openingHoursSpecification":{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],"opens":"07:30","closes":"21:30"},"sameAs":["https://www.facebook.com/MutosiGroup/","https://twitter.com/MutosiGroup","https://www.instagram.com/explore/locations/224650271791508/mutosi-group-chuan-chat-luong-nhat-ban/","https://www.youtube.com/channel/UCbK3Wl0ZRfo3w2GrlJLeoqg","https://mutosi.com/"]}
             </script>
-
-
-
-
-
-</script>
-  
-
+            <link rel="stylesheet" type="text/css" href="{{ asset('css/homesao.css') }}">
 
         </head>
 
@@ -1049,15 +1043,7 @@
         <div class="clear"></div>
         <div class="clear"></div>
     </div>
-    <div class="footer_im cls">
-        <div class="image_wrapper">
-            <a href="//www.dmca.com/Protection/Status.aspx?ID=cd16b653-9ee3-4cb2-be42-44fbc147843c" title="DMCA.com Protection Status" class="dmca-badge"> <img class="lazy" data-src ="https://images.dmca.com/Badges/dmca_protected_sml_120aa.png?ID=cd16b653-9ee3-4cb2-be42-44fbc147843c"  alt="DMCA.com Protection Status" /></a>
-            <!-- <a href='http://online.gov.vn/Home/WebDetails/66759'><img class="lazy item" data-src="https://mutosi.com/images/config/dathongbao_1558687262.png" alt="flower"></a> -->
-            <div class="info_item">
-                Bản quyền thuộc về Công ty Cổ phần Tập đoàn Mutosi.<br>Giấy phép ĐKKD số 0109505584 do Sở kế hoạch và đầu tư Thành phố Hà Nội cấp ngày 21/01/2021. <br> Địa chỉ ĐKKD: Số 31, ngõ 83 Đường Ngọc Hồi, TTXN Vận tải Ô tô số 8, Phường Hoàng Liệt, Quận Hoàng Mai, Thành phố Hà Nội, Việt Nam.<br>Nhà máy: Lô 3 - CN5 KCN Ngọc Hồi, huyện Thanh Trì, Hà Nội         
-            </div>
-        </div>
-    </div>
+   
 </footer>
 </div>
 <!--     -->
@@ -1082,16 +1068,12 @@
     <div id="loading_image"></div>
 </div>
 
-
-<script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script><!--  -->
-
+ <script src="{{ asset('js/import/layout1.js')}}"></script>
 
 
     <link rel="stylesheet" href="{{ asset('css/import/owl.carousel.min.css')}}">
   <!--   <script type="text/javascript" src="{{ asset('js/layout1.js') }}"></script> -->
 
-
- <script src="{{ asset('js/import/layout1.js')}}"></script>
     <link rel="stylesheet" href="{{ asset('css/import/owl.theme.default.min.css')}}">
     <script type="text/javascript" src="{{ asset('js/import/owl.carousel.min.js')}}"></script>
 
@@ -1104,22 +1086,11 @@
     <script type="text/javascript">
         lazyload();
     </script>
+<!--     <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script><!--  --> -->
 
-<!-- Start of widget script -->
 
 
-<!-- End of widget script -->
-<div id="dlding" style="display: none;">Đang xử lý, vui lòng đợi trong giây lát...</div>
 
-<!-- popup khuến mãi -->
-<!-- end popup khuến mãi -->
-
- <input type="hidden" id="lang_pr" value="fs_products">
- <input type="hidden" id="lang_fs" value="vi">
-
-<div  class="benmarch noc">0.07301 sec| 1017.117 kb</div><script   async='async' language="javascript" type="text/javascript" src="https://mutosi.com/cache/js/4a48147f774124c3cdb74d31aac48602.js?20220712145701" >
-    
-</script><!-- Facebook Pixel Code -->
 
       
 

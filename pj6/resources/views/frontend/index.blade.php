@@ -2,7 +2,7 @@
 @section('content') 
 
 @push('style')
-<link rel="stylesheet" type="text/css" href="{{ asset('css/homesao.css') }}">
+
 <style type="text/css">
     .dcjq-mega-menu #megamenu>.activated {
         background: none;
@@ -1113,23 +1113,18 @@
             </div>
         </div>
     </div>
+
+
     <!--Trên Footer-->
     <div class="by_fastform">
-        <img  class="lazy left_image" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower.png.webp">
+       <!--  <img  class="lazy left_image" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower.png.webp"> -->
         <div class="container">
-            <div class="img_flower">
-                <img  class="lazy item" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower_a.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower_a.png.webp">         
-                <img  class="lazy item" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower_a.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower_a.png.webp">         
-                <img  class="lazy item" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower_a.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower_a.png.webp">         
-                <img  class="lazy item" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower_a.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower_a.png.webp">         
-                <img  class="lazy item" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower_a.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower_a.png.webp">         
-                <img  class="lazy item" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower_a.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower_a.png.webp">         
-            </div>
+            
             <div class="wrap-by-fast cls">
                 <div class="item">
                     <div class="phone-left">
                         <h2>
-                            <p class="phone-tittle">ĐĂNG KÝ NHẬN BẢN TIN MUTOSI</p>
+                            <p class="phone-tittle">ĐĂNG KÝ NHẬN BẢN TIN</p>
                         </h2>
                         <p class="phone-content">Đừng bỏ lỡ các thông tin sản phẩm mới và khuyến mãi hấp dẫn </p>
                     </div>
@@ -1162,8 +1157,10 @@
                 </div>
             </div>
         </div>
-        <img  class="lazy right_image" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/home_r.png" data-srcset="https://mutosi.com/templates/mutosi/images/home_r.png.webp">
+        
     </div>
+
+
     <div class="form_fast hide clear" id="form_fast">
         <div class="container">
             <div id="close_form" class="close" onclick="close_f();">x</div>

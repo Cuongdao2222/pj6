@@ -14,6 +14,7 @@
 <link rel="stylesheet" type="text/css" href="{{ asset('css/details.css') }}">
 <link rel="stylesheet" type="text/css" href="{{ asset('css/main1.css') }}">
 
+
 <style type="text/css">
     #data-pricetotal{
         width: 194px;
