@@ -11,6 +11,9 @@
         height: 181px !important;
         width: auto;
     }
+    .block-strengths-round .background_round .bg_1 {
+        top: 16% !important;
+    }    
 </style>
 @endpush
 
@@ -578,9 +581,9 @@
                                     <div class="box_content">
                                         <div class="title">
                                             <a  href="" title="QCVN 6-1:2010/BYT">
-                                                <h3><strong>QCVN 6-1:2010/BYT</strong></h3>
+                                                <h3><strong>GIÁM SÁT ĐIỆN TỬ EMS 2.0</strong></h3>
                                                 <br>
-                                                Nước sau lọc đạt các chỉ tiêu nước uống đóng chai                                                                       
+                                                giúp đồng bộ hoạt động của các bộ phận, theo dõi và cảnh báo tình trạng vận hành của máy.                                                                     
                                             </a>
                                         </div>
                                     </div>
@@ -595,9 +598,9 @@
                                     <div class="box_content">
                                         <div class="title">
                                             <a  href="" title="RO SLITEC">
-                                                <h3><strong>RO SLITEC</strong></h3>
+                                                <h3><strong>MÀNG LỌC RO - SIDE STREAM</strong></h3>
                                                 <br>
-                                                Đạt tiêu chuẩn NSF/ANSI 58 – Tiêu chuẩn toàn cầu cho màng lọc RO                                                                        
+                                                Màng lọc RO - Side Stream loại sạch các chất kim loại nặng (Asen, chì, thủy ngân...) và vi khuẩn có hại.                                                                   
                                             </a>
                                         </div>
                                     </div>
@@ -622,7 +625,7 @@
                                             <a  href="" title="Máy lọc nước">
                                                 <h3><strong>Máy lọc nước</strong></h3>
                                                 <br>
-                                                Loại bỏ được 99,99% virus vi khuẩn <br> và chất độc hại trong nước                                                                      
+                                                nâng cao hiệu suất sử dụng, tăng 66% tỷ lệ nước tinh khiết, giảm 56% tỷ lệ nước thải                                                                  
                                             </a>
                                         </div>
                                     </div>
@@ -719,8 +722,8 @@
                             <div class="item-r">
                                 <h3>
                                     <span class="sumamry">
-                                    Giữ chọn                                                            <br>
-                                    Nguồn dưỡng chất                                                    </span>
+                                       có chức năng lọc Fomanđêhít                                                
+                                    </span>
                                 </h3>
                             </div>
                         </div>
@@ -735,8 +738,8 @@
                             <div class="item-r">
                                 <h3>
                                     <span class="sumamry">
-                                    Sản phẩm bền                                                            <br>
-                                    chất lượng                                                  </span>
+                                       lọc sạch không khí siêu nhanh                                                  
+                                    </span>
                                 </h3>
                             </div>
                         </div>
@@ -751,8 +754,8 @@
                             <div class="item-r">
                                 <h3>
                                     <span class="sumamry">
-                                    An toàn và                                                          <br>
-                                    tiện ích                                                    </span>
+                                         Loại bỏ bụi siêu mịn PM2.5                                              
+                                    </span>
                                 </h3>
                             </div>
                         </div>
