@@ -2,13 +2,15 @@
 @section('content') 
 <link rel="stylesheet" href="https://dienmaynguoiviet.vn/css/lib/bootstrap.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"/>
-<link rel="stylesheet" type="text/css" href="https://dienmaynguoiviet.vn/css/category.css?ver=1">
-<link rel="stylesheet" type="text/css" href="https://dienmaynguoiviet.vn/css/categories.css?ver=1"> 
+<link rel="stylesheet" type="text/css" href="{{ asset('css/import/category.css') }}?ver=1 ">
 
-<link rel="stylesheet" type="text/css" href="https://dienmaynguoiviet.vn/css/main.css?ver=1"> 
+
+<link rel="stylesheet" type="text/css" href="{{ asset('css/import/categories.css') }}"> 
+
+<link rel="stylesheet" type="text/css" href="{{ asset('css/import/main.css') }}"> 
 <link rel="stylesheet" href="http://code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
-<link rel="stylesheet" type="text/css" href="https://dienmaynguoiviet.vn/css/apps.css?ver=3">
-<link rel="stylesheet" href="https://dienmaynguoiviet.vn/css/lib/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="{{ asset('css/import/apps.css') }}">
+<link rel="stylesheet" href="{{ asset('css/import/bootstrap.min.css') }}">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"/>
 <link rel="stylesheet" type="text/css" href="{{ asset('css/main1.css') }}">
 

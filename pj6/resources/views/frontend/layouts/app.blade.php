@@ -59,26 +59,11 @@
             {"@context":"https://schema.org","@type":"Organization","name":"Mutosi chăm sóc sức khoẻ gia đình bạn","alternateName":"Mutosichămsócsứckhoẻgiađìnhbạn","url":"https://mutosi.com/","logo":"https://mutosi.com/images/config/logo---2022-01-1_1644300307.png","contactPoint":{"@type":"ContactPoint","telephone":"+84900636595","contactType":"customer service","contactOption":"HearingImpairedSupported","areaServed":"VN","availableLanguage":"Vietnamese"},"sameAs":["https://www.facebook.com/MutosiGroup/","https://twitter.com/MutosiGroup","https://www.instagram.com/explore/locations/224650271791508/mutosi-group-chuan-chat-luong-nhat-ban/","https://www.youtube.com/channel/UCbK3Wl0ZRfo3w2GrlJLeoqg","https://mutosi.com/"]}
             </script><script type="application/ld+json">
             {"@context":"https://schema.org","@type":"LocalBusiness","name":"Mutosi - Số 1 về chất lượng và dịch vụ","image":"https://mutosi.com/images/config/logo---2022-01-1_1644300307.png","priceRange":"400000,10000000","@id":"","url":"https://mutosi.com/","telephone":"+84900636595","address":{"@type":"PostalAddress","streetAddress":"Tầng 2, tòa nhà Đại Đông Á (Bea Sky), đường Nguyễn Xiển, phường Đại Kim, Quận Hoàng Mai, Hà Nội","addressLocality":"Hà Nội","postalCode":"","addressCountry":"VN"},"geo":{"@type":"GeoCoordinates","latitude":20.932038,"longitude":105.848944},"openingHoursSpecification":{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],"opens":"07:30","closes":"21:30"},"sameAs":["https://www.facebook.com/MutosiGroup/","https://twitter.com/MutosiGroup","https://www.instagram.com/explore/locations/224650271791508/mutosi-group-chuan-chat-luong-nhat-ban/","https://www.youtube.com/channel/UCbK3Wl0ZRfo3w2GrlJLeoqg","https://mutosi.com/"]}
-            </script><!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-5X89GNR');</script>
-<!-- End Google Tag Manager -->
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5X89GNR"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+            </script>
 
 
-<script lang="javascript">
-var __vnp = {code : 2265,key:'', secret : '831a311c46e2b37376fdad3949706021'};
 
 
-setTimeout( function () {
-    (function() {var ga = document.createElement('script');ga.type = 'text/javascript';ga.async=true; ga.defer=true;ga.src = '//core.vchat.vn/code/tracking.js';var s = document.getElementsByTagName('script');s[0].parentNode.insertBefore(ga, s[0]);})();
-}, 3000);
 
 </script>
   
@@ -94,17 +79,6 @@ setTimeout( function () {
         </style>
 
         <body  >
-            <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5X89GNR"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-<script lang="javascript">
-var __vnp = {code : 2265,key:'', secret : '831a311c46e2b37376fdad3949706021'};
-
-
-setTimeout( function () {
-    (function() {var ga = document.createElement('script');ga.type = 'text/javascript';ga.async=true; ga.defer=true;ga.src = '//core.vchat.vn/code/tracking.js';var s = document.getElementsByTagName('script');s[0].parentNode.insertBefore(ga, s[0]);})();
-}, 3000);
 
 </script>
 
@@ -1113,18 +1087,18 @@ setTimeout( function () {
 
 
 
-    <link rel="stylesheet" href="https://dienmaynguoiviet.vn/css/lib/owl.carousel.min.css">
+    <link rel="stylesheet" href="{{ asset('css/import/owl.carousel.min.css')}}">
 
- <script src="https://dienmaynguoiviet.vn/js/layout1.js" type="text/javascript"></script>
-    <link rel="stylesheet" href="https://dienmaynguoiviet.vn/css/lib/owl.theme.default.min.css">
-    <script type="text/javascript" src="https://dienmaynguoiviet.vn/js/lib/owl.carousel.min.js"></script>
+ <script src="{{ asset('js/import/layout1.js" type="text/javascript')}}"></script>
+    <link rel="stylesheet" href="{{ asset('css/import/owl.theme.default.min.css')}}">
+    <script type="text/javascript" src="{{ asset('js/import/owl.carousel.min.js')}}"></script>
 
   
-    <script src="https://dienmaynguoiviet.vn/js/lib/bootstrap.min.js"></script>
+    <script src="{{ asset('js/import/bootstrap.min.js')}}"></script>
 
-    <script src="https://dienmaynguoiviet.vn/js/lib/jquery.validate.min.js"></script>
-    <script src="https://dienmaynguoiviet.vn/js/lib/lazyload.js"></script>
-    <script src="https://dienmaynguoiviet.vn/js/lib/sweetalert2.all.min.js"></script>
+    <script src="{{ asset('js/import/jquery.validate.min.js')}}"></script>
+    <script src="{{ asset('js/import/lazyload.js')}}"></script>
+    <script src="{{ asset('js/import/sweetalert2.all.min.js')}}"></script>
 
 
 <!-- Yandex.Metrika counter -->

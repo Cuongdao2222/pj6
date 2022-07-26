@@ -610,7 +610,7 @@
                                 <div class="item_inner">
                                     <img  class="lazy img_3" alt="RO SLITEC" data-src="{{ asset('images/banner/v3.png')}}" data-srcset="{{ asset('images/banner/v3.png')}}">                           
                                     <div class="image_cat">
-                                        <img  class="lazy" alt="Tiêu chuẩn nhật" data-src="" data-srcset="">                           
+                                        <img  class="lazy" alt="Tiêu chuẩn nhật" data-src="{{ asset('images/home/Untitled-133.png') }}" data-srcset="{{ asset('images/home/Untitled-133.png') }}">                           
                                     </div>
                                 </div>
                             </div>
@@ -643,9 +643,9 @@
         <div class="container">
             <div class="block_strengths strengths_0 blocks_strengths_left blocks0 block" id="block_id_130">
                 <div class="block_title">
-                    <h2><a href="https://mutosi.com/noi-com-dien-pc36.html" title="Nồi cơm điện Cơm ngon nhanh chín - Gia đình yêu thương">
+                    <h2><a href="https://mutosi.com/noi-com-dien-pc36.html" title="Máy lọc nước">
                         <span class="text-left">Máy lọc nước</span>
-                        <span class="text-right">Cơm ngon nhanh chín - Gia đình yêu thương</span>
+                        
                         </a>
                     </h2>
                 </div>
@@ -654,14 +654,14 @@
                         <div class="item-inner">
                             <div class="item-l">
                                 <div class="svg_icon">
-                                    <img class="lazy after-lazy" alt="Bảo hành" src="https://mutosi.com/images/strengths/large/icon-trang-chu-4_1587957962.png" srcset="https://mutosi.com/images/strengths/large/icon-trang-chu-4_1587957962.png.webp" style="display: inline;">                   
+                                    <img class="lazy after-lazy" alt="ems 2.0" src="{{ asset('images/home/852.png') }}" srcset="{{ asset('images/home/852.png') }}" style="display: inline;">                   
                                 </div>
                             </div>
                             <div class="item-r">
                                 <h3>
                                     <span class="sumamry">
-                                    Bảo hành                                                            <br>
-                                    12 tháng                                                    </span>
+                                       EMS 2.0                                                    
+                                    </span>
                                 </h3>
                             </div>
                         </div>
@@ -670,14 +670,14 @@
                         <div class="item-inner">
                             <div class="item-l">
                                 <div class="svg_icon">
-                                    <img class="lazy after-lazy" alt="Nhiệt" src="https://mutosi.com/images/strengths/large/artboard-109_1625710707.png" srcset="https://mutosi.com/images/strengths/large/artboard-109_1625710707.png.webp" style="display: inline;">                  
+                                    <img class="lazy after-lazy" alt="Màng lọc ro-side strean" src="{{ asset('images/home/851.png') }}" srcset="{{ asset('images/home/851.png') }}" style="display: inline;">                  
                                 </div>
                             </div>
                             <div class="item-r">
                                 <h3>
                                     <span class="sumamry">
-                                    Nhiệt                                                           <br>
-                                    tỏa đều                                                 </span>
+                                       MÀNG LỌC RO - SIDE STREAM                                            
+                                    </span>
                                 </h3>
                             </div>
                         </div>
@@ -686,14 +686,14 @@
                         <div class="item-inner">
                             <div class="item-l">
                                 <div class="svg_icon">
-                                    <img class="lazy after-lazy" alt="Lòng nồi nhôm" src="https://mutosi.com/images/strengths/large/s3_1582692722.png" srcset="https://mutosi.com/images/strengths/large/s3_1582692722.png.webp" style="display: inline;">                  
+                                    <img class="lazy after-lazy" alt="Máy lọc nước" src="{{ asset('images/home/853.png') }}" srcset="{{ asset('images/home/853.png') }}" style="display: inline;">                  
                                 </div>
                             </div>
                             <div class="item-r">
                                 <h3>
                                     <span class="sumamry">
-                                    Lòng nồi nhôm                                                           <br>
-                                    đúc siêu dầy                                                    </span>
+                                       MÁY LỌC NƯỚC                                               
+                                    </span>
                                 </h3>
                             </div>
                         </div>
@@ -785,26 +785,28 @@
                                 <img  class="lazy" alt="Chăm sóc nước" data-src="{{ asset('images/home/image-mayloc.png') }}" data-srcset="{{ asset('images/home/image-mayloc.png') }}">
                             </figure>
                         </a>
-                        <h2> <a href="https://mutosi.com/cham-soc-nuoc"  title="Máy lọc nước">  <span class="product_title">Máy lọc nước</span> </a></h2>
+                        <h2> 
+                            <a href="#"  title="Máy lọc nước">  <span class="product_title">Máy lọc nước</span> </a>
+                        </h2>
                     </div>
                     <div class="item " >
-                        <a href="https://mutosi.com/cham-soc-bep"  title="Máy lọc không khí">
+                        <a href="#"  title="Máy lọc không khí">
                             <figure>
                                 <img  class="lazy" alt="Máy lọc không khí" data-src="{{ asset('images/home/sticker_phanloai.png') }}" data-srcset="{{ asset('images/home/sticker_phanloai.png') }}">
                             </figure>
                         </a>
-                        <h2> <a href="https://mutosi.com/cham-soc-bep"  title="Máy lọc không khí">  <span class="product_title">Máy lọc không khí</span> </a></h2>
+                        <h2> <a href="#"  title="Máy lọc không khí">  <span class="product_title">Máy lọc không khí</span> </a></h2>
                     </div>
                     <div class="item " >
-                        <a href="https://mutosi.com/cham-soc-khi"  title="Chăm sóc khí">
+                        <a href="#"  title="Máy lọc nước đầu nguồn">
                             <figure>
                                 <img  class="lazy" alt="Chăm sóc khí" data-src="{{ asset('images/home/may-loc-dau-nguon.png') }}" data-srcset="{{ asset('images/home/may-loc-dau-nguon.png') }}">
                             </figure>
                         </a>
-                        <h2> <a href="https://mutosi.com/cham-soc-khi"  title="Máy lọc nước đầu nguồn">  <span class="product_title">Máy lọc nước đầu nguồn</span> </a></h2>
+                        <h2> <a href="#"  title="Máy lọc nước đầu nguồn">  <span class="product_title">Máy lọc nước đầu nguồn</span> </a></h2>
                     </div>
                     <div class="item " >
-                        <a href="https://mutosi.com/cham-soc-moi-truong"  title="Chăm sóc môi trường">
+                        <a href="#"  title="Máy nước nóng">
                             <figure>
                                 <img  class="lazy" alt="Chăm sóc môi trường" data-src="{{ asset('images/home/maynuocnong.png') }}" data-srcset="{{ asset('images/home/maynuocnong.png') }}">
                             </figure>
