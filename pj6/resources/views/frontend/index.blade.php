@@ -2,7 +2,7 @@
 @section('content') 
 
 @push('style')
-<link rel="stylesheet" type="text/css" href="{{ asset('css/homesao.css') }}">
+<!-- <link rel="stylesheet" type="text/css" href="{{ asset('css/homesao.css') }}"> -->
 <style type="text/css">
     .dcjq-mega-menu #megamenu>.activated {
         background: none;
@@ -17,292 +17,6 @@
 </style>
 @endpush
 
-
-<div class="home_index ">
-    <div class="navigation_main_wrapper" id="top-menu">
-        <div class="menu_relative">
-            <div class="navigation_main">
-                <div class='top_menu'>
-                    <div class="dcjq-mega-menu cls">
-                        <div class="sb-toggle-left navbar-left">
-                            <svg width="15" height="15" fill="#fff" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 24 24">
-                                <g>
-                                    <path d="M24,3c0-0.6-0.4-1-1-1H1C0.4,2,0,2.4,0,3v2c0,0.6,0.4,1,1,1h22c0.6,0,1-0.4,1-1V3z"></path>
-                                    <path d="M24,11c0-0.6-0.4-1-1-1H1c-0.6,0-1,0.4-1,1v2c0,0.6,0.4,1,1,1h22c0.6,0,1-0.4,1-1V11z"></path>
-                                    <path d="M24,19c0-0.6-0.4-1-1-1H1c-0.6,0-1,0.4-1,1v2c0,0.6,0.4,1,1,1h22c0.6,0,1-0.4,1-1V19z"></path>
-                                </g>
-                            </svg>
-                        </div>
-                        <ul id = 'megamenu' class="menu mypopup">
-                            <li class="level_0 sort home  active_home">
-                                <a  class="menu_item_a"  href="https://mutosi.com/" title="Mutosi chăm sóc sức khoẻ gia đình bạn" rel="home" >
-                                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512.001 512.001" style="enable-background:new 0 0 512.001 512.001;" xml:space="preserve">
-                                        <g>
-                                            <g>
-                                                <path d="M503.402,228.885L273.684,19.567c-10.083-9.189-25.288-9.188-35.367-0.001L8.598,228.886 c-8.077,7.36-10.745,18.7-6.799,28.889c3.947,10.189,13.557,16.772,24.484,16.772h36.69v209.721 c0,8.315,6.742,15.057,15.057,15.057h125.914c8.315,0,15.057-6.741,15.057-15.057V356.932h74.002v127.337 c0,8.315,6.742,15.057,15.057,15.057h125.908c8.315,0,15.057-6.741,15.057-15.057V274.547h36.697c10.926,0,20.537-6.584,24.484-16.772C514.147,247.585,511.479,236.246,503.402,228.885z"/>
-                                            </g>
-                                        </g>
-                                        <g>
-                                            <g>
-                                                <path d="M445.092,42.73H343.973l116.176,105.636v-90.58C460.149,49.471,453.408,42.73,445.092,42.73z"/>
-                                            </g>
-                                        </g>
-                                    </svg>
-                                </a>
-                            </li>
-                            <li class="level_0 sort " id="level_t_890" >
-                                <a href="{{ route('details', 'may-loc-nuoc') }}" id="menu_item_890" class="menu_item_a" title="Máy lọc nước">
-                                    <span class="icon_svg cls">
-                                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                                            viewBox="0 0 382.8 382.8" style="enable-background:new 0 0 382.8 382.8;" xml:space="preserve">
-                                            <g>
-                                                <g>
-                                                    <g>
-                                                        <path d="M141.4,193.6c12-12,19.6-28.8,19.6-47.6c0-6.8-2-14.4-5.2-22.4c-3.6-8.4-8.4-16.8-14-25.6c0-0.4-0.4-0.4-0.4-0.8
-                                                            c-11.6-17.6-26.8-34.8-39.6-49.6l-8-9.2l-8,9.2C61,76.4,26.6,116,26.6,146c0,18.4,7.6,35.2,19.6,47.6c12,12,28.8,19.6,47.6,19.6
-                                                            C112.2,213.2,129,205.6,141.4,193.6z"/>
-                                                        <path d="M321,2.4L319,0l-2,2.4c-14.8,17.2-35.2,40.8-35.2,57.6c0,10.4,4,19.6,10.8,26.4s16,10.8,26.4,10.8
-                                                            c10.4,0,19.6-4,26.4-10.8c6.8-6.8,10.8-16,10.8-26.4C356.2,43.2,335.8,19.6,321,2.4z"/>
-                                                        <path d="M192.6,58c-6,7.2-12.8,14.8-19.6,23.2l-10.4,12c4.8,7.6,8.8,15.2,12,22.8c4.4,10.4,6.8,20.4,6.8,30c0,24-9.6,46-25.6,62
-                                                            s-37.6,25.6-62,25.6c-5.6,0-10.8-0.4-16-1.6c-2-0.4-3.6-0.8-5.6-1.2c-0.8,3.2-1.6,6.4-2.4,9.6c-1.2,6-2,11.6-2,17.6
-                                                            c0,34.4,14,65.6,36.4,88.4c22.8,22.8,54,36.4,88.4,36.4c34.4,0,65.6-14,88.4-36.4c22.8-22.4,36.4-54,36.4-88.4
-                                                            c0-54.8-61.2-125.2-105.2-176.4C205.4,72.8,199,65.2,192.6,58z"/>
-                                                    </g>
-                                                </g>
-                                            </g>
-                                        </svg>
-                                    </span>
-                                    Máy lọc nước              
-                                </a>
-                                <!--    LEVEL 1         -->
-                                <span class="drop_down">
-                                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                                        width="255px" height="255px" viewBox="0 0 255 255" style="enable-background:new 0 0 255 255;" xml:space="preserve">
-                                        <g>
-                                            <g id="varrow-drop-down-890">
-                                                <polygon points="0,63.75 127.5,191.25 255,63.75         "/>
-                                            </g>
-                                        </g>
-                                    </svg>
-                                </span>
-                               <!--  <div class='highlight'>
-                                    <div class='highlight1 container'>
-                                        <div class="menu-child_list">
-                                            <div class='sub-menu sub-menu-level1 has_child  ' >
-                                                <a href="https://mutosi.com/may-loc-nuoc" class="level_0 sort sub-menu-item" data-menu_tags="44" id="menu3_item_44" title="Máy lọc nước"  >
-                                                Máy lọc nước                                        </a>
-                                            </div>
-                                            <div class='sub-menu sub-menu-level1 has_child  ' >
-                                                <a href="https://mutosi.com/cay-nuoc-nong-lanh" class="level_0 sort sub-menu-item" data-menu_tags="41" id="menu3_item_41" title="Cây nước nóng lạnh"  >
-                                                Cây nước nóng lạnh                                      </a>
-                                            </div>
-                                            <div class='sub-menu sub-menu-level1 has_child  ' >
-                                                <a href="https://mutosi.com/linh-kien-loc-nuoc" class="level_0 sort sub-menu-item" data-menu_tags="51" id="menu3_item_51" title="Linh kiện lọc nước"  >
-                                                Linh kiện lọc nước                                      </a>
-                                            </div>
-                                            <div class='sub-menu sub-menu-level1 has_child  ' >
-                                                <a href="https://mutosi.com/may-loc-nuoc-ban-cong-nghiep" class="level_0 sort sub-menu-item" data-menu_tags="57" id="menu3_item_57" title="Máy lọc nước Bán công nghiệp"  >
-                                                Máy lọc nước Bán công nghiệp                                        </a>
-                                            </div>
-                                        </div>
-                                        <div class="wraper_item " data-menu_tags="44" data-menu_idt="0">
-                                            <div class="image_sub image_sub_0">
-                                                <a href="https://mutosi.com/may-loc-nuoc" title="Máy lọc nước">
-                                                <img  class="lazy" alt="Máy lọc nước" data-src="https://mutosi.com/images/products/cat/resized/0b13d9f646b48bead2a5_1641459302.jpg" data-srcset="https://mutosi.com/images/products/cat/resized/0b13d9f646b48bead2a5_1641459302.jpg.webp">                                      </a>
-                                            </div>
-                                            <div class="product_item">
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/may-loc-nuoc-nong-lanh-nguoi-9-loi-mp-692hc-bk/" title = "Máy lọc nước Nóng Lạnh Nguội 9 lõi MP-692HC-BK" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2022/03/15/small/692_bk-1_1647339825.png" alt="Máy lọc nước Nóng Lạnh Nguội 9 lõi MP-692HC-BK"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Máy lọc nước Nóng Lạnh Nguội 9 lõi MP-692HC-BK                                                            </div>
-                                                                <span class="price"> 11.130.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/may-loc-nuoc-thong-minh-truesmart-mp-ts100/" title = "Máy lọc nước thông minh TrueSMART MP-TS100" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2022/03/14/small/mp-ts100-thang-1_1647249010.png" alt="Máy lọc nước thông minh TrueSMART MP-TS100"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Máy lọc nước thông minh TrueSMART MP-TS100                                                            </div>
-                                                                <span class="price"> 9.590.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="wraper_item hide" data-menu_tags="41" data-menu_idt="1">
-                                            <div class="image_sub image_sub_1">
-                                                <a href="https://mutosi.com/cay-nuoc-nong-lanh" title="Cây nước nóng lạnh">
-                                                <img  class="lazy" alt="Cây nước nóng lạnh" data-src="https://mutosi.com/images/products/cat/resized/banner-trang-con-bo-sung-07_1611801906.jpg" data-srcset="https://mutosi.com/images/products/cat/resized/banner-trang-con-bo-sung-07_1611801906.jpg.webp">                                      </a>
-                                            </div>
-                                            <div class="product_item">
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/cay-nuoc-nong-lanh-mutosi-md-200bk/" title = "Cây nước nóng lạnh Mutosi MD-200BK" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2022/03/14/small/200-714x714_1647242308.png" alt="Cây nước nóng lạnh Mutosi MD-200BK"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Cây nước nóng lạnh Mutosi MD-200BK                                                            </div>
-                                                                <span class="price"> 3.890.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/cay-nuoc-nong-lanh-mutosi-md-200/" title = "Cây nước nóng lạnh Mutosi MD-200" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2020/06/05/small/md-200-dd_1591349646.png" alt="Cây nước nóng lạnh Mutosi MD-200"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Cây nước nóng lạnh Mutosi MD-200                                                          </div>
-                                                                <span class="price"> 3.890.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="wraper_item hide" data-menu_tags="51" data-menu_idt="2">
-                                            <div class="image_sub image_sub_2">
-                                                <a href="https://mutosi.com/linh-kien-loc-nuoc" title="Linh kiện lọc nước">
-                                                <img  class="lazy" alt="Linh kiện lọc nước" data-src="https://mutosi.com/images/products/cat/resized/526x330px-linh-kien-loi-loc_1606205987.jpg" data-srcset="https://mutosi.com/images/products/cat/resized/526x330px-linh-kien-loi-loc_1606205987.jpg.webp">                                      </a>
-                                            </div>
-                                        </div>
-                                        <div class="wraper_item hide" data-menu_tags="57" data-menu_idt="3">
-                                            <div class="image_sub image_sub_3">
-                                                <a href="https://mutosi.com/may-loc-nuoc-ban-cong-nghiep" title="Máy lọc nước Bán công nghiệp">
-                                                <img  class="lazy" alt="Máy lọc nước Bán công nghiệp" data-src="https://mutosi.com/images/products/cat/resized/21---may-ban-cong-nghiep_1595382661.jpg" data-srcset="https://mutosi.com/images/products/cat/resized/21---may-ban-cong-nghiep_1595382661.jpg.webp">                                      </a>
-                                            </div>
-                                            <div class="product_item">
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/may-loc-nuoc-ban-cong-nghiep-mutosi-50lh/" title = "Máy lọc nước bán công nghiệp Mutosi 50L/H" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2021/02/02/small/may-loc-nuoc-ban-cong-nghiep-mutosi-mb50l_1612255004.png" alt="Máy lọc nước bán công nghiệp Mutosi 50L/H"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Máy lọc nước bán công nghiệp Mutosi 50L/H                                                         </div>
-                                                                <span class="price"> 13.110.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                                <div class="item cls">
-                                                    <a href="https://mutosi.com/may-loc-nuoc-ban-cong-nghiep-mutosi-80lh/" title = "Máy lọc nước bán công nghiệp Mutosi 80L/H" >
-                                                        <div class="frame_img_cat ">
-                                                            <img  class="lazy" data-src="https://mutosi.com/images/products/2021/01/25/small/may-loc-nuoc-ban-cong-nghiep-mutosi-mb80l_1611556445.png" alt="Máy lọc nước bán công nghiệp Mutosi 80L/H"  />
-                                                        </div>
-                                                        <div class="frame_view">
-                                                            <div class="item-info">
-                                                                <div class="name">Máy lọc nước bán công nghiệp Mutosi 80L/H                                                         </div>
-                                                                <span class="price"> 14.810.000₫</span>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class='menu_desc'></div>
-                                </div> -->
-                                <!--    end LEVEL 1         -->
-                            </li>
-                            <li class="level_0 sort " id="level_t_895" >
-                                <a href="{{ route('details', 'may-loc-khong-khi') }}" id="menu_item_895" class="menu_item_a" title="Máy lọc không khí">
-                                    <span class="icon_svg cls">
-                                        <svg  height="50" viewBox="0 0 512 512" width="50" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="m272 296a8.008 8.008 0 0 0 -8-8h-48a8.008 8.008 0 0 0 -8 8v8h64z"/>
-                                            <path d="m216 336h48a8.008 8.008 0 0 0 8-8v-8h-64v8a8.008 8.008 0 0 0 8 8z"/>
-                                            <path d="m184 368h144a8.008 8.008 0 0 0 8-8v-96a8.008 8.008 0 0 0 -8-8h-144a8.008 8.008 0 0 0 -8 8v96a8.008 8.008 0 0 0 8 8zm128-80a8 8 0 1 1 -8 8 8 8 0 0 1 8-8zm0 32a8 8 0 1 1 -8 8 8 8 0 0 1 8-8zm-120-24a24.027 24.027 0 0 1 24-24h48a24.027 24.027 0 0 1 24 24v32a24.027 24.027 0 0 1 -24 24h-48a24.027 24.027 0 0 1 -24-24z"/>
-                                            <path d="m32 168v40h16v-40a90.633 90.633 0 0 1 3.176-23.512 24.039 24.039 0 0 0 -19.176 23.512z"/>
-                                            <path d="m272 112h-32a8.008 8.008 0 0 0 -8 8v8h48v-8a8.008 8.008 0 0 0 -8-8z"/>
-                                            <path d="m256 48c-101.566 0-184.965 49.547-191.578 112h383.156c-6.613-62.453-90.012-112-191.578-112zm128 96h-256a8 8 0 0 1 -8-8c0-40.375 59.738-72 136-72s136 31.625 136 72a8 8 0 0 1 -8 8z"/>
-                                            <path d="m64 424a40.047 40.047 0 0 0 40 40h304a40.047 40.047 0 0 0 40-40v-8h-384z"/>
-                                            <path d="m64 400h384v-224h-384zm96-136a24.027 24.027 0 0 1 24-24h144a24.027 24.027 0 0 1 24 24v96a24.027 24.027 0 0 1 -24 24h-144a24.027 24.027 0 0 1 -24-24z"/>
-                                            <path d="m460.824 144.488a90.633 90.633 0 0 1 3.176 23.512v40h16v-40a24.039 24.039 0 0 0 -19.176-23.512z"/>
-                                        </svg>
-                                    </span>
-                                    Máy lọc không khí              
-                                </a>
-                              
-                            </li>
-                            <li class="level_0 sort " id="level_t_897" >
-                                <a href="{{ route('details', 'may-loc-dau-nguon') }}" id="menu_item_897" class="menu_item_a" title="Máy lọc đầu nguồn">
-                                    <span class="icon_svg cls">
-                                        <svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-                                            <g>
-                                                <g>
-                                                    <path d="M436.03,42.773c-41.886,0-75.964,34.078-75.964,75.97c0,10.578,8.574,19.152,19.152,19.152s19.152-8.574,19.152-19.152 c0-20.774,16.892-37.666,37.659-37.666c20.774,0,37.666,16.892,37.666,37.666s-16.892,37.666-37.666,37.666H19.152 C8.574,156.409,0,164.983,0,175.561s8.574,19.152,19.152,19.152H436.03c41.886,0,75.97-34.078,75.97-75.97 S477.916,42.773,436.03,42.773z"/>
-                                                </g>
-                                            </g>
-                                            <g>
-                                                <g>
-                                                    <path d="M485.187,237.486H19.152C8.574,237.486,0,246.06,0,256.638s8.574,19.152,19.152,19.152h466.035 c10.578,0,19.152-8.574,19.152-19.152S495.765,237.486,485.187,237.486z"/>
-                                                </g>
-                                            </g>
-                                            <g>
-                                                <g>
-                                                    <path d="M436.03,317.293H19.152C8.574,317.293,0,325.867,0,336.445s8.574,19.152,19.152,19.152H436.03 c20.774,0,37.666,16.892,37.666,37.666c0,20.767-16.892,37.659-37.666,37.659c-20.767,0-37.659-16.892-37.659-37.659 c0-10.578-8.574-19.152-19.152-19.152s-19.152,8.574-19.152,19.152c0,41.886,34.072,75.964,75.964,75.964 c41.886,0,75.97-34.078,75.97-75.964C512,351.378,477.922,317.293,436.03,317.293z"/>
-                                                </g>
-                                            </g>
-                                        </svg>
-                                    </span>
-                                    Máy lọc đầu nguồn                
-                                </a>
-                            
-                               
-                            </li>
-
-
-                            <li class="level_0 sort " id="level_t_897" >
-                                <a href="{{ route('details', 'may-nuoc-nong') }}" id="menu_item_897" class="menu_item_a" title="Máy nước nóng">
-                                    <span class="icon_svg cls">
-                                        <svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-                                            <g>
-                                                <g>
-                                                    <path d="M436.03,42.773c-41.886,0-75.964,34.078-75.964,75.97c0,10.578,8.574,19.152,19.152,19.152s19.152-8.574,19.152-19.152 c0-20.774,16.892-37.666,37.659-37.666c20.774,0,37.666,16.892,37.666,37.666s-16.892,37.666-37.666,37.666H19.152 C8.574,156.409,0,164.983,0,175.561s8.574,19.152,19.152,19.152H436.03c41.886,0,75.97-34.078,75.97-75.97 S477.916,42.773,436.03,42.773z"/>
-                                                </g>
-                                            </g>
-                                            <g>
-                                                <g>
-                                                    <path d="M485.187,237.486H19.152C8.574,237.486,0,246.06,0,256.638s8.574,19.152,19.152,19.152h466.035 c10.578,0,19.152-8.574,19.152-19.152S495.765,237.486,485.187,237.486z"/>
-                                                </g>
-                                            </g>
-                                            <g>
-                                                <g>
-                                                    <path d="M436.03,317.293H19.152C8.574,317.293,0,325.867,0,336.445s8.574,19.152,19.152,19.152H436.03 c20.774,0,37.666,16.892,37.666,37.666c0,20.767-16.892,37.659-37.666,37.659c-20.767,0-37.659-16.892-37.659-37.659 c0-10.578-8.574-19.152-19.152-19.152s-19.152,8.574-19.152,19.152c0,41.886,34.072,75.964,75.964,75.964 c41.886,0,75.97-34.078,75.97-75.964C512,351.378,477.922,317.293,436.03,317.293z"/>
-                                                </g>
-                                            </g>
-                                        </svg>
-                                    </span>
-                                    Máy nước nóng                
-                                </a>
-                               
-                              
-                               
-                            </li>
-                           
-                            <!--    CHILDREN                -->
-                        </ul>
-                    </div>
-                    <div class="clear"></div>
-                </div>
-                <div class='clear'></div>
-            </div>
-        </div>
-    </div>
-    <div class="modal-menu-full-screen"></div>
 
     
     <div class="slideshow_countdown cls">
@@ -900,7 +614,7 @@
                     <h2>
                     <p><span>Tin tức & Sự kiện</span></p>
                 </div>
-                <div class="list_menu_cat">
+                <!-- <div class="list_menu_cat">
                     <div class="cat_new_ss scroll_bar_m">
                         <ul class='cat-title '>
                             <li class='cat-title-main activated cat-title_0  ' id="title_12" >Mới nhất</li>
@@ -912,7 +626,7 @@
                             <li class='cat-title-main cat-title_5  ' id="title_19" ><a class="cat-title-acc" href="https://mutosi.com/danh-muc-tin/tin-mutosi"  title="Tin MUTOSI">Tin MUTOSI</a></li>
                         </ul>
                     </div>
-                </div>
+                </div> -->
                 <div class="clear"></div>
                 <div class='news_list_large cls dis_js_news'>
                     <div  class=" news_highlight" >
@@ -933,188 +647,34 @@
                         </div>
                     </div>
                     <div class='grid  cls'>
+
+                        <?php 
+
+                            $post =  App\Models\post::take(4)->get();    
+                        ?>  
+
+                        @foreach($post as $value)  
                         <div  class=" item item_1" >
                             <div class="img_large">
-                                <a href="https://mutosi.com/tin-khuyen-mai/may-moi-het-y---uu-dai-me-ly-doi-di-cho-chi/" title='MÁY MỚI HẾT Ý - ƯU ĐÃI MÊ LY - ĐỔI ĐI CHỜ CHI!'  >
-                                <img  class="lazy" alt="MÁY MỚI HẾT Ý - ƯU ĐÃI MÊ LY - ĐỔI ĐI CHỜ CHI!"itemprop="image" data-src="https://mutosi.com/images/news/2022/04/15/resized/z3341820433241_b4a2595361f4605496ffc6f653fd4087_1649996991.jpg" data-srcset="https://mutosi.com/images/news/2022/04/15/resized/z3341820433241_b4a2595361f4605496ffc6f653fd4087_1649996991.jpg.webp">    </a>
+                                <a href="{{ route('details', $value->link) }}" title='{{ $value->title }}'  >
+                                <img  class="lazy" alt="{{ $value->title }}" itemprop="image" data-src="{{ asset($value->image) }}" data-srcset="{{ asset($value->image) }}">    </a>
                             </div>
                             <div class="text">
                                 <div class="text_lage">
                                     <h3>
-                                        <a href="https://mutosi.com/tin-khuyen-mai/may-moi-het-y---uu-dai-me-ly-doi-di-cho-chi/" title = "MÁY MỚI HẾT Ý - ƯU ĐÃI MÊ LY - ĐỔI ĐI CHỜ CHI!" class="name" >
-                                        MÁY MỚI HẾT Ý - ƯU ĐÃI MÊ LY - ĐỔI ĐI CHỜ CHI!                      </a> 
+                                        <a href="{{ route('details', $value->link) }}" title = "{{ $value->title }}" class="name" >
+                                            {{ $value->title }}                      
+                                        </a> 
                                     </h3>
                                 </div>
                             </div>
                         </div>
-                        <div  class=" item item_2" >
-                            <div class="img_large">
-                                <a href="https://mutosi.com/tin-khuyen-mai/minigame_follow-het-minh---rinh-qua-okelaz/" title='[MINIGAME] FOLLOW HẾT MÌNH - RINH QUÀ OKELAZ'  >
-                                <img  class="lazy" alt="[MINIGAME] FOLLOW HẾT MÌNH - RINH QUÀ OKELAZ"itemprop="image" data-src="https://mutosi.com/images/news/2022/01/26/resized/follow-het-minh_1643190927.jpg" data-srcset="https://mutosi.com/images/news/2022/01/26/resized/follow-het-minh_1643190927.jpg.webp">    </a>
-                            </div>
-                            <div class="text">
-                                <div class="text_lage">
-                                    <h3>
-                                        <a href="https://mutosi.com/tin-khuyen-mai/minigame_follow-het-minh---rinh-qua-okelaz/" title = "[MINIGAME] FOLLOW HẾT MÌNH - RINH QUÀ OKELAZ" class="name" >
-                                        [MINIGAME] FOLLOW HẾT MÌNH - RINH QUÀ OKELAZ                      </a> 
-                                    </h3>
-                                </div>
-                            </div>
-                        </div>
-                        <div  class=" item item_3" >
-                            <div class="img_large">
-                                <a href="https://mutosi.com/tin-mutosi/su-kien-ra-mat-mutosi-truesmart--khai-mo-chuan-moi-cua-may-loc-nuoc-viet-nam/" title='Sự kiện ra mắt Mutosi TrueSMART – Khai mở chuẩn mới của máy lọc nước Việt Nam'  >
-                                <img  class="lazy" alt="Sự kiện ra mắt Mutosi TrueSMART – Khai mở chuẩn mới của máy lọc nước Việt Nam"itemprop="image" data-src="https://mutosi.com/images/news/2021/12/28/resized/truesmart-01_1640674128.jpg" data-srcset="https://mutosi.com/images/news/2021/12/28/resized/truesmart-01_1640674128.jpg.webp">    </a>
-                            </div>
-                            <div class="text">
-                                <div class="text_lage">
-                                    <h3>
-                                        <a href="https://mutosi.com/tin-mutosi/su-kien-ra-mat-mutosi-truesmart--khai-mo-chuan-moi-cua-may-loc-nuoc-viet-nam/" title = "Sự kiện ra mắt Mutosi TrueSMART – Khai mở chuẩn mới của máy lọc nước Việt Nam" class="name" >
-                                        Sự kiện ra mắt Mutosi TrueSMART – Khai mở chuẩn mới của máy lọc...                      </a> 
-                                    </h3>
-                                </div>
-                            </div>
-                        </div>
-                        <div  class=" item item_4" >
-                            <div class="img_large">
-                                <a href="https://mutosi.com/tin-mutosi/minigame-ra-mat-may-loc-nuoc-truesmart/" title='[MINIGAME] RA MẮT MÁY LỌC NƯỚC TRUESMART'  >
-                                <img  class="lazy" alt="[MINIGAME] RA MẮT MÁY LỌC NƯỚC TRUESMART"itemprop="image" data-src="https://mutosi.com/images/news/2021/12/28/resized/z3057899528087_3006fe77b9e3165b34fda15ffe21d553_1640691306.jpg" data-srcset="https://mutosi.com/images/news/2021/12/28/resized/z3057899528087_3006fe77b9e3165b34fda15ffe21d553_1640691306.jpg.webp">    </a>
-                            </div>
-                            <div class="text">
-                                <div class="text_lage">
-                                    <h3>
-                                        <a href="https://mutosi.com/tin-mutosi/minigame-ra-mat-may-loc-nuoc-truesmart/" title = "[MINIGAME] RA MẮT MÁY LỌC NƯỚC TRUESMART" class="name" >
-                                        [MINIGAME] RA MẮT MÁY LỌC NƯỚC TRUESMART                      </a> 
-                                    </h3>
-                                </div>
-                            </div>
-                        </div>
+                        @endforeach
+                        
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!--Trên Footer-->
-    <div class="by_fastform">
-        <img  class="lazy left_image" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower.png.webp">
-        <div class="container">
-            <div class="img_flower">
-                <img  class="lazy item" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower_a.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower_a.png.webp">         
-                <img  class="lazy item" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower_a.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower_a.png.webp">         
-                <img  class="lazy item" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower_a.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower_a.png.webp">         
-                <img  class="lazy item" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower_a.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower_a.png.webp">         
-                <img  class="lazy item" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower_a.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower_a.png.webp">         
-                <img  class="lazy item" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower_a.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower_a.png.webp">         
-            </div>
-            <div class="wrap-by-fast cls">
-                <div class="item">
-                    <div class="phone-left">
-                        <h2>
-                            <p class="phone-tittle">ĐĂNG KÝ NHẬN BẢN TIN MUTOSI</p>
-                        </h2>
-                        <p class="phone-content">Đừng bỏ lỡ các thông tin sản phẩm mới và khuyến mãi hấp dẫn </p>
-                    </div>
-                </div>
-                <div class="buy_fast">
-                    <div class="">
-                        <form action="" name="buy_fast_form" id="buy_fast_form" method="post" onsubmit="javascript: return submit_form_buy_fast();" >
-                            <div class="cls buy_fast_body">
-                                <input type="text" value="" placeholder="Nhập SĐT/Zalo/Email"" id="telephone_buy_fast" name="email_buy_fast" class="keyword input-text" />
-                                <button type="submit" class="button-buy-fast button">
-                                    <svg x="0px" y="0px" width="15px" height="15px"
-                                        viewBox="0 0 334.5 334.5" style="enable-background:new 0 0 334.5 334.5;" xml:space="preserve">
-                                        <path d="M332.797,13.699c-1.489-1.306-3.608-1.609-5.404-0.776L2.893,163.695c-1.747,0.812-2.872,2.555-2.893,4.481
-                                            s1.067,3.693,2.797,4.542l91.833,45.068c1.684,0.827,3.692,0.64,5.196-0.484l89.287-66.734l-70.094,72.1
-                                            c-1,1.029-1.51,2.438-1.4,3.868l6.979,90.889c0.155,2.014,1.505,3.736,3.424,4.367c0.513,0.168,1.04,0.25,1.561,0.25
-                                            c1.429,0,2.819-0.613,3.786-1.733l48.742-56.482l60.255,28.79c1.308,0.625,2.822,0.651,4.151,0.073
-                                            c1.329-0.579,2.341-1.705,2.775-3.087L334.27,18.956C334.864,17.066,334.285,15.005,332.797,13.699z"/>
-                                        <g>
-                                    </svg>
-                                    &nbsp;
-                                    Gửi                 
-                                </button>
-                            </div>
-                            <input type='hidden'  name="module" value="users"/>             
-                            <input type='hidden'  name="view" value="users"/>
-                            <input type='hidden'  name="task" value="buy_fast_save"/>
-                            <input type='hidden'  name="Itemid" value="10"/>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <img  class="lazy right_image" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/home_r.png" data-srcset="https://mutosi.com/templates/mutosi/images/home_r.png.webp">
-    </div>
-    <div class="form_fast hide clear" id="form_fast">
-        <div class="container">
-            <div id="close_form" class="close" onclick="close_f();">x</div>
-            <div class="form_dk cb cw">
-                <div class="block_title">
-                    <span>
-                        <svg width="10px" height="10px" version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                            viewBox="0 0 418.304 418.304" style="enable-background:new 0 0 418.304 418.304;" xml:space="preserve">
-                            <g>
-                                <g>
-                                    <path d="M391.68,96.768C357.888,37.376,295.424,0,226.304,0h-34.816C122.88,0,59.904,37.376,26.624,96.768
-                                        C10.752,124.416,2.56,156.16,2.56,188.928v117.248c3.072,62.464,51.712,111.616,112.128,111.616c10.24,0,17.92-7.68,17.92-17.92
-                                        v-199.68c0-10.24-7.68-17.92-17.92-17.92c-29.696,0-56.32,12.288-76.8,32.256v-26.112c0-26.112,6.656-51.712,19.456-74.752
-                                        C84.48,65.536,135.68,34.816,192,34.816h34.816c55.296,0,107.008,30.208,134.144,78.848c12.8,23.04,19.456,49.152,19.456,74.752
-                                        v26.112c-19.968-19.968-47.104-32.256-76.8-32.256c-10.24,0-17.92,7.68-17.92,17.92v200.192c0,10.24,7.68,17.92,17.92,17.92
-                                        c59.904,0,109.056-49.664,112.128-112.128V188.928C415.744,156.672,407.552,124.928,391.68,96.768z"/>
-                                </g>
-                            </g>
-                        </svg>
-                        Yêu cầu tư vấn
-                    </span>
-                </div>
-                <div class="form-by-fast cls">
-                    <div class="form_fast cls">
-                        <div class="">
-                            <form action="#" name="buy_fast_form" id="buy_fast_form66" method="post" onsubmit="javascript: return submit_form_menu66();" >
-                                <ul>
-                                    <li>
-                                        <span class="text_check">
-                                        <input type="text" required value="" placeholder="Họ tên(*):" id="name_buy_fast1" name="name_buy_fast" class="keyword input-text" />
-                                        </span>
-                                    </li>
-                                    <li > 
-                                        <input type="text" required value="" placeholder="Điện thoại di động(*):" id="telephone_buy_fast5" name="telephone_buy_fast" class="keyword input-text" />
-                                    </li>
-                                    <li>
-                                        <input type="text" value="" placeholder="Tỉnh/Thành phố" id="address_buy_fast" name="address_buy_fast" class="keyword input-text" />
-                                    </li>
-                                    <li id="radio_fast"> 
-                                        <span id="radio_check">
-                                        <label class="container3">Tư vấn sản phẩm phù hợp
-                                        <input type="checkbox" required value="Tư vấn sản phẩm phù hợp" id="pro_buy_fast" name="pro_buy_fast" class="keyword radio-text"/>
-                                        <span class="checkmark"></span>
-                                        </label>
-                                        <label class="container3">Yêu cầu báo giá
-                                        <input type="checkbox" value="Yêu cầu báo giá" id="medical_buy_fast" name="medical_buy_fast" class="keyword radio-text" />
-                                        <span class="checkmark"></span>
-                                        </label>
-                                        <label class="container3">Yêu cầu tư vấn kỹ thuật
-                                        <input type="checkbox" value="Yêu cầu tư vấn kỹ thuật" id="enginering_buy_fast" name="enginering_buy_fast" class="keyword radio-text"/>
-                                        <span class="checkmark"></span>
-                                        </label>
-                                        </span>
-                                    </li>
-                                </ul>
-                                <div class="button_form">   
-                                    <button type="submit" class="button-buy-fast button" id="submit_btn1">
-                                    Gửi                         </button>
-                                </div>
-                        </div>
-                        <input type='hidden'  name="module" value="users"/>         
-                        <input type='hidden'  name="view" value="users"/>
-                        <input type='hidden'  name="task" value="buy_fast_save2"/>
-                        <input type='hidden'  name="Itemid" value="10"/>
-                        <input type='hidden'  name="return" value="Lw=="/>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+   
 @endsection
