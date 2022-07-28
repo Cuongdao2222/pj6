@@ -13,6 +13,9 @@
     }
     .block-strengths-round .background_round .bg_1 {
         top: 16% !important;
+    }
+    .by_fastform:before {
+        display: none;
     }    
 </style>
 @endpush
@@ -234,11 +237,11 @@
         </div>
     </div>
     <div class="clear"> </div>
-    <div class="pos5 lazy hello" style="background-image: url(https://mutosi.com/images/config/2-banner-gia-dung-trang-chu-cheo_1588925995.jpg.webp); display: block;">
+    <div class="pos5 lazy hello" style="background-image: url({{ asset('images/background-image/2-banner-gia-dung-trang-chu-cheo_1588925995.jpg.webp')  }}); display: block;">
         <div class="container">
             <div class="block_strengths strengths_0 blocks_strengths_left blocks0 block" id="block_id_130">
                 <div class="block_title">
-                    <h2><a href="https://mutosi.com/noi-com-dien-pc36.html" title="Máy lọc nước">
+                    <h2><a href="{{ route('details', 'may-loc-nuoc') }}" title="Máy lọc nước">
                         <span class="text-left">Máy lọc nước</span>
                         
                         </a>
@@ -369,7 +372,7 @@
         <div class='clear'></div>
     </div>
     <!-- end.Content -->
-    <div  class="bg_pos6 lazy"style="background-image: url(https://mutosi.com/images/config/10-4-landing-page-4_1586533691.jpg.webp); display: block;">
+    <div  class="bg_pos6 lazy"style="background-image: url({{ asset('images/background-image/10-4-landing-page-4_1586533691.jpg.webp')  }} ); display: block;">
         <div class="pos6 container">
             <div class='block_product_cat product_cat_0 blocks_product_cat blocks0 block'  id = "block_id_129" >
                 <div class="block_title"><span class="text-right"><img  class="lazy" alt="Logo" data-src="{{ asset('images/logo.svg') }}" data-srcset="{{ asset('images/logo.svg') }}"></span></div>
@@ -381,7 +384,7 @@
                             </figure>
                         </a>
                         <h2> 
-                            <a href="#"  title="Máy lọc nước">  <span class="product_title">Máy lọc nước</span> </a>
+                            <a href="{{ route('details', 'may-loc-nuoc') }}"  title="Máy lọc nước">  <span class="product_title">Máy lọc nước</span> </a>
                         </h2>
                     </div>
                     <div class="item " >
@@ -390,7 +393,7 @@
                                 <img  class="lazy" alt="Máy lọc không khí" data-src="{{ asset('images/home/sticker_phanloai.png') }}" data-srcset="{{ asset('images/home/sticker_phanloai.png') }}">
                             </figure>
                         </a>
-                        <h2> <a href="#"  title="Máy lọc không khí">  <span class="product_title">Máy lọc không khí</span> </a></h2>
+                        <h2> <a href="{{ route('details', 'may-loc-khong-khi') }}"  title="Máy lọc không khí">  <span class="product_title">Máy lọc không khí</span> </a></h2>
                     </div>
                     <div class="item " >
                         <a href="#"  title="Máy lọc nước đầu nguồn">
@@ -398,7 +401,7 @@
                                 <img  class="lazy" alt="Chăm sóc khí" data-src="{{ asset('images/home/may-loc-dau-nguon.png') }}" data-srcset="{{ asset('images/home/may-loc-dau-nguon.png') }}">
                             </figure>
                         </a>
-                        <h2> <a href="#"  title="Máy lọc nước đầu nguồn">  <span class="product_title">Máy lọc nước đầu nguồn</span> </a></h2>
+                        <h2> <a href="{{ route('details', 'may-loc-dau-nguon') }}"  title="Máy lọc nước đầu nguồn">  <span class="product_title">Máy lọc nước đầu nguồn</span> </a></h2>
                     </div>
                     <div class="item " >
                         <a href="#"  title="Máy nước nóng">
@@ -406,19 +409,19 @@
                                 <img  class="lazy" alt="Chăm sóc môi trường" data-src="{{ asset('images/home/maynuocnong.png') }}" data-srcset="{{ asset('images/home/maynuocnong.png') }}">
                             </figure>
                         </a>
-                        <h2> <a href="#"  title="Máy nước nóng">  <span class="product_title">Máy nước nóng</span> </a></h2>
+                        <h2> <a href="{{ route('details', 'may-nuoc-nong') }}"  title="Máy nước nóng">  <span class="product_title">Máy nước nóng</span> </a></h2>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div  class="pos7 lazy"style="background-image: url(https://mutosi.com/images/config/shutterstock_421098091_huge_1587957077.png.webp); display: block;">
+    <div  class="pos7 lazy"style="background-image: url({{ asset('images/background-image/shutterstock_421098091_huge_1587957077.png.webp')  }} ); display: block;">
         <div class="container">
             <div class='block_banners banners-_banner banners_0 block'  id = "block_id_132" >
                 <div class="wrapper_banner_home">
                     <div class='banners cls banners-default block_inner block_banner_banner'  >
                         <div class="item">
-                            <a rel="nofollow" href="https://mutosi.com/may-loc-khong-khi" title='.'  id="banner_item_93" class="banner_item">
+                            <a rel="nofollow" href="{{ route('details', 'may-loc-nuoc') }} " title='.'  id="banner_item_93" class="banner_item">
                             <span class="wrapper_ap">
                             <img  class="lazy" alt="." data-src="{{ asset('images/home/banner-sp2.png') }}" data-srcset="{{ asset('images/home/banner-sp2.png') }}">                                                                                                                       <span class="text_ab">
                             .                               </span>
@@ -426,7 +429,7 @@
                             </a>
                         </div>
                         <div class="item">
-                            <a rel="nofollow" href="https://mutosi.com/may-loc-nuoc" title='.'  id="banner_item_94" class="banner_item">
+                            <a rel="nofollow" href="{{ route('details', 'may-loc-khong-khi') }}" title='.'  id="banner_item_94" class="banner_item">
                             <span class="wrapper_ap">
                             <img  class="lazy" alt="." data-src="{{ asset('images/home/banner-sp1.png') }}" data-srcset="{{ asset('images/home/banner-sp1.png') }}">                                                                                                                       <span class="text_ab">
                             .                               </span>
@@ -434,10 +437,12 @@
                             </a>
                         </div>
                         <div class="item">
-                            <a rel="nofollow" href="https://mutosi.com/cay-nuoc-nong-lanh" title='..'  id="banner_item_95" class="banner_item">
+                            <a rel="nofollow" href="{{ route('details', 'may-loc-nuoc-dau-nguon') }}" title='..'  id="banner_item_95" class="banner_item">
                             <span class="wrapper_ap">
-                            <img  class="lazy" alt=".." data-src="{{ asset('images/home/banner-sp.png') }}" data-srcset="{{ asset('images/home/banner-sp.png') }}">                                                                                                                      <span class="text_ab">
-                            ..                              </span>
+                            <img  class="lazy" alt=".." data-src="{{ asset('images/home/banner2.jpg') }}" data-srcset="{{ asset('images/home/banner2.jpg') }}">                                                                                                                      
+                            <span class="text_ab">
+                            ..                              
+                        </span>
                             </span>
                             </a>
                         </div>
@@ -450,19 +455,27 @@
                 <div class="wapper-content-page product_home_content">
                     <div class="cat_item_store cat_p">
                         <div class="products_home_slideshow" id="products_home_slideshow" >
-                            <!--    EACH Product                -->
+                            <!--    EACH Product 
+                                           -->
+
+                            <?php 
+                            
+                                $product = App\Models\product::take(3)->OrderBy('id', 'desc')->get();
+
+                            ?>    
+                            @foreach($product as $products)            
                             <div  class="item">
                                 <div class="frame_inner">
                                     <figure class="product_image ">
-                                        <a href="https://mutosi.com/may-loc-nuoc-thong-minh-truesmart-mp-ts100/" title='Máy lọc nước thông minh TrueSMART MP-TS100'>
-                                        <img  class="owl-lazy" alt="Máy lọc nước thông minh TrueSMART MP-TS100" data-src="https://mutosi.com/images/products/2022/03/15/large/ts100_1-1_1647326546.png" data-srcset="https://mutosi.com/images/products/2022/03/15/large/ts100_1-1_1647326546.png.webp">                    </a>
+                                        <a href="{{ route('details', $products->Link) }}" title='{{  $products->Name}}'>
+                                        <img  class="owl-lazy" alt="{{  $products->Name}}" data-src="{{ asset('images/home/Untitled-133.png') }}" data-srcset="{{ asset('images/home/Untitled-133.png') }} ">                    </a>
                                     </figure>
                                 </div>
                                 <!-- end .frame_inner -->   
                                 <div class="frame_right">
                                     <h2>
-                                        <a href="https://mutosi.com/may-loc-nuoc-thong-minh-truesmart-mp-ts100/" title = "Máy lọc nước thông minh TrueSMART MP-TS100" class="name" >
-                                        Máy lọc nước thông minh TrueSMART MP-TS100                      
+                                        <a href="{{ route('details', $products->Link) }}" title = "{{  $products->Name}}" class="name" >
+                                            {{  $products->Name}}          
                                         </a>
                                     </h2>
                                     <div class="summary">   
@@ -472,83 +485,13 @@
                                         Đ&egrave;n cảnh b&aacute;o thay l&otilde;i biến đổi m&agrave;u sắc, dễ d&agrave;ng nhận...              
                                     </div>
                                     <div class="read_more">
-                                        <a href="https://mutosi.com/may-loc-nuoc-thong-minh-truesmart-mp-ts100/" title="Chi tiết">Chi tiết</a>
+                                        <a href="{{ route('details', $products->Link) }}" title="Chi tiết">Chi tiết</a>
                                     </div>
                                 </div>
                             </div>
-                            <div  class="item">
-                                <div class="frame_inner">
-                                    <figure class="product_image ">
-                                        <a href="https://mutosi.com/may-loc-nuoc-mutosi-9-loi-enrolas-mp-e91s/" title='Máy lọc nước Mutosi 9 lõi Enrolas MP-E91S'>
-                                        <img  class="owl-lazy" alt="Máy lọc nước Mutosi 9 lõi Enrolas MP-E91S" data-src="https://mutosi.com/images/products/2022/03/15/large/e91s_1-1_1647326723.png" data-srcset="https://mutosi.com/images/products/2022/03/15/large/e91s_1-1_1647326723.png.webp">                   </a>
-                                    </figure>
-                                </div>
-                                <!-- end .frame_inner -->   
-                                <div class="frame_right">
-                                    <h2>
-                                        <a href="https://mutosi.com/may-loc-nuoc-mutosi-9-loi-enrolas-mp-e91s/" title = "Máy lọc nước Mutosi 9 lõi Enrolas MP-E91S" class="name" >
-                                        Máy lọc nước Mutosi 9 lõi Enrolas MP-E91S                       
-                                        </a>
-                                    </h2>
-                                    <div class="summary">   
-                                        C&ocirc;ng nghệ hồi lưu tinh khiết ENROLAS Bảo vệ m&agrave;ng RO khỏi t&aacute;c nh&acirc;n g&acirc;y tắc m&agrave;ng, n&acirc;ng cao tỉ lệ&nbsp;thu hồi nước tinh khiết, k&eacute;o d&agrave;i tuổi thọ m&agrave;ng RO.
-                                        Hiển thị chỉ số tinh khiết của nguồn nước theo thời gian thực.
-                                        Sử dụng m&agrave;ng RO Mutosi C&ocirc;ng...             
-                                    </div>
-                                    <div class="read_more">
-                                        <a href="https://mutosi.com/may-loc-nuoc-mutosi-9-loi-enrolas-mp-e91s/" title="Chi tiết">Chi tiết</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div  class="item">
-                                <div class="frame_inner">
-                                    <figure class="product_image ">
-                                        <a href="https://mutosi.com/may-loc-nuoc-mutosi-10-loi-mp-2100s-nc/" title='Máy lọc nước Mutosi 10 lõi MP-2100S-NC'>
-                                        <img  class="owl-lazy" alt="Máy lọc nước Mutosi 10 lõi MP-2100S-NC" data-src="https://mutosi.com/images/products/2021/05/15/large/290-260x480_1621072730.png" data-srcset="https://mutosi.com/images/products/2021/05/15/large/290-260x480_1621072730.png.webp">                    </a>
-                                    </figure>
-                                </div>
-                                <!-- end .frame_inner -->   
-                                <div class="frame_right">
-                                    <h2>
-                                        <a href="https://mutosi.com/may-loc-nuoc-mutosi-10-loi-mp-2100s-nc/" title = "Máy lọc nước Mutosi 10 lõi MP-2100S-NC" class="name" >
-                                        Máy lọc nước Mutosi 10 lõi MP-2100S-NC                      
-                                        </a>
-                                    </h2>
-                                    <div class="summary">   
-                                        Xử l&yacute; nguồn nước nhiều ion kim loại cứng
-                                        Hệ thống lọc 10 cấp mạnh mẽ.&nbsp;
-                                        Sử dụng m&agrave;ng RO Mutosi C&ocirc;ng nghệ Slitec ti&ecirc;n tiến, đạt ti&ecirc;u chuẩn NFS/ANSI 58 &ndash; Ti&ecirc;u chuẩn to&agrave;n cầu cho m&agrave;ng lọc RO;
-                                        L&otilde;i chức năng bổ sung c&aacute;c vi kho&aacute;ng c&oacute; lợi, l&agrave;m tăng...              
-                                    </div>
-                                    <div class="read_more">
-                                        <a href="https://mutosi.com/may-loc-nuoc-mutosi-10-loi-mp-2100s-nc/" title="Chi tiết">Chi tiết</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div  class="item">
-                                <div class="frame_inner">
-                                    <figure class="product_image ">
-                                        <a href="https://mutosi.com/cay-nuoc-nong-lanh-mutosi-md-450ro/" title='Cây nước nóng lạnh Mutosi MD-450RO'>
-                                        <img  class="owl-lazy" alt="Cây nước nóng lạnh Mutosi MD-450RO" data-src="https://mutosi.com/images/products/2020/12/23/large/untitled-2_1608709554.png" data-srcset="https://mutosi.com/images/products/2020/12/23/large/untitled-2_1608709554.png.webp">                  </a>
-                                    </figure>
-                                </div>
-                                <!-- end .frame_inner -->   
-                                <div class="frame_right">
-                                    <h2>
-                                        <a href="https://mutosi.com/cay-nuoc-nong-lanh-mutosi-md-450ro/" title = "Cây nước nóng lạnh Mutosi MD-450RO" class="name" >
-                                        Cây nước nóng lạnh Mutosi MD-450RO                      
-                                        </a>
-                                    </h2>
-                                    <div class="summary">   
-                                        T&iacute;ch hợp c&ocirc;ng nghệ lọc nước RO
-                                        Hệ thống lọc RO 8&nbsp;cấp, sử dụng m&agrave;ng lọc RO Mutosi C&ocirc;ng nghệ Slitec đột ph&aacute;, mang lại nguồn nước sau lọc đạt chuẩn Quốc gia nước uống trực tiếp.
-                                        L&agrave;m lạnh s&acirc;u, giữ lạnh l&acirc;u với block Danfu si&ecirc;u bền, nhiệt độ l&agrave;m lạnh:...              
-                                    </div>
-                                    <div class="read_more">
-                                        <a href="https://mutosi.com/cay-nuoc-nong-lanh-mutosi-md-450ro/" title="Chi tiết">Chi tiết</a>
-                                    </div>
-                                </div>
-                            </div>
+                            @endforeach
+
+                          
                             <!--    end EACH Product                -->
                         </div>
                     </div>
@@ -556,56 +499,7 @@
             </div>
         </div>
     </div>
-    <!-- <div class="pos8 cls" >
-        <div class="container2">
-            <div class="header_l head-t">           
-            </div>
-            <div class="wapper_container">
-                <div class="wrapper_left">
-                    <div class="item cls">
-                        <img  class="qrcode lazy" alt="Mã QR Code" data-src="https://mutosi.com/images/config/onlink_to_aam52e_small_1586573462.jpg" data-srcset="https://mutosi.com/images/config/onlink_to_aam52e_small_1586573462.jpg.webp">
-                        <a href="https://play.google.com/store/apps/details?id=com.app.mutosi&hl=vi&fbclid=IwAR2j2K-gJI0DEnYJQPTkemAjx45NTe6bmthM4MqJfQqy97tUiyI9DWywmqQ" title="App Google Play" target="_blank">
-                        <img  class="lazy" alt="Google Play" data-src="https://mutosi.com/images/config/google_pl.jpg" data-srcset="https://mutosi.com/images/config/google_pl.jpg.webp">                       </a>
-                    </div>
-                    <div class="item cls">
-                        <img  class="qrcode lazy" alt="Mã QR Code" data-src="https://mutosi.com/images/config/app-store_1586573870.jpg" data-srcset="https://mutosi.com/images/config/app-store_1586573870.jpg.webp">
-                        <a href="https://apps.apple.com/vn/app/mutosi/id1475057126?fbclid=IwAR0dNM9gBWpUMSYTHCKP_85ynOAN2VS12z1kN68CDVS3pfUFDDotguVUo_s" title="App Store" target="_blank">
-                        <img  class="lazy" alt="App Store" data-src="https://mutosi.com/images/config/appstrore.jpg" data-srcset="https://mutosi.com/images/config/appstrore.jpg.webp">                     </a>
-                    </div>
-                </div>
-                <div class='block_banners banners_0 blocks_banner blocks0 block'  id = "block_id_133" >
-                    <div style="background-color:#21793D" class='banners_wrapper cls banners-default_wrapper block_inner block_banner_banner'  >
-                        <div class="item">
-                            
-                            <div class="wrapper_text" style="background-color:#21793D">
-                                <div class="item">
-                                    <div class="text_ab">
-                                        <h2>DỊCH VỤ BẢO HÀNH ĐIỆN TỬ</h2>
-                                    </div>
-                                    <div class="text_wrapper">
-                                        <span class="text_left">
-                                        Nhanh chóng tiện lợi<br>
-                                        Mọi lúc, mọi nơi                                    </span>
-                                        <fieldset>
-                                            <legend>Tư vấn</legend>
-                                            <span class="summary">24/7</span>
-                                        </fieldset>
-                                    </div>
-                                    <div class="read_more">
-                                        <a href="https://mutosi.com/ho-tro-khach-hang/kich-hoat-bao-hanh-dien-tu-bang-app-bao-hanh-cua-mutosi-n36.html" title="Tìm hiểu thêm">Tìm hiểu thêm</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="clear"></div>
-                    </div>
-                    <div class="clear"></div>
-                </div>
-            </div>
-            <div class="header_r head-t" style="background-color:#21793D">          
-            </div>
-        </div>
-    </div> -->
+  
     <div class="clear"></div>
     <div class="pos9" >
         <div class="container">
@@ -614,50 +508,41 @@
                     <h2>
                     <p><span>Tin tức & Sự kiện</span></p>
                 </div>
-                <!-- <div class="list_menu_cat">
-                    <div class="cat_new_ss scroll_bar_m">
-                        <ul class='cat-title '>
-                            <li class='cat-title-main activated cat-title_0  ' id="title_12" >Mới nhất</li>
-                            <li class='cat-title-main cat-title_0  ' id="title_12" ><a class="cat-title-acc" href="https://mutosi.com/danh-muc-tin/ho-tro-khach-hang"  title="Hỗ trợ khách hàng">Hỗ trợ khách hàng</a></li>
-                            <li class='cat-title-main cat-title_1  ' id="title_14" ><a class="cat-title-acc" href="https://mutosi.com/danh-muc-tin/ban-tin-mutosi"  title="Báo chí đưa tin">Báo chí đưa tin</a></li>
-                            <li class='cat-title-main cat-title_2  ' id="title_13" ><a class="cat-title-acc" href="https://mutosi.com/danh-muc-tin/tin-san-pham"  title="Tin sản phẩm">Tin sản phẩm</a></li>
-                            <li class='cat-title-main cat-title_3  ' id="title_15" ><a class="cat-title-acc" href="https://mutosi.com/danh-muc-tin/kinh-nghiem-hay"  title="Kinh nghiệm hay">Kinh nghiệm hay</a></li>
-                            <li class='cat-title-main cat-title_4  ' id="title_17" ><a class="cat-title-acc" href="https://mutosi.com/danh-muc-tin/trach-nhiem-xa-hoi"  title="Trách nhiệm xã hội">Trách nhiệm xã hội</a></li>
-                            <li class='cat-title-main cat-title_5  ' id="title_19" ><a class="cat-title-acc" href="https://mutosi.com/danh-muc-tin/tin-mutosi"  title="Tin MUTOSI">Tin MUTOSI</a></li>
-                        </ul>
-                    </div>
-                </div> -->
+                
+                 <?php 
+
+                    $post =  App\Models\post::take(5)->Orderby('id', 'asc')->get();    
+                ?>  
                 <div class="clear"></div>
                 <div class='news_list_large cls dis_js_news'>
                     <div  class=" news_highlight" >
                         <div class="img_large">
-                            <a href="https://mutosi.com/tin-khuyen-mai/khai-truong-showroom-anmoga--uu-dai-len-toi-50/" title='KHAI TRƯƠNG SHOWROOM ANMOGA – ƯU ĐÃI LÊN TỚI 50%'  >
-                            <img  class="lazy" alt="KHAI TRƯƠNG SHOWROOM ANMOGA – ƯU ĐÃI LÊN TỚI 50%" data-src="https://mutosi.com/images/news/2022/04/30/large/anh-ngang-1_1651309185.jpg" data-srcset="https://mutosi.com/images/news/2022/04/30/large/anh-ngang-1_1651309185.jpg.webp">    </a>
+                            <a href="{{ route('details', $post[0]->link) }}" title='{{ route('details', $post[0]->title) }}'  >
+                            <img  class="lazy" alt="{{ route('details', $post[0]->title) }}" data-src="{{ asset($post[0]->image??'images/product/noimage.png') }}" data-srcset="{{ asset($post[0]->image??'images/product/noimage.png') }} ">    </a>
                         </div>
                         <div class="text">
                             <div class="text_lage">
                                 <h3>
-                                    <a href="https://mutosi.com/tin-khuyen-mai/khai-truong-showroom-anmoga--uu-dai-len-toi-50/" title = "KHAI TRƯƠNG SHOWROOM ANMOGA – ƯU ĐÃI LÊN TỚI 50%" class="name" >
-                                    KHAI TRƯƠNG SHOWROOM ANMOGA – ƯU ĐÃI LÊN TỚI 50%          </a> 
+                                    <a href="{{ route('details', $post[0]->link) }}" title = "{{ $post[0]->title }}" class="name" >
+                                    {{ $post[0]->title  }}      
+                                    </a> 
                                 </h3>
                             </div>
                             <div class="summary_news">
-                                Nhằm mang tới trải nghiệm tuyệt vời, gi&uacute;p Qu&yacute; kh&aacute;ch h&agrave;ng thuận tiện mua sắm, bảo h&agrave;nh v&agrave; bảo tr&igrave; sản phẩm,&nbsp;Mutosi th&ocirc;ng b&aacute;o ch&iacute;nh...            
+                                           
                             </div>
                         </div>
                     </div>
                     <div class='grid  cls'>
 
-                        <?php 
+                       
 
-                            $post =  App\Models\post::take(4)->get();    
-                        ?>  
-
-                        @foreach($post as $value)  
-                        <div  class=" item item_1" >
+                        @foreach($post as $key => $value)  
+                        @if($key != 0)
+                        <div  class="item item_1" >
                             <div class="img_large">
                                 <a href="{{ route('details', $value->link) }}" title='{{ $value->title }}'  >
-                                <img  class="lazy" alt="{{ $value->title }}" itemprop="image" data-src="{{ asset($value->image) }}" data-srcset="{{ asset($value->image) }}">    </a>
+                                <img  class="lazy" alt="{{ $value->title }}" itemprop="image" data-src="{{ asset($value->image??'images/product/noimage.png') }}" data-srcset="{{ asset($value->image) }}">    </a>
                             </div>
                             <div class="text">
                                 <div class="text_lage">
@@ -669,6 +554,8 @@
                                 </div>
                             </div>
                         </div>
+                        @endif
+                       
                         @endforeach
                         
                     </div>

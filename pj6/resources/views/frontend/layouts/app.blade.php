@@ -10,8 +10,8 @@
             <meta name="COPYRIGHT" content="https://delecweb.com" />
             <meta name="DEVELOPER" content="https://delecweb.com" />
             <meta name="dc.language" content="VN" />
-            <meta name="dc.source" content="https://mutosi.com/" />
-            <meta name="dc.relation" content="https://mutosi.com/" />
+            <meta name="dc.source" content="" />
+            <meta name="dc.relation" content="" />
             
             <meta name="dc.title" content="Mutosi - Số 1 về chất lượng và dịch vụ" />
             <meta name="dc.keywords" content="Mutosi - Quản trị chất lượng theo chuẩn Nhật Bản với đa dạng sản phẩm chất lượng: Lọc nước, Lọc không khí, Gia dụng Nhà Bếp. ✅ Đạt chuẩn quốc gia. Chăm sóc nước, Chăm sóc khí, Chăm sóc bếp, Chăm sóc gia đình" />
@@ -61,14 +61,6 @@
             {"@context":"https://schema.org","@type":"LocalBusiness","name":"Mutosi - Số 1 về chất lượng và dịch vụ","image":"https://mutosi.com/images/config/logo---2022-01-1_1644300307.png","priceRange":"400000,10000000","@id":"","url":"https://mutosi.com/","telephone":"+84900636595","address":{"@type":"PostalAddress","streetAddress":"Tầng 2, tòa nhà Đại Đông Á (Bea Sky), đường Nguyễn Xiển, phường Đại Kim, Quận Hoàng Mai, Hà Nội","addressLocality":"Hà Nội","postalCode":"","addressCountry":"VN"},"geo":{"@type":"GeoCoordinates","latitude":20.932038,"longitude":105.848944},"openingHoursSpecification":{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],"opens":"07:30","closes":"21:30"},"sameAs":["https://www.facebook.com/MutosiGroup/","https://twitter.com/MutosiGroup","https://www.instagram.com/explore/locations/224650271791508/mutosi-group-chuan-chat-luong-nhat-ban/","https://www.youtube.com/channel/UCbK3Wl0ZRfo3w2GrlJLeoqg","https://mutosi.com/"]}
             </script>
 
-
-
-
-
-</script>
-  
-
-
         </head>
 
         <style type="text/css">
@@ -101,188 +93,7 @@
                     </g>
                 </svg>
             </div>
-            <ul id = 'megamenu2' class="menu mypopup">
-                <li class="level_0 sort">
-                    <a href="https://mutosi.com/ct-gioi-thieu-cong-ty.html" id="menu4_item_861" class="menu_item_a" title="Giới thiệu về Mutosi" >
-                        <span class="icon_svg cls">
-                            <svg  enable-background="new 0 0 24 24" height="20" viewBox="0 0 24 24" width="20" xmlns="http://www.w3.org/2000/svg">
-                                <path d="m5.574 15.362-1.267 7.767c-.101.617.558 1.08 1.103.777l6.59-3.642 6.59 3.643c.54.3 1.205-.154 1.103-.777l-1.267-7.767 5.36-5.494c.425-.435.181-1.173-.423-1.265l-7.378-1.127-3.307-7.044c-.247-.526-1.11-.526-1.357 0l-3.306 7.043-7.378 1.127c-.606.093-.848.83-.423 1.265z"/>
-                            </svg>
-                        </span>
-                        Giới thiệu về Mutosi                
-                    </a>
-                    <!--    LEVEL 1         -->
-                    <span class="drop_down">
-                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                            width="255px" height="255px" viewBox="0 0 255 255" style="enable-background:new 0 0 255 255;" xml:space="preserve">
-                            <g>
-                                <g id="arrow-drop-down">
-                                    <polygon points="0,63.75 127.5,191.25 255,63.75         "/>
-                                </g>
-                            </g>
-                        </svg>
-                    </span>
-                    <div class='highlight'>
-                        <ul class='highlight1'>
-                            <li class='sub-menu sub-menu-level1  '>
-                                <div class="images-sub-menu1">
-                                    <a href="https://mutosi.com/ct-hoi-dong-quan-tri.html" class="level_0 sort sub-menu-item" id="menu2_item_930" title="Hội Đồng Quản Trị"  >
-                                    Hội Đồng Quản Trị                                   </a>
-                                    <div class="image_sub image_sub_0">
-                                        <a href="https://mutosi.com/ct-hoi-dong-quan-tri.html" title="Hội Đồng Quản Trị">
-                                        <img src="https://mutosi.com/" class="grayscale" alt="Hội Đồng Quản Trị" width="192px" height="106px"  />
-                                        </a>
-                                    </div>
-                                </div>
-                                <!--    LEVEL 2         -->
-                                <!--    end LEVEL 2         -->
-                            </li>
-                        </ul>
-                        <div class='menu_desc'></div>
-                    </div>
-                    <!--    end LEVEL 1         -->
-                </li>
-                <li class="level_0 sort">
-                    <a href="https://mutosi.com/he-thong-cua-hang.html" id="menu4_item_865" class="menu_item_a" title="Hệ thống phân phối" >
-                        <span class="icon_svg cls">
-                            <svg width="20" height="20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-                                <g>
-                                    <g>
-                                        <path d="M256,0C161.896,0,85.333,76.563,85.333,170.667c0,28.25,7.063,56.26,20.49,81.104L246.667,506.5 c1.875,3.396,5.448,5.5,9.333,5.5s7.458-2.104,9.333-5.5l140.896-254.813c13.375-24.76,20.438-52.771,20.438-81.021 C426.667,76.563,350.104,0,256,0z M256,256c-47.052,0-85.333-38.281-85.333-85.333c0-47.052,38.281-85.333,85.333-85.333 s85.333,38.281,85.333,85.333C341.333,217.719,303.052,256,256,256z"/>
-                                    </g>
-                                </g>
-                            </svg>
-                        </span>
-                        Hệ thống phân phối              
-                    </a>
-                    <!--    LEVEL 1         -->
-                    <!--    end LEVEL 1         -->
-                </li>
-                <li class="level_0 sort">
-                    <a href="https://mutosi.com/chinh-sach-bao-hanh.html" id="menu4_item_870" class="menu_item_a" title="Chính sách bảo hành" >
-                        <span class="icon_svg cls">
-                            <svg  enable-background="new 0 0 235.067 235.067" height="20" viewBox="0 0 235.067 235.067" width="20" xmlns="http://www.w3.org/2000/svg">
-                                <path d="m206.154 40.373c-.713-.819-1.736-1.305-2.821-1.34-1.081-.098-2.135.38-2.907 1.144l-16.658 16.662c-1.438 1.438-1.536 3.734-.231 5.293 13.019 15.487 20.184 35.166 20.184 55.405s-7.17 39.914-20.184 55.405c-1.305 1.555-1.207 3.851.231 5.293l16.658 16.662c.737.737 1.732 1.148 2.774 1.148.043 0 .09 0 .133-.004 1.085-.035 2.108-.521 2.821-1.34 18.645-21.399 28.913-48.8 28.913-77.161s-10.264-55.768-28.913-77.167z"/>
-                                <path d="m51.531 172.939c-13.019-15.487-20.184-35.166-20.184-55.405s7.17-39.914 20.184-55.405c1.305-1.555 1.207-3.851-.231-5.293l-16.659-16.663c-.768-.764-1.83-1.211-2.907-1.144-1.085.035-2.108.521-2.821 1.34-18.644 21.399-28.913 48.8-28.913 77.161s10.269 55.762 28.913 77.161c.713.819 1.736 1.305 2.821 1.34.043.004.09.004.133.004 1.038 0 2.033-.411 2.774-1.148l16.659-16.663c1.437-1.434 1.539-3.73.231-5.285z"/>
-                                <path d="m56.839 51.3c1.438 1.434 3.738 1.54 5.293.231 15.491-13.015 35.166-20.184 55.405-20.184s39.914 7.17 55.405 20.184c.733.615 1.63.917 2.519.917 1.007 0 2.01-.388 2.774-1.148l16.658-16.662c.764-.768 1.183-1.822 1.144-2.903-.039-1.085-.525-2.108-1.344-2.821-21.39-18.645-48.791-28.914-77.151-28.914s-55.762 10.269-77.157 28.913c-.819.713-1.305 1.732-1.344 2.821-.039 1.081.38 2.135 1.144 2.903z"/>
-                                <path d="m178.232 183.768c-1.438-1.438-3.738-1.544-5.293-.231-15.491 13.015-35.166 20.184-55.405 20.184s-39.914-7.17-55.405-20.184c-1.555-1.312-3.855-1.207-5.293.231l-16.659 16.662c-.764.768-1.183 1.822-1.144 2.903.039 1.085.525 2.108 1.344 2.821 21.391 18.645 48.796 28.913 77.153 28.913s55.762-10.269 77.157-28.913c.819-.713 1.305-1.732 1.344-2.821.039-1.081-.38-2.135-1.144-2.903z"/>
-                                <path d="m120.856 52.769c-.717-1.136-1.967-1.826-3.311-1.83-1.356.035-2.609.686-3.33 1.826-.56.885-14.124 21.673-47.613 21.673-1.042 0-2.041.411-2.774 1.152-.737.737-1.144 1.739-1.144 2.782l.145 38.449c0 19.671 6.449 38.202 18.155 52.165 10.602 12.651 22.899 19.064 36.549 19.064s25.948-6.417 36.549-19.064c11.706-13.963 18.155-32.494 18.155-52.154l.145-38.465c.004-1.042-.407-2.041-1.144-2.782-.737-.737-1.736-1.152-2.774-1.152-33.433.005-47.009-20.72-47.608-21.664zm23.495 51.197c-.407.639-.811 1.277-1.218 1.912-7.436 11.683-14.868 23.366-22.304 35.049-.991 1.559-1.982 3.119-2.978 4.674-.909 1.43-1.763 2.864-3.589 3.185-2.895.505-4.451-2.378-5.92-4.337-1.79-2.386-3.581-4.772-5.367-7.154-1.332-1.779-2.668-3.557-4.004-5.34-.082-.106-.161-.215-.243-.321-1.301-1.728-.948-4.184.784-5.481 1.732-1.293 4.188-.948 5.485.784l8.353 11.138 24.384-38.32c1.16-1.822 3.581-2.359 5.41-1.203 1.83 1.168 2.367 3.589 1.207 5.414z"/>
-                            </svg>
-                        </span>
-                        Chính sách bảo hành             
-                    </a>
-                    <!--    LEVEL 1         -->
-                    <!--    end LEVEL 1         -->
-                </li>
-                <li class="level_0 sort">
-                    <a href="https://mutosi.com/tuyen-dung.html" id="menu4_item_871" class="menu_item_a" title="Tuyển dụng" >
-                        <span class="icon_svg cls">
-                            <svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 28.461 28.461" style="enable-background:new 0 0 28.461 28.461;" xml:space="preserve">
-                                <g>
-                                    <path d="M7.883,7.198H3.977c0,0-3.087,0.134-3.087,3.121v4.113c0,0-0.064,3.446,2.962,3.446c0,0,1.071,0.666,1.071,1.928v7.432 c0,0-0.189,1.193,1.007,1.193c0,0,3.493,0.544,1.762-3.028c1.309-1.349,0.148-2.731,0.148-2.731s1.178-1.126,0.043-2.667 c0,0,1.009-1.394,1.009-2.191l0.062-9.488C8.954,8.325,9.144,7.198,7.883,7.198z M3.336,14.642c0,0.495-0.4,0.897-0.898,0.897 c-0.496,0-0.896-0.402-0.896-0.897v-4.331c0-0.495,0.4-0.896,0.896-0.896c0.498,0,0.898,0.401,0.898,0.896V14.642z"/>
-                                    <path d="M25.777,9.144v-8.67c0-1.135-0.961,0.124-0.961,0.124C20.272,7.656,10.895,7.09,10.895,7.09 c-1.108,0-0.932,0.944-0.932,0.944v8.189c0,0.944,0.988,0.944,0.988,0.944c10.485,0,14.057,6.626,14.057,6.626 s0.826,1.028,0.769-0.043v-8.654c1.061-0.572,1.794-1.683,1.794-2.977C27.571,10.826,26.837,9.716,25.777,9.144z"/>
-                                </g>
-                            </svg>
-                        </span>
-                        Tuyển dụng              
-                    </a>
-                    <!--    LEVEL 1         -->
-                    <!--    end LEVEL 1         -->
-                </li>
-                <li class="level_0 sort">
-                    <a href="https://mutosi.com/tin-tuc.html" id="menu4_item_883" class="menu_item_a" title="Tin tức" >
-                        <span class="icon_svg cls">
-                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 511.999 511.999" style="enable-background:new 0 0 511.999 511.999;" xml:space="preserve">
-                                <g>
-                                    <g>
-                                        <path d="M413.53,82.816V15.652H0v414.766c0,36.354,29.576,65.93,65.93,65.93h380.139c36.354,0,65.93-29.576,65.93-65.93V82.816 H413.53z M65.93,462.956c-17.942,0-32.539-14.598-32.539-32.54V49.043h346.748v381.374c0,11.829,3.148,22.931,8.625,32.539H65.93z M478.609,430.416c0,17.942-14.596,32.539-32.539,32.539s-32.539-14.596-32.539-32.539V116.207h65.077V430.416z"/>
-                                    </g>
-                                </g>
-                                <g>
-                                    <g>
-                                        <polygon points="123.541,87.851 123.541,117.235 100.343,87.851 87.971,87.851 87.971,145.641 103.844,145.641 103.844,117.235 126.797,145.641 139.412,145.641 139.412,87.851      "/>
-                                    </g>
-                                </g>
-                                <g>
-                                    <g>
-                                        <polygon points="165.215,131.804 165.215,122.687 186.214,122.687 186.214,109.827 165.215,109.827 165.215,101.689 189.795,101.689 189.795,87.851 149.341,87.851 149.341,145.641 190.527,145.641 190.527,131.804 "/>
-                                    </g>
-                                </g>
-                                <g>
-                                    <g>
-                                        <polygon points="262.804,87.851 250.351,127.49 246.2,115.444 255.723,87.851 241.153,87.851 236.025,105.677 230.98,87.851 216.41,87.851 225.771,115.444 221.782,127.49 209.247,87.851 192.072,87.851 214.701,145.641 227.886,145.641 236.025,124.967 244.247,145.641 257.432,145.641 280.06,87.851   "/>
-                                    </g>
-                                </g>
-                                <g>
-                                    <g>
-                                        <path d="M308.141,110.072c-6.674-2.116-10.743-2.767-10.743-5.779c0-2.035,1.871-2.849,4.639-2.849 c6.919,0,15.302,5.29,15.302,5.29l6.837-13.105c-5.209-2.605-13.268-6.268-21.651-6.268c-11.396,0-21.571,6.755-21.571,19.535 c0,8.466,4.478,12.78,14.652,16.198c6.919,2.36,12.86,3.093,12.86,6.43c0,1.546-1.221,2.523-4.639,2.523 c-8.872,0-18.558-6.349-18.558-6.349l-6.837,13.919c6.919,4.069,16.767,6.756,25.151,6.756c10.744,0,21.976-4.477,21.976-18.395 C325.56,117.153,318.803,113.409,308.141,110.072z"/>
-                                    </g>
-                                </g>
-                                <g>
-                                    <g>
-                                        <path d="M178.945,283.822v144.692h174.216V283.822H178.945z M319.77,395.123H212.336v-77.91H319.77V395.123z"/>
-                                    </g>
-                                </g>
-                                <g>
-                                    <g>
-                                        <rect x="60.372" y="395.118" width="83.38" height="33.391"/>
-                                    </g>
-                                </g>
-                                <g>
-                                    <g>
-                                        <rect x="60.372" y="283.825" width="83.38" height="33.391"/>
-                                    </g>
-                                </g>
-                                <g>
-                                    <g>
-                                        <rect x="60.372" y="172.521" width="292.92" height="33.391"/>
-                                    </g>
-                                </g>
-                                <g>
-                                    <g>
-                                        <rect x="60.372" y="339.477" width="83.38" height="33.391"/>
-                                    </g>
-                                </g>
-                                <g>
-                                    <g>
-                                        <rect x="60.372" y="228.173" width="292.92" height="33.391"/>
-                                    </g>
-                                </g>
-                            </svg>
-                        </span>
-                        Tin tức             
-                    </a>
-                    <!--    LEVEL 1         -->
-                    <!--    end LEVEL 1         -->
-                </li>
-                <li class="level_0 sort">
-                    <a href="https://mutosi.com/lien-he.html" id="menu4_item_884" class="menu_item_a" title="Liên hệ" >
-                        <span class="icon_svg cls">
-                            <svg enable-background="new 0 0 511.34 511.34" height="20" viewBox="0 0 511.34 511.34" width="20" xmlns="http://www.w3.org/2000/svg">
-                                <path d="m403.581 1.573c-3.455-.746-6.15 2.999-4.28 5.998 10.16 16.294 16.036 35.523 16.036 56.099v384c0 20.576-5.876 39.805-16.036 56.099-1.87 2.999.825 6.744 4.28 5.998 31.066-6.708 54.419-34.383 54.419-67.427v-373.34c0-33.044-23.353-60.719-54.419-67.427z"/>
-                                <path d="m318.167 0c-89.496 0-232.433 0-243.827 0-11.598 0-21 9.402-21 21v469.34c0 11.598 9.402 21 21 21h243.827c31.147-4.463 55.17-31.308 55.17-63.67v-384c0-32.362-24.023-59.207-55.17-63.67zm-19.831 362.003c-11.598 0-21-9.402-21-21 0-35.474-28.86-64.333-64.333-64.333-35.474 0-64.333 28.859-64.333 64.333 0 11.598-9.402 21-21 21s-21-9.402-21-21c0-39.466 21.614-73.978 53.625-92.324-28.476-41.935 1.606-99.342 52.705-99.342s81.179 57.405 52.707 99.339c32.014 18.346 53.63 52.859 53.63 92.327-.001 11.598-9.402 21-21.001 21z"/>
-                                <path d="m213 234.67c11.947 0 21.667-9.72 21.667-21.667 0-11.946-9.72-21.666-21.667-21.666s-21.667 9.72-21.667 21.666c0 11.947 9.72 21.667 21.667 21.667z"/>
-                            </svg>
-                        </span>
-                        Liên hệ             
-                    </a>
-                    <!--    LEVEL 1         -->
-                    <!--    end LEVEL 1         -->
-                </li>
-                <li class="level_0 sort">
-                    <a href="https://mutosi.com/ho-tro.html" id="menu4_item_925" class="menu_item_a" title="Hỗ trợ" >
-                        <span class="icon_svg cls">
-                            <svg height="12px" viewBox="0 0 512 512" width="12px" xmlns="http://www.w3.org/2000/svg">
-                                <path d="m256 0c-141.164062 0-256 114.835938-256 256s114.835938 256 256 256 256-114.835938 256-256-114.835938-256-256-256zm0 405.332031c-11.777344 0-21.332031-9.554687-21.332031-21.332031s9.554687-21.332031 21.332031-21.332031 21.332031 9.554687 21.332031 21.332031-9.554687 21.332031-21.332031 21.332031zm33.769531-135.636719c-7.550781 3.476563-12.4375 11.09375-12.4375 19.394532v9.578125c0 11.773437-9.535156 21.332031-21.332031 21.332031s-21.332031-9.558594-21.332031-21.332031v-9.578125c0-24.898438 14.632812-47.722656 37.226562-58.15625 21.738281-10.003906 37.4375-36.566406 37.4375-49.601563 0-29.394531-23.914062-53.332031-53.332031-53.332031s-53.332031 23.9375-53.332031 53.332031c0 11.777344-9.539063 21.335938-21.335938 21.335938s-21.332031-9.558594-21.332031-21.335938c0-52.925781 43.070312-96 96-96s96 43.074219 96 96c0 28.824219-25.003906 71.191407-62.230469 88.363281zm0 0"/>
-                            </svg>
-                        </span>
-                        Hỗ trợ              
-                    </a>
-                    <!--    LEVEL 1         -->
-                    <!--    end LEVEL 1         -->
-                </li>
-                <!--    CHILDREN                -->
-            </ul>
+            
         </div>
         <div class="clear"></div>
     </div>
@@ -337,7 +148,7 @@
                     </span>
                     <span class="phone_text">
                         <span class="hotline_phone">
-                        <span><span class="text">Hotline: </span><a href="tel:1900 636 595" title="call to:1900 636 595">1900 636 595</a></span>
+                        <span><span class="text">Hotline: </span><a href="tel:1900 636 595" title="call to:1900 636 595">0123456789</a></span>
                         </span>
                         <!-- <span class="hotline_phone">
                             <span><span class="text">Khiếu nại: </span><a href="tel:" title="Hotline khiếu nại: "></a></span>
@@ -345,28 +156,7 @@
                     </span>
                 </li>
             </ul>
-            <div id="langug" >
-                <div class="mega-right level_0 sort dropdown cls" id="languges" >
-                    <div class="dropbtn">
-                        <a id="lang-vi"  class="a-flag active-lang" href="https://mutosi.com/" >
-                        <span class="flag flag-vi"></span>
-                        <span class="name-lang">VN</span>
-                        </a>
-                    </div>
-                    <div class="dropdown-content">
-                        <div class="back_dropdown">
-                            <a id="lang-en" class="a-flag " href="https://mutosi.com/en">
-                            <span class="flag flag-en"></span>
-                            <span class="name-lang">EN</span>
-                            </a>
-                            <a id="lang-jp" class="a-flag " href="https://mutosi.com/jp">
-                            <span class="flag flag-jp"></span>
-                            <span class="name-lang">JP</span>
-                            </a> 
-                        </div>
-                    </div>
-                </div>
-            </div>
+           
         </div>
         <div class="dcjq-mega-menu-mobile">
             <div class="sb-toggle-left navbar-left">
@@ -469,7 +259,7 @@
                     <!--    end LEVEL 1         -->
                 </li>
                 <li class="level_0 sort " id="level_895" >
-                    <a href="https://mutosi.com/cham-soc-bep" id="menu6_item_895" class="menu_item_a" title="Chăm sóc bếp">
+                    <a href="#" id="menu6_item_895" class="menu_item_a" title="Chăm sóc bếp">
                         <span class="icon_svg cls">
                             <svg  height="50" viewBox="0 0 512 512" width="50" xmlns="http://www.w3.org/2000/svg">
                                 <path d="m272 296a8.008 8.008 0 0 0 -8-8h-48a8.008 8.008 0 0 0 -8 8v8h64z"/>
@@ -500,61 +290,61 @@
                         <ul class='highlight1 container'>
                             <li class='sub-menu sub-menu-level1'>
                                 <div class="images-sub-menu1">
-                                    <a href="https://mutosi.com/bep-tu" class="level_0 sort sub-menu-item" id="menu1_item_15" title="Bếp từ">
+                                    <a href="#" class="level_0 sort sub-menu-item" id="menu1_item_15" title="Bếp từ">
                                     Bếp từ                                  </a>
                                 </div>
                             </li>
                             <li class='sub-menu sub-menu-level1'>
                                 <div class="images-sub-menu1">
-                                    <a href="https://mutosi.com/bep-ga" class="level_0 sort sub-menu-item" id="menu1_item_59" title="Bếp Ga">
+                                    <a href="#" class="level_0 sort sub-menu-item" id="menu1_item_59" title="Bếp Ga">
                                     Bếp Ga                                  </a>
                                 </div>
                             </li>
                             <li class='sub-menu sub-menu-level1'>
                                 <div class="images-sub-menu1">
-                                    <a href="https://mutosi.com/bo-noi-chao" class="level_0 sort sub-menu-item" id="menu1_item_60" title="Bộ nồi chảo">
+                                    <a href="#" class="level_0 sort sub-menu-item" id="menu1_item_60" title="Bộ nồi chảo">
                                     Bộ nồi chảo                                 </a>
                                 </div>
                             </li>
                             <li class='sub-menu sub-menu-level1'>
                                 <div class="images-sub-menu1">
-                                    <a href="https://mutosi.com/may-hut-mui" class="level_0 sort sub-menu-item" id="menu1_item_61" title="Máy hút mùi">
+                                    <a href="#" class="level_0 sort sub-menu-item" id="menu1_item_61" title="Máy hút mùi">
                                     Máy hút mùi                                 </a>
                                 </div>
                             </li>
                             <li class='sub-menu sub-menu-level1'>
                                 <div class="images-sub-menu1">
-                                    <a href="https://mutosi.com/noi-ap-suat" class="level_0 sort sub-menu-item" id="menu1_item_39" title="Nồi áp suất">
+                                    <a href="#" class="level_0 sort sub-menu-item" id="menu1_item_39" title="Nồi áp suất">
                                     Nồi áp suất                                 </a>
                                 </div>
                             </li>
                             <li class='sub-menu sub-menu-level1'>
                                 <div class="images-sub-menu1">
-                                    <a href="https://mutosi.com/noi-com-dien" class="level_0 sort sub-menu-item" id="menu1_item_36" title="Nồi cơm điện">
+                                    <a href="#" class="level_0 sort sub-menu-item" id="menu1_item_36" title="Nồi cơm điện">
                                     Nồi cơm điện                                    </a>
                                 </div>
                             </li>
                             <li class='sub-menu sub-menu-level1'>
                                 <div class="images-sub-menu1">
-                                    <a href="https://mutosi.com/may-ep-cham" class="level_0 sort sub-menu-item" id="menu1_item_40" title="Máy ép chậm">
+                                    <a href="#" class="level_0 sort sub-menu-item" id="menu1_item_40" title="Máy ép chậm">
                                     Máy ép chậm                                 </a>
                                 </div>
                             </li>
                             <li class='sub-menu sub-menu-level1'>
                                 <div class="images-sub-menu1">
-                                    <a href="https://mutosi.com/am-dun-sieu-toc" class="level_0 sort sub-menu-item" id="menu1_item_42" title="Ấm đun siêu tốc">
+                                    <a href="#" class="level_0 sort sub-menu-item" id="menu1_item_42" title="Ấm đun siêu tốc">
                                     Ấm đun siêu tốc                                 </a>
                                 </div>
                             </li>
                             <li class='sub-menu sub-menu-level1'>
                                 <div class="images-sub-menu1">
-                                    <a href="https://mutosi.com/noi-chien-khong-dau" class="level_0 sort sub-menu-item" id="menu1_item_4" title="Nồi chiên không dầu">
+                                    <a href="#" class="level_0 sort sub-menu-item" id="menu1_item_4" title="Nồi chiên không dầu">
                                     Nồi chiên không dầu                                 </a>
                                 </div>
                             </li>
                             <li class='sub-menu sub-menu-level1'>
                                 <div class="images-sub-menu1">
-                                    <a href="https://mutosi.com/may-xay" class="level_0 sort sub-menu-item" id="menu1_item_64" title="Máy xay">
+                                    <a href="#" class="level_0 sort sub-menu-item" id="menu1_item_64" title="Máy xay">
                                     Máy xay                                 </a>
                                 </div>
                             </li>
@@ -564,7 +354,7 @@
                     <!--    end LEVEL 1         -->
                 </li>
                 <li class="level_0 sort " id="level_897" >
-                    <a href="https://mutosi.com/cham-soc-khi" id="menu6_item_897" class="menu_item_a" title="Chăm sóc khí">
+                    <a href="#" id="menu6_item_897" class="menu_item_a" title="Chăm sóc khí">
                         <span class="icon_svg cls">
                             <svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
                                 <g>
@@ -1130,15 +920,15 @@
 
  <!--Trên Footer-->
     <div class="by_fastform">
-        <img  class="lazy left_image" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower.png.webp">
+        <img  class="lazy left_image" alt="flower" data-src="#" data-srcset="#">
         <div class="container">
             <div class="img_flower">
-                <img  class="lazy item" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower_a.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower_a.png.webp">         
-                <img  class="lazy item" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower_a.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower_a.png.webp">         
-                <img  class="lazy item" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower_a.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower_a.png.webp">         
-                <img  class="lazy item" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower_a.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower_a.png.webp">         
-                <img  class="lazy item" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower_a.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower_a.png.webp">         
-                <img  class="lazy item" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/flower_a.png" data-srcset="https://mutosi.com/templates/mutosi/images/flower_a.png.webp">         
+                <img  class="lazy item" alt="flower" data-src="#" data-srcset="#">         
+                <img  class="lazy item" alt="flower" data-src="#" data-srcset="#">         
+                <img  class="lazy item" alt="flower" data-src="#" data-srcset="#">         
+                <img  class="lazy item" alt="flower" data-src="#" data-srcset="#">         
+                <img  class="lazy item" alt="flower" data-src="#" data-srcset="#">         
+                <img  class="lazy item" alt="flower" data-src="#" data-srcset="#">         
             </div>
             <div class="wrap-by-fast cls">
                 <div class="item">
@@ -1151,7 +941,7 @@
                 </div>
                 <div class="buy_fast">
                     <div class="">
-                        <form action="" name="buy_fast_form" id="buy_fast_form" method="post" onsubmit="javascript: return submit_form_buy_fast();" >
+                        <form action="#" name="buy_fast_form" id="buy_fast_form" method="post" onsubmit="javascript: " >
                             <div class="cls buy_fast_body">
                                 <input type="text" value="" placeholder="Nhập SĐT/Zalo/Email"" id="telephone_buy_fast" name="email_buy_fast" class="keyword input-text" />
                                 <button type="submit" class="button-buy-fast button">
@@ -1177,7 +967,7 @@
                 </div>
             </div>
         </div>
-        <img  class="lazy right_image" alt="flower" data-src="https://mutosi.com/templates/mutosi/images/home_r.png" data-srcset="https://mutosi.com/templates/mutosi/images/home_r.png.webp">
+        <img  class="lazy right_image" alt="flower" data-src="#" data-srcset="#">
     </div>
     <div class="form_fast hide clear" id="form_fast">
         <div class="container">
@@ -1256,164 +1046,11 @@
     <div class="container cls">
         <div class="footer_top">
             <div class="all-hotline-ft cls">
-                <p><span style="font-size:20px"><span style="color:#b3208b"><strong>C&Ocirc;NG TY CỔ PHẦN TẬP ĐO&Agrave;N&nbsp;MUTOSI</strong></span></span></p>
-                <ul>
-                    <li><span style="font-family:Arial,Helvetica,sans-serif"><strong>Văn ph&ograve;ng đại diện:&nbsp;</strong>Tầng 2, t&ograve;a nh&agrave; Đại Đ&ocirc;ng &Aacute;&nbsp;(Bea Sky), đường Nguyễn Xiển, phường Đại Kim, Quận Ho&agrave;ng Mai, H&agrave; Nội</span></li>
-                    <li><span style="font-family:Arial,Helvetica,sans-serif"><strong>Chi nh&aacute;nh Miền Nam:</strong> 17A, Trường&nbsp;Chinh, Quận&nbsp;12, Th&agrave;nh phố Hồ Ch&iacute; Minh</span></li>
-                    <li><span style="font-family:Arial,Helvetica,sans-serif"><strong>Địa chỉ ĐKKD:&nbsp;</strong>Số 31, ng&otilde; 83 Đường Ngọc Hồi, TTXN Vận tải &Ocirc; t&ocirc; số 8, Phường Ho&agrave;ng Liệt, Quận Ho&agrave;ng Mai, Th&agrave;nh phố H&agrave; Nội, Việt Nam</span></li>
-                    <li><strong>Hotline</strong>:<strong>&nbsp;<span style="color:#b3208b">1900 636 595</span></strong></li>
-                    <li><strong>Email:</strong>&nbsp;<strong><span style="color:#b3208b">info@mutosi.com</span></strong></li>
-                    <li><span style="font-size:14px"><strong>Mua h&agrave;ng:</strong>&nbsp;<strong><span style="color:#b3208b">thinhlv@mutosi.com</span></strong></span></li>
-                </ul>
+             
+                
             </div>
             <div class="footer-menu cls">
-                <ul class="menu-bottom cls">
-                    >
-                    <span class='click-mobile' data-id='menu-sub1'></span>  <span data-id='item_1'>     Sản phẩm    </span>     
-                    <ul id='menu-sub1'>
-                        <li class='  level1  first-sitem ' >
-                            <a href='https://mutosi.com/cham-soc-nuoc-pc45.html' title='Chăm sóc nước'>     Chăm sóc nước   </a>
-                        </li>
-                        <li class='  level1  mid-sitem ' >
-                            <a href='https://mutosi.com/cham-soc-khi-pc48.html' title='Chăm sóc khí'>       Chăm sóc khí    </a>
-                        </li>
-                        <li class='  level1  mid-sitem ' >
-                            <a href='https://mutosi.com/cham-soc-bep-pc46.html' title='Chăm sóc bếp'>       Chăm sóc bếp    </a>
-                        </li>
-                        <li class='  level1  mid-sitem ' >
-                            <a href='https://mutosi.com/cham-soc-moi-truong-pc47.html' title='Chăm sóc môi trường'>     Chăm sóc môi trường     </a>
-                        </li>
-                    </ul>
-                    </li>
-                    <li class='  level0 menu-item' >
-                        <span class='click-mobile' data-id='menu-sub6'></span>  <a href='https://mutosi.com/cham-soc-nuoc' title='CHĂM SÓC NƯỚC'>       CHĂM SÓC NƯỚC   </a>
-                        <ul id='menu-sub6'>
-                            <li class='  level1  first-sitem ' >
-                                <a href='https://mutosi.com/may-loc-nuoc' title='Máy lọc nước'>     Máy lọc nước    </a>
-                            </li>
-                            <li class='  level1  mid-sitem ' >
-                                <a href='https://mutosi.com/cay-nuoc-nong-lanh' title='Cây nước nóng lạnh'>     Cây nước nóng lạnh  </a>
-                            </li>
-                            <li class='  level1  mid-sitem ' >
-                                <a href='https://mutosi.com/may-loc-nuoc-nong-lanh-nguoi' title='MLN Nóng Lạnh Nguội'>      MLN Nóng Lạnh Nguội     </a>
-                            </li>
-                            <li class='  level1  mid-sitem ' >
-                                <a href='https://mutosi.com/linh-kien-loc-nuoc' title='Linh kiện lọc nước'>     Linh kiện lọc nước  </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class='  level0 menu-item' >
-                        <span class='click-mobile' data-id='menu-sub11'></span> <a href='https://mutosi.com/cham-soc-bep' title='CHĂM SÓC BẾP'>     CHĂM SÓC BẾP    </a>
-                        <ul id='menu-sub11'>
-                            <li class='  level1  first-sitem ' >
-                                <a href='https://mutosi.com/noi-com-dien' title='Nồi cơm điện'>     Nồi cơm điện    </a>
-                            </li>
-                            <li class='  level1  mid-sitem ' >
-                                <a href='https://mutosi.com/may-ep-cham' title='Máy Ép chậm'>       Máy Ép chậm     </a>
-                            </li>
-                            <li class='  level1  mid-sitem ' >
-                                <a href='https://mutosi.com/am-dun-sieu-toc' title='Ấm đun siêu tốc'>       Ấm đun siêu tốc     </a>
-                            </li>
-                            <li class='  level1  mid-sitem ' >
-                                <a href='https://mutosi.com/noi-chien-khong-dau' title='Nồi chiên không dầu'>       Nồi chiên không dầu     </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class='  level0 menu-item' >
-                        <span class='click-mobile' data-id='menu-sub16'></span> <span data-id='item_16'>        GIỚI THIỆU  </span>     
-                        <ul id='menu-sub16'>
-                            <li class='  level1  first-sitem ' >
-                                <a href='https://mutosi.com/ct-gioi-thieu-cong-ty.html' title='Về chúng tôi'>       Về chúng tôi    </a>
-                            </li>
-                            <li class='  level1  mid-sitem ' >
-                                <a href='https://mutosi.com/lien-he.html' title='Dự án triển khai'>     Dự án triển khai    </a>
-                            </li>
-                            <li class='  level1  mid-sitem ' >
-                                <a href='https://mutosi.com/danh-muc-tin/trach-nhiem-xa-hoi.html' title='Trách nhiệm xã hội'>       Trách nhiệm xã hội  </a>
-                            </li>
-                            <li class='  level1  mid-sitem ' >
-                                <a href='https://mutosi.com/ct-tuyen-dung.html' title='Tuyển dụng'>     Tuyển dụng  </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class='  level0 menu-item' >
-                        <span class='click-mobile' data-id='menu-sub21'></span> <a href='https://mutosi.com/tin-tuc.html' title='TIN TỨC'>      TIN TỨC     </a>
-                        <ul id='menu-sub21'>
-                            <li class='  level1  first-sitem ' >
-                                <a href='https://mutosi.com/danh-muc-tin/ban-tin-mutosi.html' title='Tin nội bộ'>       Tin nội bộ  </a>
-                            </li>
-                            <li class='  level1  mid-sitem ' >
-                                <a href='https://mutosi.com/danh-muc-tin/tin-khuyen-mai.html' title='Tin khuyến mãi'>       Tin khuyến mãi  </a>
-                            </li>
-                            <li class='  level1  mid-sitem ' >
-                                <a href='https://mutosi.com/danh-muc-tin/kinh-nghiem-hay.html' title='Kinh nghiệm hay'>     Kinh nghiệm hay     </a>
-                            </li>
-                            <li class='  level1  mid-sitem ' >
-                                <a href='https://mutosi.com/danh-muc-tin/tin-san-pham.html' title='Tin sản phẩm'>       Tin sản phẩm    </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class='  level0 menu-item' >
-                        <span class='click-mobile' data-id='menu-sub26'></span> <span data-id='item_26'>        HỖ TRỢ - DỊCH VỤ    </span>     
-                        <ul id='menu-sub26'>
-                            <li class='  level1  first-sitem ' >
-                                <a href='https://mutosi.com/chinh-sach-bao-hanh.html' title='Đăng ký bảo hành'>     Đăng ký bảo hành    </a>
-                            </li>
-                            <li class='  level1  mid-sitem ' >
-                                <a href='https://mutosi.com/chinh-sach-bao-hanh.html' title='Tra cứu bảo hành'>     Tra cứu bảo hành    </a>
-                            </li>
-                            <li class='  level1  mid-sitem ' >
-                                <a href='https://mutosi.com/he-thong-cua-hang.html' title='Hệ thống phân phối'>     Hệ thống phân phối  </a>
-                            </li>
-                            <li class='  level1  mid-sitem ' >
-                                <a href='https://mutosi.com/ct-chinh-sach-dai-ly-mutosi.html' title='Chính sách đại lý'>        Chính sách đại lý   </a>
-                            </li>
-                            <li class='  level1  mid-sitem ' >
-                                <a href='https://mutosi.com/site-map.html' title='Sơ đồ trang web'>     Sơ đồ trang web     </a>
-                            </li>
-                            <li class='  level1  mid-sitem ' >
-                                <a href='https://mutosi.com/ct-chuong-trinh-dich-vu-khach-hang.html' title='Chương trình dịch vụ khách hàng'>       Chương trình dịch vụ khách hàng     </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class='  level0 menu-item' >
-                        <span class='click-mobile' data-id='menu-sub33'></span> <span data-id='item_33'>        CHÍNH SÁCH MUTOSI   </span>     
-                        <ul id='menu-sub33'>
-                            <li class='  level1  first-sitem ' >
-                                <a href='https://mutosi.com/chinh-sach-bao-hanh.html' title='Chính sách bảo hành'>      Chính sách bảo hành     </a>
-                            </li>
-                            <li class='  level1  mid-sitem ' >
-                                <a href='https://mutosi.com/ct-chinh-sach-van-chuyen.html' title='Chính sách giao hàng'>        Chính sách giao hàng    </a>
-                            </li>
-                            <li class='  level1  mid-sitem ' >
-                                <a href='https://mutosi.com/ct-chinh-sach-thanh-toan.html' title='Chính sách thanh toán'>       Chính sách thanh toán   </a>
-                            </li>
-                            <li class='  level1  mid-sitem ' >
-                                <a href='https://mutosi.com/ct-chinh-sach-doi-tra-lai-hang.html' title='Chính sách đổi trả hàng'>       Chính sách đổi trả hàng     </a>
-                            </li>
-                            <li class='  level1  mid-sitem ' >
-                                <a href='https://mutosi.com/ct-chinh-sach-bao-mat-thong-tin-khach-hang.html' title='Chính sách bảo mật thông tin khách hàng'>       Chính sách bảo mật thông tin khách hàng     </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class='  level0 menu-item' >
-                        <span class='click-mobile' data-id='menu-sub39'></span> <a href='https://mutosi.com/he-thong-cua-hang.html' title='TÌM CỬA HÀNG'>       TÌM CỬA HÀNG    </a>
-                        <ul id='menu-sub39'>
-                            <li class='  level1  first-sitem ' >
-                                <span>      Tư vấn mua hàng: <br>0247.300.3188  </span>
-                            </li>
-                            <li class='  level1  mid-sitem ' >
-                                <span>      Hotline: 1900 636 595   </span>
-                            </li>
-                            <li class='  level1  mid-sitem ' >
-                                <span>      Hỗ trợ xử lý sự cố: <br>1900 636 595    </span>
-                            </li>
-                            <li class='  level1  mid-sitem ' >
-                                <a href='https://mutosi.com/lien-he.html' title='Liên hệ'>      Liên hệ     </a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
+              
             </div>
             <div class="footer_r cls">
                 <div class="share_fast_small">
@@ -1454,7 +1091,7 @@
                     </div>
                     <div class="clear"></div>
                 </div>
-                <div class="copyright"><span>© MUTOSI GROUP</span> All Rights Reserved</div>
+                <div class="copyright"><span>© </span> All Rights Reserved</div>
             </div>
         </div>
         <div class="clear"></div>

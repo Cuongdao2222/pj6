@@ -21,6 +21,11 @@
         width: 194px;
     }
 
+    .owl-next, .owl-prev{
+        display: none;
+    }
+
+
     .modal-body ul li, .content ul li{
            list-style: disc !important;     
     }
@@ -52,13 +57,14 @@
     }
 
     .fa-angle-left{
-
+         display: none;
         position: absolute;
         top: 50%;
         left: 0;
     }
 
     .fa-angle-right{
+        display: none;
         position: absolute;
         top: 50%;
         right: 0;
@@ -66,6 +72,8 @@
     .select-gift{
         display: flex;
     }
+
+
 
 
 
