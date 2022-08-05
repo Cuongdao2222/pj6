@@ -68,6 +68,14 @@
                 background: #044418 !important;
             }
 
+             @media only screen and (min-width: 768px) {
+                .search_form{
+                   
+                    display: none;
+                       
+                }
+            }
+
         </style>
 
         <body  >
