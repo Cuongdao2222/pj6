@@ -49,7 +49,7 @@
              @stack('style')
 
             <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">           
-            <link type='image/x-icon'   href='https://mutosi.com/favicon.ico' rel='icon' />     
+            <link type='image/x-icon'   href='{{ asset('images/icon/favicon.png') }}' rel='icon' />     
             <meta name="geo.placename" content="H&agrave; Nội" />
             <meta name="geo.region" content="VN-HN" />
             <meta name="geo.position" content="21;105.83" />
