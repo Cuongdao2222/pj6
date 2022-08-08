@@ -109,6 +109,13 @@
 </div>
 <div class="header_wraper cls" >
     <div class="container cls">
+
+        <div class="logo_top">
+            <a class="logo" href="/" title="Mutosi chăm sóc sức khoẻ gia đình bạn">
+            <img class="logo_img" src="{{ asset('images/logo.svg') }}" alt="Mutosi chăm sóc sức khoẻ gia đình bạn" / style="width: 295px; height: 140px;">
+            </a>
+        </div>
+        
         <div class='search_home'>
             <div id="search" class="search search-contain s_close ">
                 <div class="search-content">
@@ -138,11 +145,7 @@
                 </div>
             </div>
         </div>
-        <div class="logo_top">
-            <a class="logo" href="/" title="Mutosi chăm sóc sức khoẻ gia đình bạn">
-            <img class="logo_img" src="{{ asset('images/logo.svg') }}" alt="Mutosi chăm sóc sức khoẻ gia đình bạn" / style="width: 295px; height: 140px;">
-            </a>
-        </div>
+       
         <div class="header_line">
             <ul>
                 <li>

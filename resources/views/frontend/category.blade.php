@@ -356,7 +356,7 @@
             type: 'POST',
             url: "{{ route('rate-form') }}",
             data: {
-                product_id: {{ $data->id??'' }},
+                product_id: '{{ $data->id??'' }}',
                 email:$('#email0').val(),
                 name:$('#name0').val(),
                 content:$('#content0').val(),
