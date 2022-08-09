@@ -310,6 +310,7 @@ class productController extends AppBaseController
 
     public function FindbyNameOrModel(Request $request)
     {
+
         $clearData = trim($request->search);
 
         $data      = strip_tags($clearData);
@@ -331,6 +332,7 @@ class productController extends AppBaseController
 
         
         if(isset($resultProduct)){
+
 
             $products = Product::whereIn('id', $resultProduct)->paginate(50);
 
@@ -408,7 +410,8 @@ class productController extends AppBaseController
 
     public function FindbyNameOrModelOfFrontend(Request $request)
     {
-        $clearData = trim($request->key);
+
+        $clearData = trim($request->keyword);
 
         $datas      = strip_tags($clearData);
 
@@ -480,6 +483,7 @@ class productController extends AppBaseController
         }
 
         $page_search = 'filterFe';
+
         if(isset($resultProduct)){
 
             $data = Product::whereIn('id', $resultProduct)->paginate(10);
