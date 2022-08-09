@@ -313,34 +313,7 @@
            
         });
     
-        $("#rate-form").validate({
-            rules: {
-                name: "required",
-                content: "required",
-                email: {
-                    required: true,
-                    email: true
-                },
-               
-            },
-             messages: {
-                name: "vui lòng nhập tên",
-                content: "vui lòng nhập đánh giá",
-               
-                email: {
-                    required: "vui lòng nhập địa chỉ email",
-                    email: "vui lòng nhập đúng định dạng email"
-                },
-              
-            },
-            submitHandler: function(form) {
-                
-              postComment();
-    
-            }
-           
-    
-        }); 
+      
     
     });  
     
@@ -579,6 +552,38 @@
             }
         }
     });
+
+     $( "#sort-by-option" ).bind( "change", function() {
+                
+            $.ajaxSetup({
+                headers: {
+                    'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+                }
+            });
+
+
+            $.ajax({
+   
+            type: 'POST',
+                url: "{{ route('filter-option') }}",
+                data: {
+                    json_id_product: $('.lists-id').text(),
+                    action:$(this).val(),
+                    idcate: {{ $id_cate??'' }}
+                    
+                },
+                success: function(result){
+
+                    $('.container-productbox').html('');
+
+                    $('.container-productbox').html(result);
+
+                
+
+                }
+            });
+
+        });
 
     @if(!empty($text))
 
