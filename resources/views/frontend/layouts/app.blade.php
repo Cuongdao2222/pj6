@@ -76,6 +76,16 @@
                 }
             }
 
+            @media only screen and (min-width: 767px) {
+
+                .logo_top{
+                    left: 0 !important;
+                }
+                .header_wraper .search_home {
+                    left: 40%;
+                }    
+
+            }    
             
         </style>
 
