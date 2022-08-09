@@ -32,14 +32,15 @@
         <div class="sort-select ">
             <label for="standard-select">Xếp theo</label>
             <div class="select">
-              <select id="sort-by-option">
-                <option value="id">Nổi bật</option>
-                <option value="asc">Giá tăng dần</option>
-                <option value="desc">Giá giảm dần</option>
-              </select>
+                <select id="sort-by-option">
+                    <option value="id">Nổi bật</option>
+                    <option value="asc">Giá tăng dần</option>
+                    <option value="desc">Giá giảm dần</option>
+                </select>
             </div>
         </div>
     </div>
+
     <div class="clearfix"></div>
     <div class="container-productbox">
         <!-- <div id="preloader">
